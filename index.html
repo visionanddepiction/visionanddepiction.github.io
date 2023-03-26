@@ -3,20 +3,23 @@
 <head>
 	<meta charset="utf-8">
 	<title>Conference on Visual Perception and Depiction</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<style>
 		body {
 			font-family: Arial, sans-serif;
-			background-color: #f2f2f2;
-			color: #333;
+			background-color: #2f3e46;
+			color: #fff;
+			margin: 0;
+			padding: 0;
 		}
 		h1 {
-			color: #e84c3d;
+			color: #f09a36;
 			text-align: center;
-			margin-top: 50px;
-			margin-bottom: 50px;
+			margin-top: 40px;
+			margin-bottom: 40px;
 		}
 		.container {
-			max-width: 1000px;
+			max-width: 1200px;
 			margin: 0 auto;
 			padding: 20px;
 			background-color: #fff;
@@ -27,11 +30,12 @@
 			display: flex;
 			flex-wrap: wrap;
 			justify-content: space-between;
-			margin-top: 50px;
-			margin-bottom: 50px;
+			margin-top: 40px;
+			margin-bottom: 40px;
 		}
 		.artwork img {
-			max-width: 30%;
+			max-width: 100%;
+			height: auto;
 			margin-bottom: 20px;
 			border-radius: 5px;
 			box-shadow: 0 2px 5px rgba(0,0,0,0.3);
@@ -39,7 +43,7 @@
 		.button {
 			display: inline-block;
 			padding: 10px 20px;
-			background-color: #e84c3d;
+			background-color: #f09a36;
 			color: #fff;
 			font-size: 18px;
 			font-weight: bold;
@@ -51,7 +55,17 @@
 			transition: background-color 0.3s ease;
 		}
 		.button:hover {
-			background-color: #d6392a;
+			background-color: #008080;
+		}
+
+		/* Responsive styles */
+		@media only screen and (max-width: 768px) {
+			.container {
+				padding: 10px;
+			}
+			.artwork img {
+				max-width: 48%;
+			}
 		}
 	</style>
 </head>
@@ -60,12 +74,12 @@
 	<div class="container">
 		<p>Welcome to the Conference on Visual Perception and Depiction. This event brings together experts from various fields to explore the ways in which we perceive and depict the world around us. Through talks, workshops, and exhibitions, we will delve into the latest research and techniques in this fascinating area of study.</p>
 		<div class="artwork">
-			<img src="https://via.placeholder.com/300x300?text=Artwork+1">
-			<img src="https://via.placeholder.com/300x300?text=Artwork+2">
-			<img src="https://via.placeholder.com/300x300?text=Artwork+3">
-			<img src="https://via.placeholder.com/300x300?text=Artwork+4">
-			<img src="https://via.placeholder.com/300x300?text=Artwork+5">
-			<img src="https://via.placeholder.com/300x300?text=Artwork+6">
+			<img src="https://via.placeholder.com/600x600/ffa500/000000?text=Artwork+1">
+			<img src="https://via.placeholder.com/600x600/008080/FFFFFF?text=Artwork+2">
+			<img src="https://via.placeholder.com/600x600/ffa500/000000?text=Artwork+3">
+			<img src="https://via.placeholder.com/600x600/008080/FFFFFF?text=Artwork+4">
+			<img src="https://via.placeholder.com/600x600/ffa500/000000?text=Artwork+5">
+			<img src="https://via.placeholder.com/600x600/008080/000000?text=Artwork+6">
 		</div>
 		<a href="#" class="button">Register now</a>
 	</div>
