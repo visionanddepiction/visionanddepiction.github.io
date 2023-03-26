@@ -4,6 +4,8 @@
 	<meta charset="utf-8">
 	<title>Vision and Depiction 2024 - Delft</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-PJ1d+U8NvU/k9lFp/9LRA+zYSMo8W+w0+vJvGrz6B0zi6I83U6p4H4bVoDfy9+pm0Fr5C5RpQ2S/KTRNmRUg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 	<style>
 		body {
 			font-family: Arial, sans-serif;
@@ -58,6 +60,30 @@
 			background-color: #008080;
 		}
 
+		.email {
+			display: block;
+			padding: 10px 20px;
+			background-color: #f09a36;
+			color: #fff;
+			font-size: 18px;
+			font-weight: bold;
+			text-align: center;
+			border-radius: 5px;
+			box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+			text-decoration: none;
+			margin-top: 20px;
+			transition: background-color 0.3s ease;
+		}
+		.email:hover {
+			background-color: #008080;
+		}
+		.email::before {
+			content: "\f0e0";
+			font-family: "Font Awesome 5 Free";
+			font-weight: 900;
+			margin-right: 10px;
+		}
+
 		/* Responsive styles */
 		@media only screen and (max-width: 768px) {
 			.container {
@@ -73,7 +99,8 @@
 	<h1>Conference on Visual Perception and Depiction</h1>
 	<div class="container">
 		<p>Welcome to the Conference on Visual Perception and Depiction. This event brings together experts from various fields to explore the ways in which we perceive and depict the world around us. Through talks, workshops, and exhibitions, we will delve into the latest research and techniques in this fascinating area of study.</p>
-		<div class="artwork">
+
+		<!--<div class="artwork">
 			<img src="https://via.placeholder.com/600x600/ffa500/000000?text=Artwork+1">
 			<img src="https://via.placeholder.com/600x600/008080/FFFFFF?text=Artwork+2">
 			<img src="https://via.placeholder.com/600x600/ffa500/000000?text=Artwork+3">
@@ -81,7 +108,10 @@
 			<img src="https://via.placeholder.com/600x600/ffa500/000000?text=Artwork+5">
 			<img src="https://via.placeholder.com/600x600/008080/000000?text=Artwork+6">
 		</div>
-		<a href="#" class="button">Register now</a>
+	-->
+
+
+		<a class="email" href="mailto:yourname@example.com">Email Us</a>
 	</div>
 </body>
 </html>
