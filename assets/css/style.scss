@@ -1,0 +1,38 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css2?family=Castoro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Padauk&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap');
+
+
+.page-header {
+  color: white;
+  text-align: center;
+  background-color: white;
+  background-image: url("/images/header2.jpg")
+  }
+
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color:#000560
+    //font-family: 'Castoro', serif;
+}
+
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    //font-family: 'Castoro', serif;
+    //font-family: 'Padauk', sans-serif;
+    //font-family: 'Crimson Text', serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color:#000000
+}
