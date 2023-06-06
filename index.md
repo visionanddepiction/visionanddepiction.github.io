@@ -10,12 +10,20 @@ This conference about pictorial production and perception aims to bring artists,
 We hope to attract a wide variety of scientists and artists. Here is an indication of potential disciplines that we envision.
 - **Artists/designers:** Every artist/designer who is involved in visual culture either be reflecting upon, or experimenting with various forms and techniques of visual communication.
 - **Vision science:** Researchers involved in visual perception related to the arts or more specifically to any of the Vision and Depiction framework elements.
-- **Art history:** Scholars from (technical) art history investigating various aspects of motifs and/or medium. Also 
-- **Computer science:** Computer graphics
-- **Anthropology:** The usage of
+- **Art history:** Scholars from (technical) art history investigating various aspects of motifs and/or medium. Also subjects such as style, and the mystery of mastery are relevant.
+- **Computer science:** Computer vision and graphics has a long tradition of image synthesis that has clear parallels with the longer art history of depiction.
+- **Digital humanities:** With the emergences of large open access image databases, a new field has emerged around the computational analysis of image collections and more recently also using AI both as analytical tools but also as subject matter.
+- **Archeology and Anthropology:** The usage of images, pictorial traditions and conventions throughout various (historical) cultures.
 
 
 # Target topics
+We have a top-down idea about our ideal set op topics, although that will depend critically on what submissions we attract. In realty the program will likely be also driven by a bottom up approach where we cluster the available contributions into meaningful units. But before reality hits, these topics would ideally serve as pillars:
+
+- **Texture:** Although the word 'texture' may have different meanings in different disciplines, *the structure of patterns* seems a universally fascinating. The 3D texture of paint, generative algorithms replicating natural phenomena, ornamental patterns at large, traces of various media (such as half tone dots or etch lines), interactions between textures in the medium and textures in the representation, texture bias in deep neural networks, these are just a few examples that bring together vision and depiction.
+- **Color and Light:**
+- **Space:**
+- **Material:**
+
 
 
 
