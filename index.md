@@ -7,8 +7,13 @@ This conference about pictorial production and perception aims to bring artists,
 ![V+D Framework](images/formcontent.png)
 
 # Target audience
-We hope to attract a wide variety of scientists and artists. Here is an indication of potential disciplines that we envision:
-- **[Artists/designers:]** 
+We hope to attract a wide variety of scientists and artists. Here is an indication of potential disciplines that we envision.
+- **Artists/designers:** Every artist/designer who is involved in visual culture either be reflecting upon, or experimenting with various forms and techniques of visual communication.
+- **Vision science:** Researchers involved in visual perception related to the arts or more specifically to any of the Vision and Depiction framework elements.
+- **Art history:** Scholars from (technical) art history investigating various aspects of motifs and/or medium. Also 
+- **Computer science:** Computer graphics
+- **Anthropology:** The usage of
+
 
 # Target topics
 
