@@ -19,11 +19,15 @@ We hope to attract a wide variety of scientists and artists. Here is an indicati
 # Target topics
 We have a top-down idea about our ideal set op topics, although that will depend critically on what submissions we attract. In realty the program will likely be also driven by a bottom up approach where we cluster the available contributions into meaningful units. But before reality hits, these topics would ideally serve as pillars:
 
-- **Texture:** Although the word 'texture' may have different meanings in different disciplines, *the structure of patterns* seems a universally fascinating. The 3D texture of paint, generative algorithms replicating natural phenomena, ornamental patterns at large, traces of various media (such as half tone dots or etch lines), interactions between textures in the medium and textures in the representation, texture bias in deep neural networks, these are just a few examples that bring together vision and depiction.
-- **Color and Light:**
-- **Space:**
-- **Material:**
+- **Texture:** Although the word 'texture' may have different meanings in different disciplines, *the structure of patterns* seems a universally fascinating. The 3D texture of paint, generative algorithms replicating natural phenomena, ornamental patterns, traces of various media (such as half tone dots or etch lines), interactions between textures in the medium and textures in the representation, texture bias in deep neural networks, these are just a few examples that bring together vision and depiction.
 
+- **Color and Light:** Both color and light have their own traces throughout visual culture, e.g. the treatment and meaning of shadows, the invention of pigments (from Vanta black to DayGlow fluorescent), the colour of shadows, the depiction of time of day, and so on.
+
+- **Space:** While Apple just announced the 'revolutionary' Vision Pro,  there is a long history of revolutions related to pictorial space. Choices and conventions relating to the 3D composition of scenes and the perception of space and spatial relations can be studied from both vision and depiction perspectives.
+
+- **Material:** As opposed to space, there is much less known about the depiction of material, although in recent years many new studies have been published. It still is one of the most fascinating themes both in art history and in contemporary image creation and artistic practice.
+
+- **Context and meaning:** All the formal elements lead up to meaning and reference which also implies the importance of context. Not only does the pattern of colours evoke human recognition and identification of the depicted motif, i.e. the study of visual object recognition, the motif also refers to something outside the framed canvas, e.g. to other cultural modalities (e.g. literature). 
 
 # Location and venue
 The conference will take place in the city of Vermeer, Delft, which is both a unique historical city in the Netherlands and hosts the Delft University of Technology. The city easy to reach by bike, car and train, and is a 38 minutes train ride away from Schiphol. Everything is so close by that in most cases you do not even need a bike. When walking from the train station to the campus you actually pass by the place Vermeer painted [View on Delft](https://www.mauritshuis.nl/en/our-collection/artworks/92-view-of-delft/), although it looks a bit different nowadays.
