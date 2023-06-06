@@ -27,21 +27,29 @@ We have a top-down idea about our ideal set op topics, although that will depend
 
 - **Material:** As opposed to space, there is much less known about the depiction of material, although in recent years many new studies have been published. It still is one of the most fascinating themes both in art history and in contemporary image creation and artistic practice.
 
-- **Context and meaning:** All the formal elements lead up to meaning and reference which also implies the importance of context. Not only does the pattern of colours evoke human recognition and identification of the depicted motif, i.e. the study of visual object recognition, the motif also refers to something outside the framed canvas, e.g. to other cultural modalities (e.g. literature). 
+- **Context and meaning:** All the formal elements lead up to meaning and reference which also implies the importance of context. Not only does the pattern of colours evoke human recognition and identification of the depicted motif, i.e. the study of visual object recognition, the motif also refers to something outside the framed canvas, e.g. to other cultural modalities (e.g. literature).
 
 # Location and venue
 The conference will take place in the city of Vermeer, Delft, which is both a unique historical city in the Netherlands and hosts the Delft University of Technology. The city easy to reach by bike, car and train, and is a 38 minutes train ride away from Schiphol. Everything is so close by that in most cases you do not even need a bike. When walking from the train station to the campus you actually pass by the place Vermeer painted [View on Delft](https://www.mauritshuis.nl/en/our-collection/artworks/92-view-of-delft/), although it looks a bit different nowadays.
 The main conference will be on campus, but we may have some activities elsewhere.
 
 # Timeline
-- Abstract submission deadline: 15 November 2023
+- Abstract submission open: 15 October 2023
+- Abstract submission closes: 15 November 2023
 - Notification of Acceptance: 30 November 2023
 - Early bird registration: 1 December 2023
+- Conference: 7-9 February 2024
 
 # Registration
 
 We will charge a registration fee to cover costs such as catering and facilities, but will try to keep it as low as possible. The registration fee will be waived for participating artists, although the number will be limited.
 
+# Registration
+
+We will charge a registration fee to cover costs such as catering and facilities, but will try to keep it as low as possible. The registration fee will be waived for participating artists, although the number will be limited.
+
+# Abstract submission and presentation types
+Please submit a 300 word abstract of your contribution between 15 October and 15 November 2023. More info will follow. If the number of accepted contributions exceeds the time we have for the conference, we will organise poster presentations.
 
 # Organizing committee
 Maarten Wijntjes<br>
