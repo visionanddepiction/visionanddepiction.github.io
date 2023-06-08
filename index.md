@@ -16,7 +16,7 @@ We hope to attract a wide variety of scientists and artists. Here is an indicati
 - **Archeology and Anthropology:** The usage of images, pictorial traditions and conventions throughout various (historical) cultures.
 
 
-# Target topics
+# Target themes
 We have a top-down idea about our ideal set op topics, although that will depend critically on what submissions we attract. In realty the program will likely be also driven by a bottom up approach where we cluster the available contributions into meaningful units. But before reality hits, these topics would ideally serve as pillars:
 
 - **Texture:** Although the word 'texture' may have different meanings in different disciplines, *the structure of patterns* seems a universally fascinating. The 3D texture of paint, generative algorithms replicating natural phenomena, ornamental patterns, traces of various media (such as half tone dots or etch lines), interactions between textures in the medium and textures in the representation, texture bias in deep neural networks, these are just a few examples that bring together vision and depiction.
@@ -29,12 +29,15 @@ We have a top-down idea about our ideal set op topics, although that will depend
 
 - **Context and meaning:** All the formal elements lead up to meaning and reference which also implies the importance of context. Not only does the pattern of colours evoke human recognition and identification of the depicted motif, i.e. the study of visual object recognition, the motif also refers to something outside the framed canvas, e.g. to other cultural modalities (e.g. literature).
 
+- **Medium vs Motif / real vs reproduction**: There is always an interplay between the physical manifestation of an artwork and what it represents. This interplay becomes even more interesting when considering reproductions, either digital or physical.
+
+
 # Location and venue
-The conference will take place in the city of Vermeer, Delft, which is both a unique historical city in the Netherlands and hosts the Delft University of Technology. The city easy to reach by bike, car and train, and is a 38 minutes train ride away from Schiphol. Everything is so close by that in most cases you do not even need a bike. When walking from the train station to the campus you actually pass by the place Vermeer painted [View on Delft](https://www.mauritshuis.nl/en/our-collection/artworks/92-view-of-delft/), although it looks a bit different nowadays.
+The conference will take place in the city of Vermeer, Delft, which is both a unique historical city in the Netherlands and hosts the Delft University of Technology. The city easy to reach by bike, car and train, and is a 38 minutes train ride away from Schiphol (Amsterdam) Airport. Everything is so close-by that in most cases you do not even need a bicycle. When walking from the train station to the campus you actually pass by the place Vermeer painted [View on Delft](https://www.mauritshuis.nl/en/our-collection/artworks/92-view-of-delft/), although it looks a bit different nowadays.
 The main conference will be on campus, but we may have some activities elsewhere.
 
 # Timeline
-- Abstract submission open: 15 October 2023
+- Abstract submission opens: 15 October 2023
 - Abstract submission closes: 15 November 2023
 - Notification of Acceptance: 30 November 2023
 - Early bird registration: 1 December 2023
