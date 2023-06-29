@@ -4,7 +4,7 @@ After two conferences The Skin of Things [2018](https://theskinofthings.github.i
 
 ![Creative Commons Attribution-Share Alike 4.0 International - W Bulach](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/00_0781_Canal_in_Delft_%28NL%29.jpg/640px-00_0781_Canal_in_Delft_%28NL%29.jpg)
 # About
-This conference about pictorial production and perception aims to bring artists, designers, and scientists together to discuss various overlapping themes. These themes are based on our Vision and Depiction framework that has been developed while teaching about perception and communication. The framework describes the form and content of pictures. For now, we envision four main talk sessions centring around the four pictorial factors: texture, light/color, space, and material. Within these themes, we hope to evoke discussions on both the medium and representation but also in the directions of semiotics and iconography and further contextual contemplation.
+This conference about pictorial production and perception aims to bring artists, designers, and scientists together to discuss various overlapping themes. These themes are based on our Vision and Depiction framework that has been developed while teaching about perception and communication. The framework describes the form and content of pictures. For now, we envision talk sessions centring around the elements of the framework. Within these themes, we hope to evoke discussions on both the medium and representation but also in the directions of semiotics and iconography and further contextual contemplation.
 
 ![V+D Framework](images/formcontent.png)
 
@@ -59,3 +59,4 @@ Please submit a 300 word abstract of your contribution between 15 October and 15
 # Organizing committee
 Maarten Wijntjes<br>
 Catelijne van Middelkoop<br>
+Nim Goede<br>
