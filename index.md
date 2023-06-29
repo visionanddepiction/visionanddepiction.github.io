@@ -49,9 +49,9 @@ The main conference will be on campus, but we may have some activities elsewhere
 
 We will charge a registration fee to cover costs such as catering and facilities, but will try to keep it as low as possible. The registration fee will be waived for participating artists, although the number will be limited.
 
-# Registration
+# Online
 
-We will charge a registration fee to cover costs such as catering and facilities, but will try to keep it as low as possible. The registration fee will be waived for participating artists, although the number will be limited.
+The talks will be recorded and shared (if speakers permit), but participation and interaction is aimed at in-person. 
 
 # Abstract submission and presentation types
 Please submit a 300 word abstract of your contribution between 15 October and 15 November 2023. More info will follow. If the number of accepted contributions exceeds the time we have for the conference, we will organise poster presentations.
