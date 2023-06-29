@@ -8,7 +8,7 @@ This conference about pictorial production and perception aims to bring artists,
 
 ![V+D Framework](images/formcontent.png)
 
-# Target audience
+# Participants
 We hope to attract a wide variety of scientists and artists. Here is an indication of potential disciplines that we envision.
 - **Artists/designers:** Every artist/designer who is involved in visual culture either be reflecting upon, or experimenting with various forms and techniques of visual communication.
 - **Vision science:** Researchers involved in visual perception related to the arts or more specifically to any of the Vision and Depiction framework elements.
@@ -18,8 +18,8 @@ We hope to attract a wide variety of scientists and artists. Here is an indicati
 - **Archeology and Anthropology:** The usage of images, pictorial traditions and conventions throughout various (historical) cultures.
 
 
-# Target themes
-We have a top-down idea about our ideal set op topics, although that will depend critically on what submissions we attract. In realty the program will likely be also driven by a bottom up approach where we cluster the available contributions into meaningful units. But before reality hits, these topics would ideally serve as pillars:
+# Themes
+We have a top-down idea about our ideal set op topics, although this will critically depend on the submissions we attract. In reality the program will likely be also driven by a bottom up approach where we cluster the available contributions into meaningful units. But before reality hits, these topics would ideally serve as pillars:
 
 - **Texture:** Although the word 'texture' may have different meanings in different disciplines, *the structure of patterns* seems a universally fascinating. The 3D texture of paint, generative algorithms replicating natural phenomena, ornamental patterns, traces of various media (such as half tone dots or etch lines), interactions between textures in the medium and textures in the representation, texture bias in deep neural networks, these are just a few examples that bring together vision and depiction.
 
@@ -51,10 +51,15 @@ We will charge a registration fee to cover costs such as catering and facilities
 
 # Online
 
-The talks will be recorded and shared (if speakers permit), but participation and interaction is aimed at in-person. 
+The talks will be recorded and shared (if speakers permit), but participation and interaction is aimed at to be in-person.
 
 # Abstract submission and presentation types
 Please submit a 300 word abstract of your contribution between 15 October and 15 November 2023. More info will follow. If the number of accepted contributions exceeds the time we have for the conference, we will organise poster presentations.
+
+# Contact
+
+![email](images/email.jpg)
+
 
 # Organizing committee
 Maarten Wijntjes<br>
