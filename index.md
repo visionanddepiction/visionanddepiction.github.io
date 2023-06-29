@@ -1,6 +1,8 @@
 # Intro
 After two conferences The Skin of Things [2018](https://theskinofthings.github.io) and [2021](https://theskinofthings2021.github.io) that focussed on the depiction and perception of *material properties*, we decided to broaden the scope and organise **Vision and Depiction 2024**. It will take place in the lovely Dutch city of *Delft* from *7-9 February 2024*.
 
+
+![Creative Commons Attribution-Share Alike 4.0 International - W Bulach](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/00_0781_Canal_in_Delft_%28NL%29.jpg/640px-00_0781_Canal_in_Delft_%28NL%29.jpg)
 # About
 This conference about pictorial production and perception aims to bring artists, designers, and scientists together to discuss various overlapping themes. These themes are based on our Vision and Depiction framework that has been developed while teaching about perception and communication. The framework describes the form and content of pictures. For now, we envision four main talk sessions centring around the four pictorial factors: texture, light/color, space, and material. Within these themes, we hope to evoke discussions on both the medium and representation but also in the directions of semiotics and iconography and further contextual contemplation.
 
@@ -33,7 +35,7 @@ We have a top-down idea about our ideal set op topics, although that will depend
 
 
 # Location and venue
-The conference will take place in the city of Vermeer, Delft, which is both a unique historical city in the Netherlands and hosts the Delft University of Technology. The city easy to reach by bike, car and train, and is a 38 minutes train ride away from Schiphol (Amsterdam) Airport. Everything is so close-by that in most cases you do not even need a bicycle. When walking from the train station to the campus you actually pass by the place Vermeer painted [View on Delft](https://www.mauritshuis.nl/en/our-collection/artworks/92-view-of-delft/), although it looks a bit different nowadays.
+The conference will take place in the city of Vermeer, Delft, which is both a unique historical city in the Netherlands and hosts the Delft University of Technology. The city easy to reach by bike, car and train, and is a 38 minutes train ride away from Schiphol (Amsterdam) Airport. Everything is so close-by that in most cases you do not even need a bicycle. When walking from the train station to the campus you actually pass by the place Vermeer painted [View on Delft](https://www.mauritshuis.nl/en/our-collection/artworks/92-view-of-delft/), although it looks a bit [different](https://goo.gl/maps/xAuMbmfN3uijMygg7) nowadays.
 The main conference will be on campus, but we may have some activities elsewhere.
 
 # Timeline
