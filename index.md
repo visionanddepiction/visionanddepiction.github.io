@@ -50,12 +50,16 @@ We have some funding but to cover the total cost of the conference we need to as
 
 | Type | Early bird (< 1 december) | Late |
 | :---         |     :---:      |          ---: |
-| Full rate   | 120€     | 170€    |
-| Reduced     | 70€       | 100€      |
+| Full rate   | €120     | €170    |
+| Reduced     | €70       | €100      |
 | Waiver     | free      | free    |
 
 Waivers are available for (a limited amount of) artists. Please reach out if you have questions about the waiver program.  
 
+## Cancellation policy
+
+- Cancellation before 7 December: 100% refund excl. €10 admin.
+- Cancellation before 7 Januari: 50% refund excl. €10 admin.
 
 # Online
 
