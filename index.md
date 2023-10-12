@@ -1,7 +1,6 @@
 # Intro
 After two conferences The Skin of Things [2018](https://theskinofthings.github.io) and [2021](https://theskinofthings2021.github.io) that focussed on the depiction and perception of *material properties*, we decided to broaden the scope and organise **Vision and Depiction 2024**. It will take place in the lovely Dutch city of *Delft* from *7-9 February 2024*.
 
-
 ![Creative Commons Attribution-Share Alike 4.0 International - W Bulach](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/00_0781_Canal_in_Delft_%28NL%29.jpg/640px-00_0781_Canal_in_Delft_%28NL%29.jpg)
 # About
 This conference about pictorial production and perception aims to bring artists, designers, and scientists together to discuss various overlapping themes. These themes are based on our Vision and Depiction framework that has been developed while teaching about perception and communication. The framework describes the form and content of pictures. For now, we envision talk sessions centring around the elements of the framework. Within these themes, we hope to evoke discussions on both the medium and representation but also in the directions of semiotics and iconography and further contextual contemplation.
@@ -39,7 +38,7 @@ The conference will take place in the city of Vermeer, Delft, which is both a un
 The main conference will be on campus, but we may have some activities elsewhere.
 
 # Timeline
-- Abstract submission opens: 15 October 2023
+- Abstract submission opens: 16 October 2023
 - Abstract submission closes: 15 November 2023
 - Notification of Acceptance: 30 November 2023
 - Early bird registration: 1 December 2023
@@ -47,9 +46,15 @@ The main conference will be on campus, but we may have some activities elsewhere
 
 # Registration
 
-We will charge a registration fee to cover costs such as catering and facilities, but will try to keep it as low as possible. The registration fee will be waived for participating artists, although the number will be limited.
+We have some funding but to cover the total cost of the conference we need to ask for a registration fee:
 
-We have some funding but the
+| Type | Early bird (< 1 december) | Late |
+| :---         |     :---:      |          ---: |
+| Full rate   | 120€     | 170€    |
+| Reduced     | 70€       | 100€      |
+| Waiver     | free      | free    |
+
+Waivers are available for (a limited amount of) artists. Please reach out if you have questions about the waiver program.  
 
 
 # Online
