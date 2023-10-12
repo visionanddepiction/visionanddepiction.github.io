@@ -60,6 +60,8 @@ Waivers are available for (a limited amount of) artists. Please reach out if you
 
 - Cancellation before 7 December: 100% refund excl. €10 admin.
 - Cancellation before 7 Januari: 50% refund excl. €10 admin.
+- Cancellation after 7 Januari: no refund because by that time we have already paid contracts. 
+
 
 # Online
 
