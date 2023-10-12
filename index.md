@@ -49,6 +49,9 @@ The main conference will be on campus, but we may have some activities elsewhere
 
 We will charge a registration fee to cover costs such as catering and facilities, but will try to keep it as low as possible. The registration fee will be waived for participating artists, although the number will be limited.
 
+We have some funding but the
+
+
 # Online
 
 The talks will be recorded and shared (if speakers permit), but participation and interaction is aimed at to be in-person.
@@ -65,3 +68,14 @@ Please submit a 300 word abstract of your contribution between 15 October and 15
 Maarten Wijntjes<br>
 Catelijne van Middelkoop<br>
 Nim Goede<br>
+
+# Funding
+
+- Dutch Research Council (NWO), project number 276-54-001
+- TU Delft - Library
+- Faculty of Industrial Design Engineering, Delft University of Technology
+- The Dutch Data Prize
+
+ | |
+:-------------------------:|:-------------------------:|:-------------------------:
+![V+D Framework](images/dataprize.jpg) | ![V+D Framework](images/tudelft.png) | ![V+D Framework](images/nwo.jpg)
