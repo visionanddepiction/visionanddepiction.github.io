@@ -1,3 +1,9 @@
+# Updates
+- **15 October 2023**: [Registration](#registration) is open.
+- **15 October 2023**: [Abstract submission](#abstract-submission-and-presentation-types) is open.
+
+
+
 # Intro
 After two conferences The Skin of Things [2018](https://theskinofthings.github.io) and [2021](https://theskinofthings2021.github.io) that focussed on the depiction and perception of *material properties*, we decided to broaden the scope and organise **Vision and Depiction 2024**. It will take place in the lovely Dutch city of *Delft* from *7-9 February 2024*.
 
@@ -16,6 +22,8 @@ We hope to attract a wide variety of scientists and artists. Here is an indicati
 - **Digital humanities:** With the emergences of large open access image databases, a new field has emerged around the computational analysis of image collections and more recently also using AI both as analytical tools but also as subject matter.
 - **Archeology and Anthropology:** The usage of images, pictorial traditions and conventions throughout various (historical) cultures.
 
+## The keynote collective
+We are very excited to host a group of artists and scientists that represent both the core and the breadth of Vision and Depiction.
 
 # Themes
 We have a top-down idea about our ideal set op topics, although this will critically depend on the submissions we attract. In reality the program will likely be also driven by a bottom up approach where we cluster the available contributions into meaningful units. But before reality hits, these topics would ideally serve as pillars:
@@ -38,13 +46,15 @@ The conference will take place in the city of Vermeer, Delft, which is both a un
 The main conference will be on campus, but we may have some activities elsewhere.
 
 # Timeline
-- Abstract submission opens: 16 October 2023
+- Abstract submission opens: 15 October 2023
 - Abstract submission closes: 15 November 2023
 - Notification of Acceptance: 30 November 2023
 - Early bird registration: 1 December 2023
 - Conference: 7-9 February 2024
 
 # Registration
+
+Registration is now open and can be done [here](https://www.aanmelder.nl/vision-and-depiction-2024/subscribe). If you also submit an abstract, you should use mention the title of you contribution in the registration form.
 
 We have some funding but to cover the total cost of the conference we need to ask for a registration fee:
 
@@ -60,8 +70,7 @@ Waivers are available for (a limited amount of) artists. Please reach out if you
 
 - Cancellation before 7 December: 100% refund excl. €10 admin.
 - Cancellation before 7 Januari: 50% refund excl. €10 admin.
-- Cancellation after 7 Januari: no refund because by that time we have already paid contracts. 
-
+- Cancellation after 7 Januari: no refund because by that time we have already paid contracts.
 
 # Online
 
@@ -69,6 +78,13 @@ The talks will be recorded and shared (if speakers permit), but participation an
 
 # Abstract submission and presentation types
 Please submit a 300 word abstract of your contribution between 15 October and 15 November 2023. More info will follow. If the number of accepted contributions exceeds the time we have for the conference, we will organise poster presentations.
+
+## Instructions
+- To access the abstract submission site you first need to register you name and email [here](https://www.aanmelder.nl/vision-and-depiction-2024/author)
+- The email will send you a link to the submission site.
+- Do not forget to register for the conference [here](https://www.aanmelder.nl/vision-and-depiction-2024/subscribe) as we will only review abstracts of registered participants.
+- You can only submit one abstract as main author.
+- You can give a preference of poster or oral presentation.
 
 # Contact
 
