@@ -8,6 +8,7 @@
 After two conferences The Skin of Things [2018](https://theskinofthings.github.io) and [2021](https://theskinofthings2021.github.io) that focussed on the depiction and perception of *material properties*, we decided to broaden the scope and organise **Vision and Depiction 2024**. It will take place in the lovely Dutch city of *Delft* from *7-9 February 2024*.
 
 ![Creative Commons Attribution-Share Alike 4.0 International - W Bulach](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/00_0781_Canal_in_Delft_%28NL%29.jpg/640px-00_0781_Canal_in_Delft_%28NL%29.jpg)
+
 # About
 This conference about pictorial production and perception aims to bring artists, designers, and scientists together to discuss various overlapping themes. These themes are based on our Vision and Depiction framework that has been developed while teaching about perception and communication. The framework describes the form and content of pictures. For now, we envision talk sessions centring around the elements of the framework. Within these themes, we hope to evoke discussions on both the medium and representation but also in the directions of semiotics and iconography and further contextual contemplation.
 
@@ -25,6 +26,7 @@ We hope to attract a wide variety of scientists and artists. Here is an indicati
 ## The keynote collective
 We are very excited to host a group of artists and scientists that represent both the core and the breadth of Vision and Depiction.
 
+
 # Themes
 We have a top-down idea about our ideal set op topics, although this will critically depend on the submissions we attract. In reality the program will likely be also driven by a bottom up approach where we cluster the available contributions into meaningful units. But before reality hits, these topics would ideally serve as pillars:
 
@@ -39,6 +41,13 @@ We have a top-down idea about our ideal set op topics, although this will critic
 - **Context and meaning:** All the formal elements lead up to meaning and reference which also implies the importance of context. Not only does the pattern of colours evoke human recognition and identification of the depicted motif, i.e. the study of visual object recognition, the motif also refers to something outside the framed canvas, e.g. to other cultural modalities (e.g. literature).
 
 - **Medium vs Motif / real vs reproduction**: There is always an interplay between the physical manifestation of an artwork and what it represents. This interplay becomes even more interesting when considering reproductions, either digital or physical.
+
+# Special events
+
+
+## Workshop by Delft Design Drawing
+The design education in Delft has a long tradition of [design drawing](https://www.instagram.com/delftdesigndrawing/). During the workshop, they will ensure that you will not only contemplate but also practice Vision and Depiction.
+
 
 
 # Location and venue
