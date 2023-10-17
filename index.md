@@ -24,7 +24,16 @@ We hope to attract a wide variety of scientists and artists. Here is an indicati
 - **Archeology and Anthropology:** The usage of images, pictorial traditions and conventions throughout various (historical) cultures.
 
 ## The keynote collective
-We are very excited to host a group of artists and scientists that represent both the core and the breadth of Vision and Depiction.
+We are very excited to host a group of artists and scientists that represent both the core and the breadth of Vision and Depiction. We are currently finalising the artistic part of the collective, but we are very proud to already share the participating scientists:
+- [Ann-Sophie Lehman](https://www.rug.nl/staff/a.s.lehmann/?lang=en), Art History
+- [Hannah Smithson](https://www.psy.ox.ac.uk/people/hannah-smithson), Vision Science
+- [Paul Pettitt](Paul Pettitt 			https://www.durham.ac.uk/staff/paul-pettitt/), Archeology
+
+And our special guest:
+- [Tim Jenison](https://en.wikipedia.org/wiki/Tim%27s_Vermeer)
+
+ 
+
 
 
 # Themes
@@ -86,12 +95,12 @@ Waivers are available for (a limited amount of) artists. Please reach out if you
 The talks will be recorded and shared (if speakers permit), but participation and interaction is aimed at to be in-person.
 
 # Abstract submission and presentation types
-Please submit a 300 word abstract of your contribution between 15 October and 15 November 2023. More info will follow. If the number of accepted contributions exceeds the time we have for the conference, we will organise poster presentations.
+Please [submit](https://www.aanmelder.nl/vision-and-depiction-2024/author) a 300 word abstract of your contribution between 15 October and 15 November 2023. More info will follow. If the number of accepted contributions exceeds the time we have for the conference, we will organise poster presentations.
 
 ## Instructions
-- To access the abstract submission site you first need to register you name and email [here](https://www.aanmelder.nl/vision-and-depiction-2024/author)
-- The email will send you a link to the submission site.
+- After submitting your email adres in the link [above](#abstract-submission-and-presentation-types) you will be emailed further instructions.
 - Do not forget to register for the conference [here](https://www.aanmelder.nl/vision-and-depiction-2024/subscribe) as we will only review abstracts of registered participants.
+- Only exception of the above is when you are an artist, in that case you do not need to register prior to submitting your abstract, but will receive a waiver after a selection procedure. In case you do not receive a waiver, you will be allowed to register for the early bird fee.
 - You can only submit one abstract as main author.
 - You can give a preference of poster or oral presentation.
 
