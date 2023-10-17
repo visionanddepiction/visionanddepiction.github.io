@@ -25,7 +25,7 @@ We hope to attract a wide variety of scientists and artists. Here is an indicati
 
 ## The keynote collective
 We are very excited to host a group of artists and scientists that represent both the core and the breadth of Vision and Depiction. We are currently finalising the artistic part of the collective, but we are very proud to already share the participating scientists:
-- [Ann-Sophie Lehman](https://www.rug.nl/staff/a.s.lehmann/?lang=en) - Art History
+- [Ann-Sophie Lehmann](https://www.rug.nl/staff/a.s.lehmann/?lang=en) - Art History
 - [Hannah Smithson](https://www.psy.ox.ac.uk/people/hannah-smithson) - Vision Science
 - [Paul Pettitt](Paul Pettitt 			https://www.durham.ac.uk/staff/paul-pettitt/) - Archeology
 
