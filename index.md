@@ -24,12 +24,19 @@ We hope to attract a wide variety of scientists and artists. Here is an indicati
 - **Archeology and Anthropology:** The usage of images, pictorial traditions and conventions throughout various (historical) cultures.
 
 ## The keynote collective
-We are very excited to host a group of artists and scientists that represent both the core and the breadth of Vision and Depiction. We are currently finalising the artistic part of the collective, but we are very proud to already share the participating scientists:
+We are very excited to host a group of artists and scientists that represent both the core and the breadth of Vision and Depiction. While we may add one or two extra, we can now confirm the participation of the *artists*:
+
+- [Persijn Broersen and Margit Lukacs](https://www.pmpmpm.com/)
+- [Joost Swarte](https://www.joostswarte.nl)
+- [Janne Schimmel](https://janneschimmel.com)
+
+... and *scientist*:
+
 - [Ann-Sophie Lehmann](https://www.rug.nl/staff/a.s.lehmann/?lang=en) - Art History
 - [Hannah Smithson](https://www.psy.ox.ac.uk/people/hannah-smithson) - Vision Science
 - [Paul Pettitt](Paul Pettitt 			https://www.durham.ac.uk/staff/paul-pettitt/) - Archeology
 
-And our special guest:
+... and our *special guest*:
 - [Tim Jenison](https://en.wikipedia.org/wiki/Tim%27s_Vermeer)
 
 
