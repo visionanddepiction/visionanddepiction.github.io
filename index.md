@@ -69,7 +69,10 @@ The design education in Delft has a long tradition of [design drawing](https://w
 
 ## When Images Remain
 Before heading out for dinner, we will have a short evening walk to the TU Delft library to visit the on-campus art installation ['When images remain'](https://www.tudelft.nl/en/events/2023/library/exhibition-when-images-remain). In the photo below you'll see a light emitting strip of light which is actually a window towards the TU Delft heritage collection. Here, When Images Remain shows a collection of magic lantern slides used in art eduction around 1930, complemented with images used in contemporary art education, interpolated by a generative prompting: the Vision and Depiction framework in action.
-![WhenImagesRemain](images/WhatsApp Image 2023-05-16 at 10.21.44.jpeg)
+
+<!--![WhenImagesRemain](images/WhatsApp Image 2023-05-16 at 10.21.44.jpeg)-->
+
+<img src="images/WhatsApp Image 2023-05-16 at 10.21.44.jpeg" alt="whenimages" width="200"/>
 
 
 
