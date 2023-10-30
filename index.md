@@ -72,7 +72,7 @@ Before heading out for dinner, we will have a short evening walk to the TU Delft
 
 <!--![WhenImagesRemain](images/WhatsApp Image 2023-05-16 at 10.21.44.jpeg)-->
 
-<img src="images/WhatsApp Image 2023-05-16 at 10.21.44.jpeg" alt="whenimages" width="200"/>
+<img src="images/WhatsApp Image 2023-05-16 at 10.21.44.jpeg" alt="whenimages" width="400"/>
 
 
 
