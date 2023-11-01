@@ -1,4 +1,6 @@
 # Updates
+- **1 November 2023**: [Keynote collective](#the-keynote-collective) announced.
+- **1 November 2023**: [Special activities](#special-activities) announced.
 - **15 October 2023**: [Registration](#registration) is open.
 - **15 October 2023**: [Abstract submission](#abstract-submission-and-presentation-types) is open.
 
@@ -58,7 +60,7 @@ We have a top-down idea about our ideal set op topics, although this will critic
 
 - **Medium vs Motif / real vs reproduction**: There is always an interplay between the physical manifestation of an artwork and what it represents. This interplay becomes even more interesting when considering reproductions, either digital or physical.
 
-# Special events
+# Special activities
 
 
 
