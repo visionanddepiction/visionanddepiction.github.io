@@ -30,11 +30,11 @@ We are very excited to host a group of artists and scientists that represent bot
 - [Joost Swarte](https://www.joostswarte.nl)
 - [Janne Schimmel](https://janneschimmel.com)
 
-... and *scientist*:
+... and *scientists*:
 
 - [Ann-Sophie Lehmann](https://www.rug.nl/staff/a.s.lehmann/?lang=en) - Art History
 - [Hannah Smithson](https://www.psy.ox.ac.uk/people/hannah-smithson) - Vision Science
-- [Paul Pettitt](Paul Pettitt 			https://www.durham.ac.uk/staff/paul-pettitt/) - Archeology
+- [Paul Pettitt](https://www.durham.ac.uk/staff/paul-pettitt/) - Archeology
 
 ... and our *special guest*:
 - [Tim Jenison](https://en.wikipedia.org/wiki/Tim%27s_Vermeer)
