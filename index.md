@@ -111,10 +111,10 @@ Waivers are available for (a limited amount of) artists. Please reach out if you
 
 # Online
 
-The talks will be recorded and shared (if speakers permit), but participation and interaction is aimed at to be in-person.
+The talks will be recorded and shared (if speakers permit), but participation and interaction is aimed to be in-person.
 
 # Abstract submission and presentation types
-Please [submit](https://www.aanmelder.nl/vision-and-depiction-2024/author) a 300 word abstract of your contribution between 15 October and 15 November 2023. More info will follow. If the number of accepted contributions exceeds the time we have for the conference, we will organise poster presentations.
+Please [submit](https://www.aanmelder.nl/vision-and-depiction-2024/author) a 300 word abstract of your contribution between 15 October and 15 November 2023. You can only submit one abstract as first author, but as many as you want as co-author. During the submission process you can share your preference for a poster or oral presentation. It could happen that the preferred oral presentations exceed the time we have for the conference. In that case we will assign posters on the basis of the reviewer assessments. We hope that poster presentations will not be seen as something less than oral presentations, posters are great media to facilitate direct and unrestricted discussions. 
 
 ## Instructions
 - After submitting your email adres in the link [above](#abstract-submission-and-presentation-types) you will be emailed further instructions.
