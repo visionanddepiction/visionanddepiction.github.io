@@ -4,8 +4,6 @@
 - **15 October 2023**: [Registration](#registration) is open.
 - **15 October 2023**: [Abstract submission](#abstract-submission-and-presentation-types) is open.
 
-
-
 # Intro
 After two conferences The Skin of Things [2018](https://theskinofthings.github.io) and [2021](https://theskinofthings2021.github.io) that focussed on the depiction and perception of *material properties*, we decided to broaden the scope and organise **Vision and Depiction 2024**. It will take place in the lovely Dutch city of *Delft* from *7-9 February 2024*.
 
