@@ -1,7 +1,6 @@
 # Updates
 - **30 November 2023**: [Keynote collective](#the-keynote-collective) experienced a substantial expansion (Evelina Domnitch + Dmitry Gelfand joined!).
 - **30 November 2023**: The early bird [registration](#registration) date is pushed forward to 15 December.
--
 - **1 November 2023**: [Keynote collective](#the-keynote-collective) announced.
 - **1 November 2023**: [Special activities](#special-activities) announced.
 - **15 October 2023**: [Registration](#registration) is open.
@@ -47,7 +46,7 @@ We are very excited to host a group of artists and scientists that represent bot
 # Preliminary program
 We will have more concrete information soon, but for now we fixed the start and end times:
 - *Start* on Wednesday 7 February at 13:00
-- *End* on Friday 9 Februari at 18:30 (although we will likely have a farewell reception/activity!) 
+- *End* on Friday 9 Februari at 18:30 (although we will likely have a farewell reception/activity!)
 
 # Themes
 We have a top-down idea about our ideal set op topics, although this will critically depend on the submissions we attract. In reality the program will likely be also driven by a bottom up approach where we cluster the available contributions into meaningful units. But before reality hits, these topics would ideally serve as pillars:
