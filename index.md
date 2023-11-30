@@ -89,7 +89,7 @@ The main conference will be on campus, but we may have some activities elsewhere
 - Abstract submission opens: 15 October 2023
 - Abstract submission closes: 15 November 2023
 - Notification of Acceptance: 30 November 2023
-- Early bird registration: 1 December 2023
+- Early bird registration: 15 December 2023
 - Conference: 7-9 February 2024
 
 # Registration
@@ -98,7 +98,7 @@ Registration is now open and can be done [here](https://www.aanmelder.nl/vision-
 
 We have some funding but to cover the total cost of the conference we need to ask for a registration fee:
 
-| Type | Early bird (< 1 december) | Late |
+| Type | Early bird (until 15 december) | Late |
 | :---         |     :---:      |          ---: |
 | Full rate   | €120     | €170    |
 | Reduced     | €70       | €100      |
