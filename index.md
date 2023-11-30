@@ -1,4 +1,7 @@
 # Updates
+- **30 November 2023**: [Keynote collective](#the-keynote-collective) experienced a substantial expansion (Evelina Domnitch + Dmitry Gelfand joined!).
+- **30 November 2023**: The early bird [registration](#registration) date is pushed forward to 15 December.
+-
 - **1 November 2023**: [Keynote collective](#the-keynote-collective) announced.
 - **1 November 2023**: [Special activities](#special-activities) announced.
 - **15 October 2023**: [Registration](#registration) is open.
@@ -29,6 +32,7 @@ We are very excited to host a group of artists and scientists that represent bot
 - [Persijn Broersen and Margit Lukacs](https://www.pmpmpm.com/)
 - [Joost Swarte](https://www.joostswarte.nl)
 - [Janne Schimmel](https://janneschimmel.com)
+- [Evelina Domnitch + Dmitry Gelfand](http://www.portablepalace.com)
 
 ... and *scientists*:
 
@@ -40,8 +44,10 @@ We are very excited to host a group of artists and scientists that represent bot
 - [Tim Jenison](https://en.wikipedia.org/wiki/Tim%27s_Vermeer)
 
 
-
-
+# Preliminary program
+We will have more concrete information soon, but for now we fixed the start and end times:
+- *Start* on Wednesday 7 February at 13:00
+- *End* on Friday 9 Februari at 18:30 (although we will likely have a farewell reception/activity!) 
 
 # Themes
 We have a top-down idea about our ideal set op topics, although this will critically depend on the submissions we attract. In reality the program will likely be also driven by a bottom up approach where we cluster the available contributions into meaningful units. But before reality hits, these topics would ideally serve as pillars:
@@ -112,7 +118,7 @@ Waivers are available for (a limited amount of) artists. Please reach out if you
 The talks will be recorded and shared (if speakers permit), but participation and interaction is aimed to be in-person.
 
 # Abstract submission and presentation types
-Please [submit](https://www.aanmelder.nl/vision-and-depiction-2024/author) a 300 word abstract of your contribution between 15 October and 15 November 2023. You can only submit one abstract as first author, but as many as you want as co-author. During the submission process you can share your preference for a poster or oral presentation. It could happen that the preferred oral presentations exceed the time we have for the conference. In that case we will assign posters on the basis of the reviewer assessments. We hope that poster presentations will not be seen as something less than oral presentations, posters are great media to facilitate direct and unrestricted discussions. 
+Please [submit](https://www.aanmelder.nl/vision-and-depiction-2024/author) a 300 word abstract of your contribution between 15 October and 15 November 2023. You can only submit one abstract as first author, but as many as you want as co-author. During the submission process you can share your preference for a poster or oral presentation. It could happen that the preferred oral presentations exceed the time we have for the conference. In that case we will assign posters on the basis of the reviewer assessments. We hope that poster presentations will not be seen as something less than oral presentations, posters are great media to facilitate direct and unrestricted discussions.
 
 ## Instructions
 - After submitting your email adres in the link [above](#abstract-submission-and-presentation-types) you will be emailed further instructions.
