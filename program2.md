@@ -5,7 +5,7 @@
 13:00 opening session
 
 13:15-14:45 Texture
-- Designing Knowledge: Theoretical Considerations on Information and Decoration in Prehistory	- **Dale Daykin**
+- *Designing Knowledge: Theoretical Considerations on Information and Decoration in Prehistory*	 [Dale Daykin](https://www.linkedin.com/in/dale-daykin-a2822111a/?originalSubdomain=uk)
 - Eidolons …	- **Jan J. Koenderink**
 - Tintoretto's Texture: An Experiment in Non-Contact 3D Laser Scanning	- **Cleo Nisse**
 - The fundamental building blocks of human texture perception.	Professor - **Robert Kentridge**
@@ -13,6 +13,10 @@
 14:45-15:00 Coffee
 
 15:00-16:30 Colour and light
+- The Colours of Ugliness	- ** Anya Hurlbert**
+Form, material, light and meaning of the reliefs of Schoonhoven and their photographs of Wolleh	Prof. Dr. Sylvia Pont
+How to paint a smell. The use of cross-modal correspondence between smell and vision in art and design.	Dr Francesca Di Cicco
+The appeal of Ganzfeld art: a matter of losing and regaining grip on depth?	Eleftheria Pistolas
 
 16:30-16:45 Break
 
