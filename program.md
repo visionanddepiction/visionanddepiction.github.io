@@ -4,11 +4,22 @@
 ## Wednesday
 13:00 opening session
 
-13:15-14:45 Session 1 
+13:15-14:45 Space
+- talk 1
+- talk 2
+
 14:45-15:00 Coffee
-15:00-16:30 Session 2 
+
+15:00-16:30 Texture 
+- talk 1
+- talk 2
+
 16:30-16:45 Break
-16:45-18:15 Keynote 1 - Ann-Sophie Lehmann & Evelina Domnitch + Dmitry Gelfand 
+
+16:45-18:15 Keynote collective
+- Ann-Sophie Lehmann
+- Evelina Domnitch + Dmitry Gelfand 
+
 18:15-[...] Opening reception 
 
 ## Thursday
