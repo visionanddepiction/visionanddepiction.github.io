@@ -38,8 +38,8 @@
 17:00-17:15 Short break
 
 17:15-18:45 Keynote collective
-- Paul Pettitt
-- Persijn Broersen and Margit Lukacs
+- Paul Pettitt - *From body marks to figurative art: what we know about the Ice Age evolution of human visual culture*
+- Persijn Broersen and Margit Lukacs - *Vision & Fiction, Depiction & Deception \ The Place of Image*
 
 19:30 - [...] Conference dinner (not yet certain)
 
