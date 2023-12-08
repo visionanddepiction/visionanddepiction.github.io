@@ -3,6 +3,7 @@
 
 ## Wednesday
 13:00 opening session
+
 13:15-14:45 Session 1 
 14:45-15:00 Coffee
 15:00-16:30 Session 2 
@@ -13,7 +14,7 @@
 ## Thursday
 8:45-10:30 Session 3 
 10:30-11:00 Coffee
-11:00-12:30 Keynote 2 - Tim Jenisson & Janne Schimmel
+11:00-12:30 Keynote 2 - Tim Jenison & Janne Schimmel
 12:30-13:30 Lunch
 13:30-15:00 Posters
 15:00:15:30 Coffee
