@@ -6,15 +6,15 @@ We added personal links to provide some context but if you don't like it or want
 ## Wednesday
 13:00 opening session
 
-13:15-14:45 Texture
-- *Designing Knowledge: Theoretical Considerations on Information and Decoration in Prehistory*	 [Dale Daykin](https://www.linkedin.com/in/dale-daykin-a2822111a/?originalSubdomain=uk)
-- *Eidolons …*	- [Jan J. Koenderink](https://scholar.google.com/citations?user=lxW3wvMAAAAJ&hl=en)
-- *Tintoretto's Texture: An Experiment in Non-Contact 3D Laser Scanning*	- [Cleo Nisse](https://arthistory.columbia.edu/content/cleo-nisse)
-- *The fundamental building blocks of human texture perception.	Professor* - [Robert Kentridge](https://www.durham.ac.uk/staff/robert-kentridge/)
+13:15-14:45 **Texture**
+- [Dale Daykin](https://www.linkedin.com/in/dale-daykin-a2822111a/?originalSubdomain=uk) *Designing Knowledge: Theoretical Considerations on Information and Decoration in Prehistory*	 
+- [Jan Koenderink:](https://scholar.google.com/citations?user=lxW3wvMAAAAJ&hl=en) *Eidolons …*	-
+- [Cleo Nisse:](https://arthistory.columbia.edu/content/cleo-nisse) *Tintoretto's Texture: An Experiment in Non-Contact 3D Laser Scanning*
+- [Robert Kentridge](https://www.durham.ac.uk/staff/robert-kentridge/) - *The fundamental building blocks of human texture perception.	Professor* 
 
 14:45-15:00 Coffee
 
-15:00-16:30 Colour and light
+**15:00-16:30 Colour and light**
 - *The Colours of Ugliness*	- [Anya Hurlbert](https://www.ncl.ac.uk/psychology/people/profile/anyahurlbert.html)
 - *Form, material, light and meaning of the reliefs of Schoonhoven and their photographs of Wolleh*	[Sylvia Pont](https://www.tudelft.nl/io/over-io/personen/pont-sc)
 - *How to paint a smell. The use of cross-modal correspondence between smell and vision in art and design.*	[Francesca Di Cicco](https://www.uu.nl/staff/FdiCicco)
@@ -50,7 +50,11 @@ We added personal links to provide some context but if you don't like it or want
 15:00:15:30 Coffee
 
 15:30-17:00 Materials & Materiality
-
+- *Solid and fleeting depicting material stories in a materials collection*	[Sarah Kaiser](https://www.burg-halle.de/hochschule/information/personen/p/sarah-kaiser/)
+- *Free Exploration of Materiality and Space Across Three Contemporary Art Exhibitions*	[Christopher Linden](https://gestaltrevision.be/people-single/714)
+- *Pieter Bruegel's Blind Figures, Visuality and the Human Position*	[Hannah De Corte](http://www.hannahdecorte.com)
+- *Material Experience Framework in Cultural Heritage* -	[Willemijn Elkhuizen](https://www.tudelft.nl/io/over-io/personen/elkhuizen-ws)
+- *Material perception across different media - comparing perceived attributes in paintings and engravings*	[Yuguang Zhao](https://www.linkedin.com/in/yuguangzhao/?originalSubdomain=nl)
 
 17:00-17:15 Short break
 
