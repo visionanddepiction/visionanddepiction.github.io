@@ -31,7 +31,7 @@ We added personal links to provide some context but if you don't like it or want
 
 ## Thursday
 ### 8:45-10:30 Space and motion
-- *Motion and layout depiction using 2D/3D animation tools*	[Pascal Barla](https://www.labri.fr/perso/barla/blog/)
+- *Motion and layout depiction using 2D/3D animation tools* - 	Melvin Even
 - *Representing the manifold gaze of architectural spaces* - 	[Eugene Han](https://aad.lehigh.edu/eugene-han)
 - *“Framing” the landscape. Movement, Landscape and Cinema.	Assistant Professor* - [Vitor Gomes](https://www.uevora.pt/pessoas?id=4793)
 - *Freehand sketching of 3D shapes and implications for computer-aided design; an overview of a multi-disciplinary collaboration* - [Adrien Bousseau](http://www-sop.inria.fr/members/Adrien.Bousseau/)
@@ -46,6 +46,33 @@ We added personal links to provide some context but if you don't like it or want
 ### 12:30-13:30 Lunch
 
 ### 13:30-15:00 Posters
+
+- *Neanderthal Art and the Problem of Ethnocentrism* - Tullio Abruzzese
+- *3D printing the Mixtec skull: The opportunities and challenges technology provides in discussing ethical issues surrounding contested heritage in a co-creative, inclusive, and responsible way.* - Liselore Tissen
+- *A Watermark Recognition System: an Approach to Matching Similar Watermarks* - Vladimir Petkov
+- *Does Camera Movement Move Us, or: How embodied is Film Viewing?* - Lisa-Maria van Klaveren
+- *Learning variable shape footprints from brushstroke models* - Yuchen Wu
+- *Exploring infinite spaces from finite confinements* - Scott Jochems
+- *Image Complexity vs Aesthetic Appreciation in Abstract Art* - Maartje Raijmakers
+- *The Picture Stares Back* - Andrea J. van Doorn
+- *Image-Works: An Exhibition Study Focused on the Interactions between the Medium of Depiction and (Re-)Presentation in Vision* - Johan Wagemans
+- *Eyes, Still-Lifes & Eidolons \[Dash] Effects of Colour and Object information on Eye Movements* - Doris Braun
+- *Painterly Style Transfer with Learned Brush Strokes* - Yuchen Wu
+- *Lifelike Butterflies Painted with Oil and Colourful Dust* - V.E. Mandrij
+- *Mapping visual attention to important and unimportant details in art photographs and paintings* - Maarten Leemans
+- *Illusory colours in monocular rivalry* - Leone Burridge
+- *Artworks -flat packed lunch* - Eve cromwell
+- *A love letter and its secret author. Vermeer's "Girl reading a letter at an open window" as a thought-vision of the viewer* - Martin Lottermoser
+- *Assessing material appearance based on image color entropy* - Masataka Sawayama
+- *Rethinking Realism: an interdisciplinary exploration of Upper Palaeolithic Venus Figurines through eye-tracking methodologies* - Sam Hirst
+- *Hue-Specific Effects of Lighting on Perceived Atmosphere* - Giulio Palma
+- *The influence of the variations in daylight on the perception of colour* - Catherine Toulouse
+- *Reconstructing Maarten van Heemskerck's flesh paint* - Lieve d'Hont
+- *Presentation of artworks* - Jenny Mc Namara
+- *Picture-surface, picture-subject: an empirical assessment of Wollheim´s theory of Twofoldness* - Anna Miscena
+- *What words do we use to describe colour-changing (iridescent) surfaces?* - Li Shiwen
+- *Cast shadows enhance pictorial depth perception of volumetric shapes* - Robert Volcic
+
 
 ### 15:00:15:30 Coffee
 
