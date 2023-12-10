@@ -47,31 +47,32 @@ We added personal links to provide some context but if you don't like it or want
 
 ### 13:30-15:00 Posters
 
-- *Neanderthal Art and the Problem of Ethnocentrism* - Tullio Abruzzese
-- *3D printing the Mixtec skull: The opportunities and challenges technology provides in discussing ethical issues surrounding contested heritage in a co-creative, inclusive, and responsible way.* - Liselore Tissen
-- *A Watermark Recognition System: an Approach to Matching Similar Watermarks* - Vladimir Petkov
-- *Does Camera Movement Move Us, or: How embodied is Film Viewing?* - Lisa-Maria van Klaveren
-- *Learning variable shape footprints from brushstroke models* - Yuchen Wu
-- *Exploring infinite spaces from finite confinements* - Scott Jochems
-- *Image Complexity vs Aesthetic Appreciation in Abstract Art* - Maartje Raijmakers
-- *The Picture Stares Back* - Andrea J. van Doorn
-- *Image-Works: An Exhibition Study Focused on the Interactions between the Medium of Depiction and (Re-)Presentation in Vision* - Johan Wagemans
-- *Eyes, Still-Lifes & Eidolons \[Dash] Effects of Colour and Object information on Eye Movements* - Doris Braun
-- *Painterly Style Transfer with Learned Brush Strokes* - Yuchen Wu
-- *Lifelike Butterflies Painted with Oil and Colourful Dust* - V.E. Mandrij
-- *Mapping visual attention to important and unimportant details in art photographs and paintings* - Maarten Leemans
-- *Illusory colours in monocular rivalry* - Leone Burridge
-- *Artworks -flat packed lunch* - Eve cromwell
-- *A love letter and its secret author. Vermeer's "Girl reading a letter at an open window" as a thought-vision of the viewer* - Martin Lottermoser
-- *Assessing material appearance based on image color entropy* - Masataka Sawayama
-- *Rethinking Realism: an interdisciplinary exploration of Upper Palaeolithic Venus Figurines through eye-tracking methodologies* - Sam Hirst
-- *Hue-Specific Effects of Lighting on Perceived Atmosphere* - Giulio Palma
-- *The influence of the variations in daylight on the perception of colour* - Catherine Toulouse
-- *Reconstructing Maarten van Heemskerck's flesh paint* - Lieve d'Hont
-- *Presentation of artworks* - Jenny Mc Namara
-- *Picture-surface, picture-subject: an empirical assessment of Wollheim´s theory of Twofoldness* - Anna Miscena
-- *What words do we use to describe colour-changing (iridescent) surfaces?* - Li Shiwen
-- *Cast shadows enhance pictorial depth perception of volumetric shapes* - Robert Volcic
+- *Neanderthal Art and the Problem of Ethnocentrism* - [Tullio Abruzzese](https://www.linkedin.com/in/tullio-abruzzese-2935ba5a/?originalSubdomain=nl)
+- *3D printing the Mixtec skull: The opportunities and challenges technology provides in discussing ethical issues surrounding contested heritage in a co-creative, inclusive, and responsible way.* - [Liselore Tissen](https://www.universiteitleiden.nl/medewerkers/liselore-tissen#tab-1)
+- *A Watermark Recognition System: an Approach to Matching Similar Watermarks* - [Vladimir Petkov](https://graphics.tudelft.nl/martin-skrodzki/)
+- *Does Camera Movement Move Us, or: How embodied is Film Viewing?* - [Lisa-Maria van Klaveren](https://research.rug.nl/en/persons/lisa-maria-klaveren-van)
+- *Learning variable shape footprints from brushstroke models* - [Yuchen Wu](https://researchportal.bath.ac.uk/en/persons/yuchen-wu)
+- *Exploring infinite spaces from finite confinements* - [Scott Jochems]()
+- *Image Complexity vs Aesthetic Appreciation in Abstract Art* - [Maartje Raijmakers](https://www.uva.nl/profiel/r/a/m.e.j.raijmakers/m.e.j.raijmakers.html?cb)
+- *The Picture Stares Back* - [Andrea J. van Doorn](https://scholar.google.com/citations?user=_6VnqIwAAAAJ&hl=nl)
+- *Image-Works: An Exhibition Study Focused on the Interactions between the Medium of Depiction and (Re-)Presentation in Vision* - [Johan Wagemans](https://gestaltrevision.be/home)
+- *Eyes, Still-Lifes & Eidolons \[Dash] Effects of Colour and Object information on Eye Movements* - [Doris Braun](https://www.allpsych.uni-giessen.de/doris/)
+- *Painterly Style Transfer with Learned Brush Strokes* - [Yuchen Wu](https://researchportal.bath.ac.uk/en/persons/xiaochang-liu)
+- *Lifelike Butterflies Painted with Oil and Colourful Dust* - [V.E. Mandrij](https://www.linkedin.com/in/v-e-mandrij-a28b3ba5/?originalSubdomain=nl)
+- *Mapping visual attention to important and unimportant details in art photographs and paintings* - [Maarten Leemans](https://www.linkedin.com/in/maarten-leemans-317547210/)
+- *Illusory colours in monocular rivalry* - [Leone Burridge](https://leoneburridge.com)
+- *Artworks -flat packed lunch* - [Eve cromwell](https://evelyncromwell.weebly.com)
+- *A love letter and its secret author.
+Vermeer's "Girl reading a letter at an open window" as a thought-vision of the viewer* - [Martin Lottermoser](https://www.linkedin.com/in/martin-lottermoser-a475b716a/?originalSubdomain=de)
+- *Assessing material appearance based on image color entropy* - [Masataka Sawayama](https://www.mswym.com)
+- *Rethinking Realism: an interdisciplinary exploration of Upper Palaeolithic Venus Figurines through eye-tracking methodologies* - [Sam Hirst]()
+- *Hue-Specific Effects of Lighting on Perceived Atmosphere* - [Giulio Palma](https://www.linkedin.com/in/giulio-palma-44827714b/?originalSubdomain=uk)
+- *The influence of the variations in daylight on the perception of colour* - [Catherine Toulouse](https://www.lengyeltoulouse.com)
+- *Reconstructing Maarten van Heemskerck's flesh paint* - [Lieve d'Hont](https://www.linkedin.com/in/lieve-d-hont-a0527642/?originalSubdomain=nl)
+- *Presentation of artworks* - [Jenny Mc Namara](https://jennymcnamara.com)
+- *Picture-surface, picture-subject: an empirical assessment of Wollheim´s theory of Twofoldness* - [Anna Miscena](https://kunstgeschichte.univie.ac.at/ueber-uns/mitarbeiterinnen/projektmitarbeiterinnen/miscena-anna/)
+- *What words do we use to describe colour-changing (iridescent) surfaces?* - [Li Shiwen](https://www.linkedin.com/in/lshiwen/?originalSubdomain=uk)
+- *Cast shadows enhance pictorial depth perception of volumetric shapes* - [Robert Volcic](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/robert-volcic.html)
 
 
 ### 15:00:15:30 Coffee
