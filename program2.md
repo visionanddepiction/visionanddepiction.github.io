@@ -1,5 +1,5 @@
 # Program
-This program is preliminary and aims to give an overall impression of what to expect. We may shuffle a bit before we freeze to program into its final form.
+This program is preliminary and aims to give an overall impression of what to expect. We may shuffle a bit before we cast to schedule into its final form.
 
 We added personal links to provide some context but if you don't like it or want to change it please contact us.
 
@@ -94,7 +94,7 @@ We added personal links to provide some context but if you don't like it or want
 
 ## Friday
 ### 8:45-10:30 Knowing through making
-- *Analogies: When I Draw a Song for a Film* - [Dejan Grba]([)https://dejangrba.org/dejan-grba/en/index.php)
+- *Analogies: When I Draw a Song for a Film* - [Dejan Grba](https://dejangrba.org/dejan-grba/en/index.php)
 - *Depicting Truth through Deceit: the role of the faux altarpiece in the Portuguese mural painting* - [Patricia Monteiro](https://lisboa.academia.edu/PatriciaMonteiro)
 - *Drawings as Cognitive Artefacts* [Jens Dam Ziska](https://www.jensdamziska.com)
 - *Critical Neuroart: A Neurocultural Reading of Robert Morris' Self-Portrait (EEG)* - [Nim Goede](https://uva.academia.edu/NimGoede)
