@@ -26,6 +26,16 @@ We added personal links to provide some context but if you don't like it or want
 17:15-18:45 [Keynote collective](#keynote3)<br>
 19:30 - [...] Conference dinner (not yet certain)
 
+[Friday](#friday)<br>
+8:45-10:30 [Knowing through making](#knowing)<br>
+10:30-11:00 Coffee<br>
+11:00-12:30 [Keynote collective](#keynote4)<br>
+12:30-13:30 Lunch<br>
+13:30-15:00 Workshop<br>
+15:00:16:00 Coffee & matchmaking / discussions in groups<br>
+16:00-17:45 [The aesthetic gaze](#aesthetic)<br>
+17:45-18:15 Closing discussion<br>
+18:30- [...] Farewell reception<br>
 
 
 # Program in detail:
@@ -121,7 +131,7 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 ### 19:30 - [...] Conference dinner (not yet certain)
 
 ## Friday
-### 8:45-10:30 Knowing through making
+### 8:45-10:30 Knowing through making {#knowing}
 - *Analogies: When I Draw a Song for a Film* - [Dejan Grba](https://dejangrba.org/dejan-grba/en/index.php)
 - *Depicting Truth through Deceit: the role of the faux altarpiece in the Portuguese mural painting* - [Patricia Monteiro](https://lisboa.academia.edu/PatriciaMonteiro)
 - *Drawings as Cognitive Artefacts* [Jens Dam Ziska](https://www.jensdamziska.com)
@@ -132,7 +142,7 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 
 ### 10:30-11:00 Coffee
 
-### 11:00-12:30 Keynote collective
+### 11:00-12:30 Keynote collective {#keynote4}
 - [Hannah Smithson](https://www.psy.ox.ac.uk/people/hannah-smithson)
 - [Joost Swarte](https://www.joostswarte.nl)
 
@@ -142,7 +152,7 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 
 ### 15:00:16:00 Coffee & matchmaking / discussions in groups
 
-### 16:00-17:45 The aesthetic gaze
+### 16:00-17:45 The aesthetic gaze {#aesthetic}
 - *Flattened Intensities, Intensified Flatness : Aesthetic Appreciation of Contemporary Abstract Art Changes as a Result of Context Information* -	[Stefanie De Winter](https://www.stefaniedewinter.com)
 - *Disentangled Aesthetics – In Art Portraits Global Image Properties Predict the Beauty of the Painting but not the Attractiveness of the Sitter*	[Gregor Hayn-Leichsenring](https://scholar.google.com/citations?user=ZnmuzZIAAAAJ&hl=en)
 - *Balance, Mondrian and Harmony* -	[Jeroen Stumpel](https://www.uu.nl/medewerkers/JFHJStumpel)
