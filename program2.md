@@ -4,13 +4,13 @@ This program is preliminary and aims to give an overall impression of what to ex
 We added personal links to provide some context but if you don't like it or want to change it please contact us.
 
 Program at a glance (scroll down for more detail, or start [here](#wednesday)):
-[Wednesday](#wednesday)
-13:00 Opening sessions
-13:15-14:45 [Texture](#texture)
-14:45-15:00 Coffee
-15:00-16:30 [Colour and light](#colour-and-light)
-16:30-16:45 Break
-16:45-18:15 [Keynote collective](#keynote-collective-i)
+[Wednesday](#wednesday)<br>
+13:00 Opening sessions<br>
+13:15-14:45 [Texture](#texture)<br>
+14:45-15:00 Coffee<br>
+15:00-16:30 [Colour and light](#colour)<br>
+16:30-16:45 Break<br>
+16:45-18:15 [Keynote collective](#keynote1)<br>
 18:15-[...] Opening reception
 
 
@@ -18,7 +18,7 @@ Program at a glance (scroll down for more detail, or start [here](#wednesday)):
 ## Wednesday
 ### 13:00 Opening session
 
-### 13:15-14:45 Texture
+### 13:15-14:45 Texture {#texture}
 - *Designing Knowledge: Theoretical Considerations on Information and Decoration in Prehistory*	 - [Dale Daykin](https://www.linkedin.com/in/dale-daykin-a2822111a/?originalSubdomain=uk)
 - *Eidolons …*	- [Jan Koenderink](https://scholar.google.com/citations?user=lxW3wvMAAAAJ&hl=en)
 - *Tintoretto's Texture: An Experiment in Non-Contact 3D Laser Scanning* - [Cleo Nisse](https://arthistory.columbia.edu/content/cleo-nisse)
@@ -26,7 +26,7 @@ Program at a glance (scroll down for more detail, or start [here](#wednesday)):
 
 ### 14:45-15:00 Coffee
 
-### 15:00-16:30 Colour and light
+### 15:00-16:30 Colour and light {#colour}
 - *The Colours of Ugliness*	- [Anya Hurlbert](https://www.ncl.ac.uk/psychology/people/profile/anyahurlbert.html)
 - *Form, material, light and meaning of the reliefs of Schoonhoven and their photographs of Wolleh* -	[Sylvia Pont](https://www.tudelft.nl/io/over-io/personen/pont-sc)
 - *How to paint a smell. The use of cross-modal correspondence between smell and vision in art and design.* -	[Francesca Di Cicco](https://www.uu.nl/staff/FdiCicco)
@@ -35,7 +35,7 @@ Program at a glance (scroll down for more detail, or start [here](#wednesday)):
 
 ### 16:30-16:45 Break
 
-### 16:45-18:15 Keynote collective I
+### 16:45-18:15 Keynote collective I {#keynote1}
 - [Ann-Sophie Lehmann](https://www.rug.nl/staff/a.s.lehmann/?lang=en)
 - [Evelina Domnitch + Dmitry Gelfand](http://www.portablepalace.com)
 
