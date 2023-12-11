@@ -3,12 +3,24 @@ This program is preliminary and aims to give an overall impression of what to ex
 
 We added personal links to provide some context but if you don't like it or want to change it please contact us.
 
+Program at a glance (scroll down for more detail, or start [here](#wednesday)):
+[Wednesday](#wednesday)
+13:00 Opening sessions
+13:15-14:45 [Texture](#texture)
+14:45-15:00 Coffee
+15:00-16:30 [Colour and light](#colour-and-light)
+16:30-16:45 Break
+16:45-18:15 [Keynote collective](#keynote-collective-i)
+18:15-[...] Opening reception
+
+
+
 ## Wednesday
 ### 13:00 Opening session
 
 ### 13:15-14:45 Texture
 - *Designing Knowledge: Theoretical Considerations on Information and Decoration in Prehistory*	 - [Dale Daykin](https://www.linkedin.com/in/dale-daykin-a2822111a/?originalSubdomain=uk)
-- *Eidolons …*	- [Jan Koenderink:](https://scholar.google.com/citations?user=lxW3wvMAAAAJ&hl=en)
+- *Eidolons …*	- [Jan Koenderink](https://scholar.google.com/citations?user=lxW3wvMAAAAJ&hl=en)
 - *Tintoretto's Texture: An Experiment in Non-Contact 3D Laser Scanning* - [Cleo Nisse](https://arthistory.columbia.edu/content/cleo-nisse)
 - *The fundamental building blocks of human texture perception.	Professor* - [Robert Kentridge](https://www.durham.ac.uk/staff/robert-kentridge/)
 
@@ -23,7 +35,7 @@ We added personal links to provide some context but if you don't like it or want
 
 ### 16:30-16:45 Break
 
-### 16:45-18:15 Keynote collective
+### 16:45-18:15 Keynote collective I
 - [Ann-Sophie Lehmann](https://www.rug.nl/staff/a.s.lehmann/?lang=en)
 - [Evelina Domnitch + Dmitry Gelfand](http://www.portablepalace.com)
 
