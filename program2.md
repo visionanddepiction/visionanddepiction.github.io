@@ -3,7 +3,7 @@ This program is preliminary and aims to give an overall impression of what to ex
 
 We added personal links to provide some context but if you don't like it or want to change it please contact us.
 
-Program at a glance (scroll down for more detail, or start [here](#wednesday)):
+# Program at a glance:
 [Wednesday](#wednesday)<br>
 13:00 Opening sessions<br>
 13:15-14:45 [Texture](#texture)<br>
@@ -14,6 +14,21 @@ Program at a glance (scroll down for more detail, or start [here](#wednesday)):
 18:15-[...] Opening reception
 
 
+[Thursday](#thursday)<br>
+8:45-10:30 [Space and motion](#space)<br>
+10:30-11:00 Coffee<br>
+11:00-12:30 [Keynote collective](#keynote2)<br>
+12:30-13:30 Lunch<br>
+13:30-15:30 [Posters](#posters)<br>
+15:00:15:30 Coffee<br>
+15:30-17:00 [Materials & Materiality](#materials)<br>
+17:00-17:15 Short break<br>
+17:15-18:45 [Keynote collective](#keynote3)<br>
+19:30 - [...] Conference dinner (not yet certain)
+
+
+
+# Program in detail:
 
 ## Wednesday
 ### 13:00 Opening session
@@ -42,7 +57,7 @@ Program at a glance (scroll down for more detail, or start [here](#wednesday)):
 ### 18:15-[...] Opening reception
 
 ## Thursday
-### 8:45-10:30 Space and motion
+### 8:45-10:30 Space and motion {#space}
 - *Motion and layout depiction using 2D/3D animation tools* - 	Melvin Even
 - *Representing the manifold gaze of architectural spaces* - 	[Eugene Han](https://aad.lehigh.edu/eugene-han)
 - *“Framing” the landscape. Movement, Landscape and Cinema.	Assistant Professor* - [Vitor Gomes](https://www.uevora.pt/pessoas?id=4793)
@@ -51,13 +66,13 @@ Program at a glance (scroll down for more detail, or start [here](#wednesday)):
 
 ### 10:30-11:00 Coffee
 
-### 11:00-12:30 Keynote collective
+### 11:00-12:30 Keynote collective {#keynote2}
 - [Tim Jenison](https://en.wikipedia.org/wiki/Tim%27s_Vermeer)
 - [Janne Schimmel](https://janneschimmel.com)
 
 ### 12:30-13:30 Lunch
 
-### 13:30-15:00 Posters
+### 13:30-15:00 Posters {#posters}
 
 - *Neanderthal Art and the Problem of Ethnocentrism* - [Tullio Abruzzese](https://www.linkedin.com/in/tullio-abruzzese-2935ba5a/?originalSubdomain=nl)
 - *3D printing the Mixtec skull: The opportunities and challenges technology provides in discussing ethical issues surrounding contested heritage in a co-creative, inclusive, and responsible way.* - [Liselore Tissen](https://www.universiteitleiden.nl/medewerkers/liselore-tissen#tab-1)
@@ -89,7 +104,7 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 
 ### 15:00:15:30 Coffee
 
-### 15:30-17:00 Materials & Materiality
+### 15:30-17:00 Materials & Materiality {*materials}
 - *Solid and fleeting depicting material stories in a materials collection*	[Sarah Kaiser](https://www.burg-halle.de/hochschule/information/personen/p/sarah-kaiser/)
 - *Free Exploration of Materiality and Space Across Three Contemporary Art Exhibitions*	[Christopher Linden](https://www.researchgate.net/profile/Christopher-Linden-3)
 - *Pieter Bruegel's Blind Figures, Visuality and the Human Position*	[Hannah De Corte](http://www.hannahdecorte.com)
@@ -98,7 +113,7 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 
 ### 17:00-17:15 Short break
 
-### 17:15-18:45 Keynote collective
+### 17:15-18:45 Keynote collective {#keynote3}
 - Paul Pettitt - *From body marks to figurative art: what we know about the Ice Age evolution of human visual culture*
 - Persijn Broersen and Margit Lukacs - *Vision & Fiction, Depiction & Deception; The Place of Image*
 
