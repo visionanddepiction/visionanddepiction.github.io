@@ -114,7 +114,7 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 
 ### 15:00:15:30 Coffee
 
-### 15:30-17:00 Materials & Materiality {*materials}
+### 15:30-17:00 Materials & Materiality {#materials}
 - *Solid and fleeting depicting material stories in a materials collection*	[Sarah Kaiser](https://www.burg-halle.de/hochschule/information/personen/p/sarah-kaiser/)
 - *Free Exploration of Materiality and Space Across Three Contemporary Art Exhibitions*	[Christopher Linden](https://www.researchgate.net/profile/Christopher-Linden-3)
 - *Pieter Bruegel's Blind Figures, Visuality and the Human Position*	[Hannah De Corte](http://www.hannahdecorte.com)
@@ -155,7 +155,7 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 ### 16:00-17:45 The aesthetic gaze {#aesthetic}
 - *Flattened Intensities, Intensified Flatness : Aesthetic Appreciation of Contemporary Abstract Art Changes as a Result of Context Information* -	[Stefanie De Winter](https://www.stefaniedewinter.com)
 - *Disentangled Aesthetics – In Art Portraits Global Image Properties Predict the Beauty of the Painting but not the Attractiveness of the Sitter*	[Gregor Hayn-Leichsenring](https://scholar.google.com/citations?user=ZnmuzZIAAAAJ&hl=en)
-- *Balance, Mondrian and Harmony* -	[Jeroen Stumpel](https://www.uu.nl/medewerkers/JFHJStumpel)
+- *On Mondrian, meaning and balance.* -	[Jeroen Stumpel](https://www.uu.nl/medewerkers/JFHJStumpel)
 - *Seeing and Sensing*	- [Yanai Toister](https://yanaitoister.com)
 - *A Semiotics of Perspective and Vision in Donatello’s Relief Sculpture*	 [David Drogin](https://www.fitnyc.edu/creative-nexus/faculty/directory/drogin-david.php)
 
