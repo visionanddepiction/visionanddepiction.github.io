@@ -62,7 +62,7 @@ We added personal links to provide some context but if you don't like it or want
 
 ### 16:45-18:15 Keynote collective I {#keynote1}
 - [Ann-Sophie Lehmann](https://www.rug.nl/staff/a.s.lehmann/?lang=en)
-- [Evelina Domnitch + Dmitry Gelfand](http://www.portablepalace.com)
+- [Evelina Domnitch + Dmitry Gelfand](http://www.portablepalace.com) - *Trapping the Objectless*
 
 ### 18:15-[...] Opening reception
 
