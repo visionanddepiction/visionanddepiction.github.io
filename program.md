@@ -11,7 +11,7 @@ We added personal links to provide some context but if you don't like it or want
 15:00-16:30 [Colour and light](#colour)<br>
 16:30-16:45 Break<br>
 16:45-18:15 [Keynote collective](#keynote1)<br>
-18:15-[...] Opening reception
+18:15 Opening reception
 
 
 [Thursday](#thursday)<br>
@@ -24,7 +24,7 @@ We added personal links to provide some context but if you don't like it or want
 15:30-17:00 [Materials & Materiality](#materials)<br>
 17:00-17:15 Short break<br>
 17:15-18:45 [Keynote collective](#keynote3)<br>
-19:30 - [...] Conference dinner (not yet certain)
+19:30 Conference dinner (not yet certain)
 
 [Friday](#friday)<br>
 8:45-10:30 [Knowing through making](#knowing)<br>
@@ -35,7 +35,7 @@ We added personal links to provide some context but if you don't like it or want
 15:00:16:00 Coffee & matchmaking / discussions in groups<br>
 16:00-17:45 [The aesthetic gaze](#aesthetic)<br>
 17:45-18:15 Closing discussion<br>
-18:30- [...] Farewell reception<br>
+18:30- Farewell reception<br>
 
 
 # Program in detail:
