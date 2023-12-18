@@ -1,13 +1,11 @@
-# Updates
-Preliminary program is online.
+
+Check out our preliminary program [here](program.html).
+
 
 # Intro
 After two conferences The Skin of Things [2018](https://theskinofthings.github.io) and [2021](https://theskinofthings2021.github.io) that focussed on the depiction and perception of *material properties*, we decided to broaden the scope and organise **Vision and Depiction 2024**. It will take place in the lovely Dutch city of *Delft* from *7-9 February 2024*.
 
 ![Creative Commons Attribution-Share Alike 4.0 International - W Bulach](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/00_0781_Canal_in_Delft_%28NL%29.jpg/640px-00_0781_Canal_in_Delft_%28NL%29.jpg)
-
-# Program
-Check out our preliminary program [here](program.html).
 
 
 # About
