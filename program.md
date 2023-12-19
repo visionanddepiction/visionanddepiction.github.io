@@ -64,7 +64,7 @@ We added personal links to provide some context but if you don't like it or want
 - [Ann-Sophie Lehmann](https://www.rug.nl/staff/a.s.lehmann/?lang=en)
 - [Evelina Domnitch + Dmitry Gelfand](http://www.portablepalace.com) - *Trapping the Objectless*
 
-### 18:15-[...] Opening reception
+### 18:15 Opening reception
 
 ## Thursday
 ### 8:45-10:30 Space and motion {#space}
@@ -128,7 +128,7 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 - Persijn Broersen and Margit Lukacs - *Vision & Fiction, Depiction & Deception; The Place of Image*
 
 
-### 19:30 - [...] Conference dinner (not yet certain)
+### 19:30 Conference dinner (not yet certain)
 
 ## Friday
 ### 8:45-10:30 Knowing through making {#knowing}
@@ -161,4 +161,4 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 
 ### 17:45-18:15 Closing discussion
 
-### 18:30- [...] Farewell reception
+### 18:30 - Farewell reception
