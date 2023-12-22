@@ -61,7 +61,7 @@ We added personal links to provide some context but if you don't like it or want
 ### 16:30-16:45 Break
 
 ### 16:45-18:15 Keynote collective I {#keynote1}
-- [Ann-Sophie Lehmann](https://www.rug.nl/staff/a.s.lehmann/?lang=en)
+- [Ann-Sophie Lehmann](https://www.rug.nl/staff/a.s.lehmann/?lang=en) -*Sketchy, Tiny, Black-and-White. An Ecological Approach to Depicting the World in 17th Century Visual Education.*
 - [Evelina Domnitch + Dmitry Gelfand](http://www.portablepalace.com) - *Trapping the Objectless*
 
 ### 18:15 Opening reception
@@ -77,7 +77,7 @@ We added personal links to provide some context but if you don't like it or want
 ### 10:30-11:00 Coffee
 
 ### 11:00-12:30 Keynote collective {#keynote2}
-- [Tim Jenison](https://en.wikipedia.org/wiki/Tim%27s_Vermeer)
+- [Tim Jenison](https://en.wikipedia.org/wiki/Tim%27s_Vermeer) - *An Optical View of Delft*
 - [Janne Schimmel](https://janneschimmel.com)
 
 ### 12:30-13:30 Lunch
