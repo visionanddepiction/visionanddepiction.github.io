@@ -46,8 +46,9 @@ We added personal links to provide some context but if you don't like it or want
 ### 13:15-14:45 Texture {#texture}
 - Designing Knowledge: Theoretical Considerations on Information and Decoration in Prehistory	 - [Dale Daykin](https://www.linkedin.com/in/dale-daykin-a2822111a/?originalSubdomain=uk)
 - Eidolons …	- [Jan Koenderink](https://scholar.google.com/citations?user=lxW3wvMAAAAJ&hl=en)
-- Tintoretto's Texture: An Experiment in Non-Contact 3D Laser Scanning - [Cleo Nisse](https://arthistory.columbia.edu/content/cleo-nisse)
+
 - The fundamental building blocks of human texture perception.	Professor - [Robert Kentridge](https://www.durham.ac.uk/staff/robert-kentridge/)
+- Material perception across different media - comparing perceived attributes in paintings and engravings	[Yuguang Zhao](https://www.linkedin.com/in/yuguangzhao/?originalSubdomain=nl)
 
 ### 14:45-15:00 Coffee
 
@@ -119,7 +120,7 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 - Free Exploration of Materiality and Space Across Three Contemporary Art Exhibitions	[Christopher Linden](https://www.researchgate.net/profile/Christopher-Linden-3)
 - Pieter Bruegel's Blind Figures, Visuality and the Human Position	[Hannah De Corte](http://www.hannahdecorte.com)
 - Material Experience Framework in Cultural Heritage -	[Willemijn Elkhuizen](https://www.tudelft.nl/io/over-io/personen/elkhuizen-ws)
-- Material perception across different media - comparing perceived attributes in paintings and engravings	[Yuguang Zhao](https://www.linkedin.com/in/yuguangzhao/?originalSubdomain=nl)
+- Tintoretto's Texture: An Experiment in Non-Contact 3D Laser Scanning - [Cleo Nisse](https://arthistory.columbia.edu/content/cleo-nisse)
 
 ### 17:00-17:15 Short break
 
