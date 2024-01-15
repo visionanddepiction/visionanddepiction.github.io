@@ -27,7 +27,7 @@ We added personal links to provide some context but if you don't like it or want
 19:30 Conference dinner (not yet certain)
 
 [Friday](#friday)<br>
-8:45-10:30 [Colour and light](#colour)<br>
+9:30-10:30 [Colour and light](#colour)<br>
 10:30-11:00 Coffee<br>
 11:00-12:30 [Keynote collective](#keynote4)<br>
 12:30-13:30 Lunch<br>
@@ -135,7 +135,7 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 ### 19:30 Conference dinner
 
 ## Friday
-### 8:45-10:30 Colour and light {#colour}
+### 9:00-10:30 Colour and light {#colour}
 - The Colours of Ugliness	- [Anya Hurlbert](https://www.ncl.ac.uk/psychology/people/profile/anyahurlbert.html)
 - Form, material, light and meaning of the reliefs of Schoonhoven and their photographs of Wolleh -	[Sylvia Pont](https://www.tudelft.nl/io/over-io/personen/pont-sc)
 - How to paint a smell. The use of cross-modal correspondence between smell and vision in art and design. -	[Francesca Di Cicco](https://www.uu.nl/staff/FdiCicco)
