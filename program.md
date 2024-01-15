@@ -8,7 +8,7 @@ We added personal links to provide some context but if you don't like it or want
 13:00 Opening sessions<br>
 13:15-14:45 [Texture](#texture)<br>
 14:45-15:00 Coffee<br>
-15:00-16:30 [Colour and light](#colour)<br>
+15:00-16:30 [Knowing through making](#knowing)<br>
 16:30-16:45 Break<br>
 16:45-18:15 [Keynote collective](#keynote1)<br>
 18:15 Opening reception
@@ -27,7 +27,7 @@ We added personal links to provide some context but if you don't like it or want
 19:30 Conference dinner (not yet certain)
 
 [Friday](#friday)<br>
-8:45-10:30 [Knowing through making](#knowing)<br>
+8:45-10:30 [Colour and light](#colour)<br>
 10:30-11:00 Coffee<br>
 11:00-12:30 [Keynote collective](#keynote4)<br>
 12:30-13:30 Lunch<br>
@@ -52,11 +52,14 @@ We added personal links to provide some context but if you don't like it or want
 
 ### 14:45-15:00 Coffee
 
-### 15:00-16:30 Colour and light {#colour}
-- The Colours of Ugliness	- [Anya Hurlbert](https://www.ncl.ac.uk/psychology/people/profile/anyahurlbert.html)
-- Form, material, light and meaning of the reliefs of Schoonhoven and their photographs of Wolleh -	[Sylvia Pont](https://www.tudelft.nl/io/over-io/personen/pont-sc)
-- How to paint a smell. The use of cross-modal correspondence between smell and vision in art and design. -	[Francesca Di Cicco](https://www.uu.nl/staff/FdiCicco)
-- The appeal of Ganzfeld art: a matter of losing and regaining grip on depth? -	[Eleftheria Pistolas](https://www.linkedin.com/in/eleftheria-pistolas-02301313a/)
+### 15:00-16:30 Knowing through making {#knowing}
+- Analogies: When I Draw a Song for a Film - [Dejan Grba](https://dejangrba.org/dejan-grba/en/index.php)
+- Depicting Truth through Deceit: the role of the faux altarpiece in the Portuguese mural painting - [Patricia Monteiro](https://lisboa.academia.edu/PatriciaMonteiro)
+- Against Repoussoir: An Exploration of Knowledge through Making - [Catelijne van Middelkoop](Catelijne van Middelkoop)
+- Drawings as Cognitive Artefacts [Jens Dam Ziska](https://www.jensdamziska.com)
+- Critical Neuroart: A Neurocultural Reading of Robert Morris' Self-Portrait (EEG) - [Nim Goede](https://uva.academia.edu/NimGoede)
+
+
 
 
 ### 16:30-16:45 Break
@@ -129,15 +132,14 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 - Persijn Broersen and Margit Lukacs - Vision & Fiction, Depiction & Deception; The Place of Image
 
 
-### 19:30 Conference dinner (not yet certain)
+### 19:30 Conference dinner
 
 ## Friday
-### 8:45-10:30 Knowing through making {#knowing}
-- Analogies: When I Draw a Song for a Film - [Dejan Grba](https://dejangrba.org/dejan-grba/en/index.php)
-- Depicting Truth through Deceit: the role of the faux altarpiece in the Portuguese mural painting - [Patricia Monteiro](https://lisboa.academia.edu/PatriciaMonteiro)
-- Against Repoussoir: An Exploration of Knowledge through Making - [Catelijne van Middelkoop](Catelijne van Middelkoop)
-- Drawings as Cognitive Artefacts [Jens Dam Ziska](https://www.jensdamziska.com)
-- Critical Neuroart: A Neurocultural Reading of Robert Morris' Self-Portrait (EEG) - [Nim Goede](https://uva.academia.edu/NimGoede)
+### 8:45-10:30 Colour and light {#colour}
+- The Colours of Ugliness	- [Anya Hurlbert](https://www.ncl.ac.uk/psychology/people/profile/anyahurlbert.html)
+- Form, material, light and meaning of the reliefs of Schoonhoven and their photographs of Wolleh -	[Sylvia Pont](https://www.tudelft.nl/io/over-io/personen/pont-sc)
+- How to paint a smell. The use of cross-modal correspondence between smell and vision in art and design. -	[Francesca Di Cicco](https://www.uu.nl/staff/FdiCicco)
+- The appeal of Ganzfeld art: a matter of losing and regaining grip on depth? -	[Eleftheria Pistolas](https://www.linkedin.com/in/eleftheria-pistolas-02301313a/)
 - The interplay between colour and value - [Jan Willem Hoftijzer & Mark Sypesteyn](http://www.delftdesigndrawing.com)
 
 
