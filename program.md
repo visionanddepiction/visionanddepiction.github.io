@@ -138,7 +138,7 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 We will have our conference dinner at [Lychee restaurant](https://lycheedelft.com/home), one of the most popular places in town! Besides awesome food, you can look out the window and imagine Vermeer (and Tim!) viewing in your direction.
 
 
-![Conference dinner](images/fVermeer-view-of-delft.png)
+![Conference dinner](images/fVermeer-view-of-delft.jpg)
 
 
 ## Friday
@@ -172,4 +172,4 @@ We will have our conference dinner at [Lychee restaurant](https://lycheedelft.co
 ### 17:45-18:15 Closing discussion
 
 ### 18:30 - Farewell reception
-Very close to the train station and opposite to musuem Prinsenhof we reserved a cosy space at [Bar/Baar](https://barbaar.nl) where we will have some farewell food and drinks. 
+Very close to the train station and opposite to musuem Prinsenhof we reserved a cosy space at [Bar/Baar](https://barbaar.nl) where we will have some farewell food and drinks.
