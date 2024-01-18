@@ -1,4 +1,4 @@
-Check out our preliminary program [here](program.html).
+Check out our program [here](program.html).
 
 
 # Intro

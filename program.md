@@ -1,7 +1,7 @@
 # Program
-This program is preliminary and aims to give an overall impression of what to expect. We may shuffle a bit before we cast to schedule into its final form.
+<!--This program is preliminary and aims to give an overall impression of what to expect. We may shuffle a bit before we cast to schedule into its final form.
 
-We added personal links to provide some context but if you don't like it or want to change it please contact us.
+We added personal links to provide some context but if you don't like it or want to change it please contact us.-->
 
 # Program at a glance:
 [Wednesday](#wednesday)<br>
