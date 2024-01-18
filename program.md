@@ -24,7 +24,7 @@ We added personal links to provide some context but if you don't like it or want
 15:30-17:00 [Materials & Materiality](#materials)<br>
 17:00-17:15 Short break<br>
 17:15-18:45 [Keynote collective](#keynote3)<br>
-19:30 Conference dinner (not yet certain)
+19:30 Conference dinner
 
 [Friday](#friday)<br>
 9:30-10:30 [Colour and light](#colour)<br>
@@ -69,6 +69,7 @@ We added personal links to provide some context but if you don't like it or want
 - [Evelina Domnitch + Dmitry Gelfand](http://www.portablepalace.com) - Trapping the Objectless
 
 ### 18:15 Opening reception
+We'll have welcome drinks, enjoy great food creations from [Coco Dining](https://www.instagram.com/coco_dining_amsterdam) and experience a performance by keynote speakers [Evelina Domnitch + Dmitry Gelfand](http://www.portablepalace.com), all in the main hall of [Industrial Design Engineering](https://www.tudelft.nl/en/ide/).
 
 ## Thursday
 ### 8:45-10:30 Space and motion {#space}
@@ -134,6 +135,12 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 
 ### 19:30 Conference dinner
 
+We will have our conference dinner at [Lychee restaurant](https://lycheedelft.com/home), one of the most popular places in town! Besides awesome food, you can look out the window and imagine Vermeer (and Tim!) viewing in your direction.
+
+
+![Conference dinner](images/fVermeer-view-of-delft.png)
+
+
 ## Friday
 ### 9:00-10:30 Colour and light {#colour}
 - The Colours of Ugliness	- [Anya Hurlbert](https://www.ncl.ac.uk/psychology/people/profile/anyahurlbert.html)
@@ -165,3 +172,4 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 ### 17:45-18:15 Closing discussion
 
 ### 18:30 - Farewell reception
+Very close to the train station and opposite to musuem Prinsenhof we reserved a cosy space at [Bar/Baar](https://barbaar.nl) where we will have some farewell food and drinks. 
