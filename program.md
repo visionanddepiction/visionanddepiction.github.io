@@ -11,7 +11,7 @@ We added personal links to provide some context but if you don't like it or want
 15:00-16:30 [Knowing through making](#knowing)<br>
 16:30-16:45 Break<br>
 16:45-18:15 [Keynote collective](#keynote1)<br>
-18:15 Opening reception
+18:15 [Opening reception](#openingreception)
 
 
 [Thursday](#thursday)<br>
@@ -24,7 +24,7 @@ We added personal links to provide some context but if you don't like it or want
 15:30-17:00 [Materials & Materiality](#materials)<br>
 17:00-17:15 Short break<br>
 17:15-18:45 [Keynote collective](#keynote3)<br>
-19:30 Conference dinner
+19:30 [Conference dinner](#dinner)
 
 [Friday](#friday)<br>
 9:30-10:30 [Colour and light](#colour)<br>
@@ -35,7 +35,7 @@ We added personal links to provide some context but if you don't like it or want
 15:00:16:00 Coffee & matchmaking / discussions in groups<br>
 16:00-17:45 [The aesthetic gaze](#aesthetic)<br>
 17:45-18:15 Closing discussion<br>
-18:30- Farewell reception<br>
+18:30- [Farewell reception](#closingreception)<br>
 
 
 # Program in detail:
@@ -68,7 +68,7 @@ We added personal links to provide some context but if you don't like it or want
 - [Ann-Sophie Lehmann](https://www.rug.nl/staff/a.s.lehmann/?lang=en) -Sketchy, Tiny, Black-and-White. An Ecological Approach to Depicting the World in 17th Century Visual Education.
 - [Evelina Domnitch + Dmitry Gelfand](http://www.portablepalace.com) - Trapping the Objectless
 
-### 18:15 Opening reception
+### 18:15 Opening reception {#openingreception}
 We'll have welcome drinks, enjoy great food creations from [Coco Dining](https://www.instagram.com/coco_dining_amsterdam) and experience a performance by keynote speakers [Evelina Domnitch + Dmitry Gelfand](http://www.portablepalace.com), all in the main hall of [Industrial Design Engineering](https://www.tudelft.nl/en/ide/).
 
 ## Thursday
@@ -133,7 +133,7 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 - Persijn Broersen and Margit Lukacs - Vision & Fiction, Depiction & Deception; The Place of Image
 
 
-### 19:30 Conference dinner
+### 19:30 Conference dinner {#dinner}
 
 We will have our conference dinner at [Lychee restaurant](https://lycheedelft.com/home), one of the most popular places in town! Besides awesome food, you can look out the window and imagine Vermeer (and Tim!) viewing in your direction.
 
@@ -171,5 +171,5 @@ We will have our conference dinner at [Lychee restaurant](https://lycheedelft.co
 
 ### 17:45-18:15 Closing discussion
 
-### 18:30 - Farewell reception
+### 18:30 - Farewell reception {#closingreception}
 Very close to the train station and opposite to musuem Prinsenhof we reserved a cosy space at [Bar/Baar](https://barbaar.nl) where we will have some farewell food and drinks.
