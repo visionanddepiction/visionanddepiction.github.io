@@ -138,7 +138,7 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 We will have our conference dinner at [Lychee restaurant](https://lycheedelft.com/home), one of the most popular places in town! Besides awesome food, you can look out the window and imagine Vermeer (and Tim!) viewing in your direction.
 
 
-![Conference dinner](images/fVermeer-view-of-delft.jpg)
+![Conference dinner](images/Vermeer-view-of-delft.jpg)
 
 
 ## Friday
