@@ -12,7 +12,7 @@ This conference about pictorial production and perception aims to bring artists,
 
 ![V+D Framework](images/formcontent.png)
 
-# Venue & transport
+# Venue & transport {#venue}
 The conference will take place in the building of Industrial Design Engineering, adress is [Landbergstraat 15](https://maps.app.goo.gl/kVZdTikUVJ2K45b99). It is located on the TU Delft campus which is surprisingly close to the city center and train station. So close that you can actually walk everything. But if you want to take a bus, you can take them either at the [train station](https://maps.app.goo.gl/mSx1qp1StSSmc6zX9) or at the next stop [Zuidpoort](https://maps.app.goo.gl/8k1akNW47BkgY2s56). Two stops further and you'll already be at the venue.
 
 For transportation planning you can best use the website or app of the national railways [NS](https://www.ns.nl/en) which contains all public transport scheduling. There are direct trains between Delft and Schiphol. If the travel planner suggest to take a so-called 'intercity direct' I would ignore it as you need to buy a ticked supplement and it travels via Rotterdam where you need to transfer.  
