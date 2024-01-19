@@ -6,16 +6,19 @@ After two conferences The Skin of Things [2018](https://theskinofthings.github.i
 
 ![Creative Commons Attribution-Share Alike 4.0 International - W Bulach](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/00_0781_Canal_in_Delft_%28NL%29.jpg/640px-00_0781_Canal_in_Delft_%28NL%29.jpg)
 
+# Venue & transport {#venue}
+
+![V+D Framework](ide.jpg)
+The conference will take place in the building of Industrial Design Engineering, adress is [Landbergstraat 15](https://maps.app.goo.gl/kVZdTikUVJ2K45b99). It is located on the TU Delft campus which is surprisingly close to the city center and train station. So close that you can actually walk everything. But if you want to take a bus, you can take them either at the [train station](https://maps.app.goo.gl/mSx1qp1StSSmc6zX9) or at the next stop [Zuidpoort](https://maps.app.goo.gl/8k1akNW47BkgY2s56). Two stops further and you'll already be at the venue.
+
+For transportation planning you can best use the website or app of the national railways [NS](https://www.ns.nl/en) which contains all public transport scheduling. There are direct trains between Delft and Schiphol. If the travel planner suggest to take a so-called 'intercity direct' I would ignore it as you need to buy a ticked supplement and it travels via Rotterdam where you need to transfer.  
 
 # About
 This conference about pictorial production and perception aims to bring artists, designers, and scientists together to discuss various overlapping themes. These themes are based on our Vision and Depiction framework that has been developed while teaching about perception and communication. The framework describes the form and content of pictures. For now, we envision talk sessions centring around the elements of the framework. Within these themes, we hope to evoke discussions on both the medium and representation but also in the directions of semiotics and iconography and further contextual contemplation.
 
 ![V+D Framework](images/formcontent.png)
 
-# Venue & transport {#venue}
-The conference will take place in the building of Industrial Design Engineering, adress is [Landbergstraat 15](https://maps.app.goo.gl/kVZdTikUVJ2K45b99). It is located on the TU Delft campus which is surprisingly close to the city center and train station. So close that you can actually walk everything. But if you want to take a bus, you can take them either at the [train station](https://maps.app.goo.gl/mSx1qp1StSSmc6zX9) or at the next stop [Zuidpoort](https://maps.app.goo.gl/8k1akNW47BkgY2s56). Two stops further and you'll already be at the venue.
 
-For transportation planning you can best use the website or app of the national railways [NS](https://www.ns.nl/en) which contains all public transport scheduling. There are direct trains between Delft and Schiphol. If the travel planner suggest to take a so-called 'intercity direct' I would ignore it as you need to buy a ticked supplement and it travels via Rotterdam where you need to transfer.  
 
 
 # Special activities
