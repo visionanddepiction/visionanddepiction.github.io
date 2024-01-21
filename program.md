@@ -120,7 +120,7 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 ### 15:00:15:30 Coffee
 
 ### 15:30-17:00 Materials & Materiality {#materials}
-- Solid and fleeting depicting material stories in a materials collection	[Sarah Kaiser](https://www.burg-halle.de/hochschule/information/personen/p/sarah-kaiser/)
+- Solid and fleeting. Depicting material stories in a materials collection.	[Sarah Kaiser](https://www.burg-halle.de/hochschule/information/personen/p/sarah-kaiser/) and [Andi Wagner](https://andiwagner.de)
 - Free Exploration of Materiality and Space Across Three Contemporary Art Exhibitions	[Christopher Linden](https://www.researchgate.net/profile/Christopher-Linden-3)
 - Pieter Bruegel's Blind Figures, Visuality and the Human Position	[Hannah De Corte](http://www.hannahdecorte.com)
 - Material Experience Framework in Cultural Heritage -	[Willemijn Elkhuizen](https://www.tudelft.nl/io/over-io/personen/elkhuizen-ws)
