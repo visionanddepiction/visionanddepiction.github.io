@@ -153,7 +153,7 @@ We will have our conference dinner at [Lychee restaurant](https://lycheedelft.co
 ### 10:30-11:00 Coffee
 
 ### 11:00-12:30 Keynote collective {#keynote4}
-- [Hannah Smithson](https://www.psy.ox.ac.uk/people/hannah-smithson)
+- [Hannah Smithson](https://www.psy.ox.ac.uk/people/hannah-smithson) - From Pixels to Perception: Appreciating the structure in visual signals of material properties.
 - [Joost Swarte](https://www.joostswarte.nl)
 
 ### 12:30-13:30 Lunch
