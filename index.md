@@ -20,6 +20,9 @@ This conference about pictorial production and perception aims to bring artists,
 
 ![V+D Framework](images/formcontent.png)
 
+# Information for presenters
+
+## Poster presentation
 
 
 
