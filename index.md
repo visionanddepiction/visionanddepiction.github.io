@@ -22,11 +22,11 @@ This conference about pictorial production and perception aims to bring artists,
 
 # Information for presenters
 
-## Poster presentation
-Posters should ba A0 portrait orientation (i.e. higher than wide). If you want, you can print your poster in Delft at CSinBKCity, here are the [prices](https://csinbkcity.nl/price-list/?lang=en). In order to do so:
+## Poster presentation {#posters}
+Posters should be prepaired in A0 portrait orientation (118.8 cm high and 84 cm wide). If you want, you can print your poster in Delft at CSinBKCity, here are the [prices](https://csinbkcity.nl/price-list/?lang=en). In order to do so:
 - Send your poster to info@csinbkcity.nl
 - Let them know that it concerns a "Poster for conference Maarten Wijntjes"
-- Latest ordering date is 6 Februari 18:30. It will be ready the next morning and can be picked up across the train station at adres Westvest 47. 
+- Latest ordering date is 6 Februari 18:30. It will be ready the next morning and can be picked up across the train station at adres Westvest 47.
 
 
 ## Oral presentation
