@@ -6,8 +6,8 @@ We added personal links to provide some context but if you don't like it or want
 # Program at a glance:
 [Wednesday](#wednesday)<br>
 13:00 Opening sessions<br>
-13:15-14:45 [Texture](#texture)<br>
-14:45-15:00 Coffee<br>
+13:15-14:30 [Texture](#texture)<br>
+14:30-15:00 Coffee<br>
 15:00-16:30 [Knowing through making](#knowing)<br>
 16:30-16:45 Break<br>
 16:45-18:15 [Keynote collective](#keynote1)<br>
@@ -43,14 +43,14 @@ We added personal links to provide some context but if you don't like it or want
 ## Wednesday
 ### 13:00 Opening session
 
-### 13:15-14:45 Texture {#texture}
+### 13:15-14:30 Texture {#texture}
 - Designing Knowledge: Theoretical Considerations on Information and Decoration in Prehistory	 - [Dale Daykin](https://www.linkedin.com/in/dale-daykin-a2822111a/?originalSubdomain=uk)
 - Eidolons …	- [Jan Koenderink](https://scholar.google.com/citations?user=lxW3wvMAAAAJ&hl=en)
 
 - The fundamental building blocks of human texture perception. - [Robert Kentridge](https://www.durham.ac.uk/staff/robert-kentridge/)
 - Material perception across different media - comparing perceived attributes in paintings and engravings	[Yuguang Zhao](https://www.linkedin.com/in/yuguangzhao/?originalSubdomain=nl)
 
-### 14:45-15:00 Coffee
+### 14:30-15:00 Coffee
 
 ### 15:00-16:30 Knowing through making {#knowing}
 - Analogies: When I Draw a Song for a Film - [Dejan Grba](https://dejangrba.org/dejan-grba/en/index.php)
