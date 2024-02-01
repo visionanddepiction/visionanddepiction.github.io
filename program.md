@@ -5,6 +5,7 @@ We added personal links to provide some context but if you don't like it or want
 
 # Program at a glance:
 [Wednesday](#wednesday)<br>
+12:00 Registration open
 13:00 Opening sessions<br>
 13:15-14:30 [Texture](#texture)<br>
 14:30-15:00 Coffee<br>
