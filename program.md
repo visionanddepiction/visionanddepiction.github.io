@@ -27,7 +27,7 @@ We added personal links to provide some context but if you don't like it or want
 19:30 [Conference dinner](#dinner)
 
 [Friday](#friday)<br>
-9:30-10:30 [Colour and light](#colour)<br>
+9:00-10:30 [Colour and light](#colour)<br>
 10:30-11:00 Coffee<br>
 11:00-12:30 [Keynote collective](#keynote4)<br>
 12:30-13:30 Lunch<br>
