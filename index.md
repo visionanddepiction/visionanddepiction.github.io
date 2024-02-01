@@ -35,7 +35,7 @@ You can bring your own laptop or a USB. Please check whether everything works du
 
 # Special activities
 
-## Workshop by Delft Design Drawing
+## Workshop by Delft Design Drawing {#workshop}
 The design education in Delft has a long tradition of [design drawing](https://www.instagram.com/delftdesigndrawing/). During the workshop, they will ensure that you will not only contemplate but also practice Vision and Depiction.
 
 :-------------------------:|:-------------------------:
