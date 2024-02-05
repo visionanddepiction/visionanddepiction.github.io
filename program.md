@@ -5,7 +5,10 @@ We added personal links to provide some context but if you don't like it or want
 - [Program at a glance](#program-at-a-glance)
 - [Program in detail](#program-in-detail)
 - [Draft abstract book](files/V_D_abstracts.pdf)
-- [Draft abstract book (mobile)](files/V_D_abstracts-mobile.pdf)
+- [Draft abstract book (larger font, better on mobile)](files/V_D_abstracts-mobile.pdf)
+- Livestream link Wednesday (will appear on first day of conference)
+- Livestream link Thursday (will appear on first day of conference)
+- Livestream link Friday (will appear on first day of conference)
 
 # Program at a glance:
 [Wednesday](#wednesday)<br>
