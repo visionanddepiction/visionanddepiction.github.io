@@ -5,18 +5,18 @@ We added personal links to provide some context but if you don't like it or want
 
 # Program at a glance:
 [Wednesday](#wednesday)<br>
-12:00 Registration open
+12:00 Registration open (and lunch is served)<br>
 13:00 Opening sessions<br>
 13:15-14:30 [Texture](#texture)<br>
-14:30-15:00 Coffee<br>
+14:30-15:00 Coffee break<br>
 15:00-16:30 [Knowing through making](#knowing)<br>
-16:30-16:45 Break<br>
+16:30-16:45 Short break<br>
 16:45-18:15 [Keynote collective](#keynote1)<br>
 18:15 [Opening reception](#openingreception)
 
 
 [Thursday](#thursday)<br>
-8:45-10:30 [Space and motion](#space)<br>
+9:00-10:30 [Space and motion](#space)<br>
 10:30-11:00 Coffee<br>
 11:00-12:30 [Keynote collective](#keynote2)<br>
 12:30-13:30 Lunch<br>
@@ -48,10 +48,10 @@ We added personal links to provide some context but if you don't like it or want
 - Designing Knowledge: Theoretical Considerations on Information and Decoration in Prehistory	 - [Dale Daykin](https://www.linkedin.com/in/dale-daykin-a2822111a/?originalSubdomain=uk)
 - Eidolons …	- [Jan Koenderink](https://scholar.google.com/citations?user=lxW3wvMAAAAJ&hl=en)
 
-- The fundamental building blocks of human texture perception.	Professor - [Robert Kentridge](https://www.durham.ac.uk/staff/robert-kentridge/)
+- The fundamental building blocks of human texture perception. - [Robert Kentridge](https://www.durham.ac.uk/staff/robert-kentridge/)
 - Material perception across different media - comparing perceived attributes in paintings and engravings	[Yuguang Zhao](https://www.linkedin.com/in/yuguangzhao/?originalSubdomain=nl)
 
-### 14:45-15:00 Coffee
+### 14:30-15:00 Coffee
 
 ### 15:00-16:30 Knowing through making {#knowing}
 - Analogies: When I Draw a Song for a Film - [Dejan Grba](https://dejangrba.org/dejan-grba/en/index.php)
@@ -63,7 +63,7 @@ We added personal links to provide some context but if you don't like it or want
 
 
 
-### 16:30-16:45 Break
+### 16:30-16:45 Short break
 
 ### 16:45-18:15 Keynote collective I {#keynote1}
 - [Ann-Sophie Lehmann](https://www.rug.nl/staff/a.s.lehmann/?lang=en) -Sketchy, Tiny, Black-and-White. An Ecological Approach to Depicting the World in 17th Century Visual Education.
@@ -73,7 +73,7 @@ We added personal links to provide some context but if you don't like it or want
 We'll have welcome drinks, enjoy great food creations from [Coco Dining](https://www.instagram.com/coco_dining_amsterdam) and experience a performance by keynote speakers [Evelina Domnitch + Dmitry Gelfand](http://www.portablepalace.com), all in the main hall of [Industrial Design Engineering](https://www.tudelft.nl/en/ide/).
 
 ## Thursday
-### 8:45-10:30 Space and motion {#space}
+### 9:00-10:30 Space and motion {#space}
 - Motion and layout depiction using 2D/3D animation tools - 	Melvin Even, Jean Basset, Pierre Bénard, Pascal Barla
 - Representing the manifold gaze of architectural spaces - 	[Eugene Han](https://aad.lehigh.edu/eugene-han)
 - “Framing” the landscape. Movement, Landscape and Cinema.	Assistant Professor - [Vitor Gomes](https://www.uevora.pt/pessoas?id=4793)
@@ -118,8 +118,7 @@ Vermeer's "Girl reading a letter at an open window" as a thought-vision of the v
 1. What words do we use to describe colour-changing (iridescent) surfaces? - [Li Shiwen](https://www.linkedin.com/in/lshiwen/?originalSubdomain=uk), Pascal Barla, Sylvia C. Pont, Hannah E. Smithson
 1. Cast shadows enhance pictorial depth perception of volumetric shapes - [Robert Volcic](https://nyuad.nyu.edu/en/academics/divisions/science/faculty/robert-volcic.html)
 
-
-### 15:00:15:30 Coffee
+### 15:00-15:30 Coffee
 
 ### 15:30-17:00 Materials & Materiality {#materials}
 - Solid and fleeting. Depicting material stories in a materials collection.	[Sarah Kaiser](https://www.burg-halle.de/hochschule/information/personen/p/sarah-kaiser/) and [Andi Wagner](https://andiwagner.de), Andi Wagner
