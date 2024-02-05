@@ -2,6 +2,10 @@
 <!--This program is preliminary and aims to give an overall impression of what to expect. We may shuffle a bit before we cast to schedule into its final form.
 
 We added personal links to provide some context but if you don't like it or want to change it please contact us.-->
+- [Program at a glance](#program-at-a-glance)
+- [Program in detail](#program-in-detail)
+- [Draft abstract book](files/V_D_abstracts.pdf)
+- [Draft abstract book (mobile)](files/V_D_abstracts-mobile.pdf)
 
 # Program at a glance:
 [Wednesday](#wednesday)<br>
@@ -13,7 +17,7 @@ We added personal links to provide some context but if you don't like it or want
 16:30-16:45 Short break<br>
 16:45-18:15 [Keynote collective](#keynote1)<br>
 18:15 [Opening reception](#openingreception)
-
+19:15 [Performance "Force Field"](#forcefield) in Studio 23/24
 
 [Thursday](#thursday)<br>
 9:00-10:30 [Space and motion](#space)<br>
@@ -39,7 +43,7 @@ We added personal links to provide some context but if you don't like it or want
 18:30- [Farewell reception](#closingreception)<br>
 
 
-# Program in detail:
+# Program in detail
 
 ## Wednesday
 ### 13:00 Opening session
@@ -84,7 +88,7 @@ We'll have welcome drinks, enjoy great food creations from [Coco Dining](https:/
 
 ### 11:00-12:30 Keynote collective {#keynote2}
 - [Tim Jenison](https://en.wikipedia.org/wiki/Tim%27s_Vermeer) - An Optical View of Delft
-- [Janne Schimmel](https://janneschimmel.com)
+- [Janne Schimmel](https://janneschimmel.com) - Material Conditions and Sensibilities of Gaming Hard- and Software
 
 ### 12:30-13:30 Lunch
 
@@ -100,7 +104,7 @@ We'll have welcome drinks, enjoy great food creations from [Coco Dining](https:/
 1. Image Complexity vs Aesthetic Appreciation in Abstract Art - [Maartje Raijmakers](https://www.uva.nl/profiel/r/a/m.e.j.raijmakers/m.e.j.raijmakers.html?cb), Eftychia Stamkou, Laura't Groot
 1. The Picture Stares Back - [Andrea J. van Doorn](https://scholar.google.com/citations?user=_6VnqIwAAAAJ&hl=nl), Jan J. Koenderink
 1. Image-Works: An Exhibition Study Focused on the Interactions between the Medium of Depiction and (Re-)Presentation in Vision - [Johan Wagemans](https://gestaltrevision.be/home)
-1. Eyes, Still-Lifes & Eidolons \[Dash] Effects of Colour and Object information on Eye Movements - [Doris Braun](https://www.allpsych.uni-giessen.de/doris/), Karl R. Gegenfurtner
+1. Eyes, Still-Lifes & Eidolons - Effects of Colour and Object information on Eye Movements - [Doris Braun](https://www.allpsych.uni-giessen.de/doris/), Karl R. Gegenfurtner
 1. Painterly Style Transfer with Learned Brush Strokes - [Yuchen Wu](https://researchportal.bath.ac.uk/en/persons/xiaochang-liu), Xiaochang Liu, Peter M. Hall
 1. Lifelike Butterflies Painted with Oil and Colourful Dust - [V.E. Mandrij](https://www.linkedin.com/in/v-e-mandrij-a28b3ba5/?originalSubdomain=nl)
 1. Mapping visual attention to important and unimportant details in art photographs and paintings - [Maarten Leemans](https://www.linkedin.com/in/maarten-leemans-317547210/), Johan Wagemans
@@ -174,3 +178,7 @@ We will have our conference dinner at [Lychee restaurant](https://lycheedelft.co
 
 ### 18:30 - Farewell reception {#closingreception}
 Very close to the train station and opposite to musuem Prinsenhof we reserved a cosy space at [Bar/Baar](https://barbaar.nl) where we will have some farewell food and drinks.
+
+## Performance Force Field {#forcefield}
+Artists: [Evelina Domnitch + Dmitry Gelfand](http://www.portablepalace.com) <br>
+During the Spacelab era, JPL researchers pioneered acoustic levitation techniques for trapping and rotating liquid samples in microgravity. In recent decades the selfsame methods have been implemented for contactless manipulation on Earth. Numerous experiments have been performed in a vast range of research areas, including fluid dynamics, analytical chemistry, atmospheric sciences, molecular biology, and tabletop astrophysics. In Force Field, acoustically levitated water droplets resonate, vaporise and reassemble into spheroids, toroids and oscillating polygons while spinning nearly devoid of shear. The performance simultaneously taps into the 3-dimensionality of sound, the elusive physicality of water, as well as the rotational dynamics of celestial and subatomic bodies.
