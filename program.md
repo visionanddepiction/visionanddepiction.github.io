@@ -49,12 +49,13 @@ We added personal links to provide some context but if you don't like it or want
 ## Wednesday
 ### 13:00 Opening session
 
-### 13:15-14:45 Texture {#texture}
-- Designing Knowledge: Theoretical Considerations on Information and Decoration in Prehistory	 - [Dale Daykin](https://www.linkedin.com/in/dale-daykin-a2822111a/?originalSubdomain=uk)
+### 13:15-14:30 Texture {#texture}
 - Eidolons …	- [Jan Koenderink](https://scholar.google.com/citations?user=lxW3wvMAAAAJ&hl=en)
 
 - The fundamental building blocks of human texture perception. - [Robert Kentridge](https://www.durham.ac.uk/staff/robert-kentridge/)
 - Material perception across different media - comparing perceived attributes in paintings and engravings	[Yuguang Zhao](https://www.linkedin.com/in/yuguangzhao/?originalSubdomain=nl)
+- Designing Knowledge: Theoretical Considerations on Information and Decoration in Prehistory	 - [Dale Daykin](https://www.linkedin.com/in/dale-daykin-a2822111a/?originalSubdomain=uk)
+
 
 ### 14:30-15:00 Coffee
 
