@@ -6,9 +6,7 @@ We added personal links to provide some context but if you don't like it or want
 - [Program in detail](#program-in-detail)
 - [Draft abstract book](files/V_D_abstracts.pdf)
 - [Draft abstract book (larger font, better on mobile)](files/V_D_abstracts-mobile.pdf)
-- Livestream link Wednesday (will appear on first day of conference)
-- Livestream link Thursday (will appear on first day of conference)
-- Livestream link Friday (will appear on first day of conference)
+- [Livestreams](https://collegerama.tudelft.nl/Mediasite/Channel/ide-symposium-vision-and-depiction-2024)
 
 # Program at a glance:
 [Wednesday](#wednesday)<br>
