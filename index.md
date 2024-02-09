@@ -6,6 +6,10 @@ After two conferences The Skin of Things [2018](https://theskinofthings.github.i
 
 ![Creative Commons Attribution-Share Alike 4.0 International - W Bulach](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/00_0781_Canal_in_Delft_%28NL%29.jpg/640px-00_0781_Canal_in_Delft_%28NL%29.jpg)
 
+<!--# Thanks!
+The conference has come to an end. We had a great 2.5 days with 90 enthusiastic attendees that enthusiasticaly -->
+
+
 # Venue & transport {#venue}
 
 
@@ -149,6 +153,8 @@ Please [submit](https://www.aanmelder.nl/vision-and-depiction-2024/author) a 300
 Maarten Wijntjes<br>
 Catelijne van Middelkoop<br>
 Nim Goede<br>
+Gul Onat<>
+
 
 # Funding
 
