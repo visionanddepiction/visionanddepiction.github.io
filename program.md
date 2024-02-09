@@ -161,13 +161,13 @@ We will have our conference dinner at [Lychee restaurant](https://lycheedelft.co
 
 ### 11:00-12:30 Keynote collective {#keynote4}
 - [Hannah Smithson](https://www.psy.ox.ac.uk/people/hannah-smithson) - From Pixels to Perception: Appreciating the structure in visual signals of material properties.
-- [Joost Swarte](https://www.joostswarte.nl)
+- [Joost Swarte](https://www.joostswarte.nl) - To the observer
 
 ### 12:30-13:30 Lunch
 
-### 13:30-15:00 Workshop
+### 13:30-15:00 [Workshop](https://visionanddepiction.github.io/#workshop)
 
-### 15:00:16:00 Coffee & matchmaking / discussions in groups
+### 15:00:16:00 Visit 'When Images Remain' at the Library. Coffee served at lactire room from 15:30
 
 ### 16:00-17:45 The aesthetic gaze {#aesthetic}
 - Flattened Intensities, Intensified Flatness : Aesthetic Appreciation of Contemporary Abstract Art Changes as a Result of Context Information -	[Stefanie De Winter](https://www.stefaniedewinter.com), Christopher Linden, Johan Wagemans
