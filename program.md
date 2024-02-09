@@ -38,7 +38,7 @@ We added personal links to provide some context but if you don't like it or want
 11:00-12:30 [Keynote collective](#keynote4)<br>
 12:30-13:30 Lunch<br>
 13:30-15:00 [Workshop](https://visionanddepiction.github.io/#workshop)<br>
-15:00:16:00 Coffee & matchmaking / discussions in groups<br>
+15:00:16:00 Visit 'When Images Remain' at the Library<br>
 16:00-17:45 [The aesthetic gaze](#aesthetic)<br>
 17:45-18:15 Closing discussion<br>
 18:30- [Farewell reception](#closingreception)<br>
@@ -167,7 +167,7 @@ We will have our conference dinner at [Lychee restaurant](https://lycheedelft.co
 
 ### 13:30-15:00 [Workshop](https://visionanddepiction.github.io/#workshop)
 
-### 15:00:16:00 Visit 'When Images Remain' at the Library. Coffee served at lactire room from 15:30
+### 15:00:16:00 Visit 'When Images Remain' at the Library. Coffee served at lecture room from 15:30
 
 ### 16:00-17:45 The aesthetic gaze {#aesthetic}
 - Flattened Intensities, Intensified Flatness : Aesthetic Appreciation of Contemporary Abstract Art Changes as a Result of Context Information -	[Stefanie De Winter](https://www.stefaniedewinter.com), Christopher Linden, Johan Wagemans
