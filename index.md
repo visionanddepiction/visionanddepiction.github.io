@@ -2,9 +2,15 @@ Check out our program [here](program.html).
 
 
 # Intro
-After two conferences The Skin of Things [2018](https://theskinofthings.github.io) and [2021](https://theskinofthings2021.github.io) that focussed on the depiction and perception of *material properties*, we decided to broaden the scope and organise **Vision and Depiction 2024**. It will take place in the lovely Dutch city of *Delft* from *7-9 February 2024*.
+After two conferences The Skin of Things [2018](https://theskinofthings.github.io) and [2021](https://theskinofthings2021.github.io) that focussed on the depiction and perception of *material properties*, we decided to broaden the scope and organise **Vision and Depiction 2024**, which took  place in the lovely Dutch city of *Delft* from *7-9 February 2024*. As this event lies in the past, the information below is not so relevant anymore. However, we have to awesome ways of reliving the conference:
+- The [**program**](program.html) contains the abstract book but also a great number of _video recordings_
+- The [photos](https://visionanddepiction.github.io/photos/index.html) made by Yuguang Zhao captured the atmosphere.
 
+Until a future event, you'll have to do with this!
+
+<!--
 ![Creative Commons Attribution-Share Alike 4.0 International - W Bulach](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/00_0781_Canal_in_Delft_%28NL%29.jpg/640px-00_0781_Canal_in_Delft_%28NL%29.jpg)
+-->
 
 <!--# Thanks!
 The conference has come to an end. We had a great 2.5 days with 90 enthusiastic attendees that enthusiasticaly -->
