@@ -4,8 +4,8 @@
 
 Vision and Depiction 2024 took place from 7 to 9 February 2024. There are two ways to relive the experience:
 
-- The [program](program.html) contains the abstract book but also a great number of _video recordings_
-- The [photos](https://visionanddepiction.github.io/photos/index.html) made by Yuguang Zhao greatly captured the atmosphere.
+- The [program](program.html) contains the abstract book but also a great number of video recordings.
+- The [photos](https://visionanddepiction.github.io/photos/index.html) made by [Yuguang Zhao](https://yuguang-zhao.com) greatly captured the atmosphere.
 
 
 After two conferences The Skin of Things [2018](https://theskinofthings.github.io) and [2021](https://theskinofthings2021.github.io) that focussed on the depiction and perception of *material properties*, we decided to broaden the scope and organise **Vision and Depiction 2024**. As this event lies in the past, the information below is not so relevant anymore.
