@@ -9,12 +9,19 @@
 
 
 .page-header {
-  color: #009FE3;
+  color: #0388fc;
   text-align: center;
   background-color: white;
   background-image: url("/images/Vermeer-view-of-delft-2.jpg")
   }
 
+
+
+  .project-tagline {
+    margin-bottom: 2rem;
+    font-weight: normal;
+    opacity: 1.0
+}
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     margin-top: 2rem;
