@@ -9,16 +9,16 @@
 
 
 .page-header {
-  color: #0388fc;
   text-align: center;
   background-color: white;
-  background-image: url("/images/headerB.png");
-  background-size: cover;       /* or 'contain', depending on your desired effect */
-  background-position: left;  /* centers the image */
-  background-repeat: no-repeat;
-  width: auto;
-  height: 200px;                 /* adjust with min-height if needed */
-  padding-top: 20%;             /* helps preserve aspect ratio on different screens */
+  padding: 1rem 0;
+}
+
+.header-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
 
 
