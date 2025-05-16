@@ -16,8 +16,8 @@
   background-size: cover;       /* or 'contain', depending on your desired effect */
   background-position: left;  /* centers the image */
   background-repeat: no-repeat;
-  width: 80%;
-  height: auto;                 /* adjust with min-height if needed */
+  width: auto;
+  height: 200px;                 /* adjust with min-height if needed */
   padding-top: 20%;             /* helps preserve aspect ratio on different screens */
 }
 
