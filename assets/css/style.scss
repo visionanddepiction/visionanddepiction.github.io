@@ -13,10 +13,10 @@
   text-align: center;
   background-color: white;
   background-image: url("/images/headerB.png");
-  background-size: contain;       /* or 'contain', depending on your desired effect */
-  background-position: center;  /* centers the image */
+  background-size: cover;       /* or 'contain', depending on your desired effect */
+  background-position: left;  /* centers the image */
   background-repeat: no-repeat;
-  width: 100%;
+  width: 80%;
   height: auto;                 /* adjust with min-height if needed */
   padding-top: 20%;             /* helps preserve aspect ratio on different screens */
 }
