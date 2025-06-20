@@ -30,3 +30,4 @@ The next Vision and Depiction will happen from 4 to 6 February 2026 in Delft. We
 Maarten Wijntjes<br>
 Catelijne van Middelkoop<br>
 Nim Goede<br>
+Mark Sypesteyn<br>
