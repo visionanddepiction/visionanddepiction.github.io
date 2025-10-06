@@ -1,26 +1,25 @@
-_not published yet, of you read this be patient before we actually publish very soon!_
-
 # Intro
 
 Vision and Depiction celebrates _form_ as interface between art and science. It is a conference about how to depict form, and how form is perceived. But it is also a conference about the many connections that form has with the content and context of pictures. Moreover, it is a conference about the interaction between the physical medium, and the mental presentations it gives rise to, i.e. about the relation between medium and motif.
 
-![](images/formcontent5.png)
+![](images/VD2.jpeg)
+
 
 # The keynote collective
 To delineate the scope the conference, we have invited a 'keynote collective' spanning the breadth of topics and disciplines that define Vision and Depiction. Besides the 'senior' keynotes, we decided this year to additionally create a stage for 'junior' keynotes. Moreover, we are very excited about the artist speakers.
 
 **Artists**
-- Jean-Baptiste Maitre & Dina Danish
-- Antye Guenther
+- [Jean-Baptiste Maitre](https://jbmaitre.com) & [Dina Danish](https://dinadanish.com)
+- [Antye Guenther](https://aguenth.de)
 
 **Scientist** (senior)
-- Joris van Gastel
-- Pascal Barla
+- Joris van Gastel - Art History
+- Pascal Barla - Computer Graphics
 
 **Scientist** (junior)
-- Liselore Tissen
-- Elefteria
-- Sam Hirst
+- Liselore Tissen - Art History
+- Elefteria Pistolas - Vision Science
+- Sam Hirst - Archaeology
 
 # Call for abstracts
 We invite artists, designers, scholars and scientists that are interested in the formal aspects of vision and depiction. This scope finds it's origin in a reappraisal of the formal analysis, particularly those formal elements that share commonalities between science and art.
@@ -33,6 +32,11 @@ We hope to attract a wide variety of scientists and artists. Here is an indicati
 - **Computer science:** Computer vision and graphics has a long tradition of image synthesis that has clear parallels with the longer art history of depiction.
 - **Digital humanities:** With the emergences of large open access image databases, a new field has emerged around the computational analysis of image collections and more recently also using AI both as analytical tools but also as subject matter.
 - **Archeology and Anthropology:** The usage of images, pictorial traditions and conventions throughout various (historical) cultures.
+
+
+
+![](images/formcontent.png)
+
 
 ## Abstracts submission
 
