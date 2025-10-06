@@ -40,7 +40,7 @@ We hope to attract a wide variety of scientists and artists. Here is an indicati
 
 ## Abstracts submission
 
-You can submit a 300 word abstract via our registration website [aanmelder.nl](https://www.aanmelder.nl/vision-and-depiction-2026/subscribe). You are only allowed to submit one abstract as a first author (you can be co-autor on as many abstracts as you wish).
+You can submit a 300 word abstract via our registration website [aanmelder.nl](https://www.aanmelder.nl/vision-and-depiction-2/). You are only allowed to submit one abstract as a first author (you can be co-autor on as many abstracts as you wish).
 
 During the online submission, you will be asked to select your presentation preference: poster or oral. Most people prefer to give an oral presentation for both practical reasons (you do not have  to print a poster, and you automatically reach a large audience) and prestige reasons (in some fields, an oral presentation is regarded more highly than a poster presentation). This is somewhat unfortunate because poster presentations can be very engaging as you have direct discussion with your peers, instead of the 3 minute time slot normally allotted at oral presentations. Give the finite time of the conference, we cannot guarantee all 'oral preferred' choices and hope you will not be disappointed (and in fact, enjoy) a possible poster presentation!
 
@@ -65,7 +65,7 @@ We have arranged the possibility to publish your work as a full paper in a speci
 
 # Registration
 
-Registration is now open and can be done via [aanmelder.nl](https://www.aanmelder.nl/vision-and-depiction-2026/subscribe) website. If you also submit an abstract, please mention the title of your abstract in the registration form.
+Registration is now open and can be done via [aanmelder.nl](https://www.aanmelder.nl/vision-and-depiction-2/) website. If you also submit an abstract, please mention the title of your abstract in the registration form.
 
 Since we hardly have funding we need to ask for a registration fee. This will cover the cost for catering (coffee breaks, lunch & one dinner) and some rental equipment. We are grateful that the faculty of [Industrial Design Engineering](https://www.tudelft.nl/en/ide/) covers the lecture halls, and the [Pictorial Research Lab](https://delftdesignlabs.org/pictorial-research-lab/) covers the invited speakers.
 
