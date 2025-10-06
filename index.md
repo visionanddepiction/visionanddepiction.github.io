@@ -5,8 +5,8 @@ Vision and Depiction celebrates _form_ as interface between art and science. It 
 
 
 
-# The keynote collective
-To delineate the scope the conference, we have invited a 'keynote collective' spanning the breadth of topics and disciplines that define Vision and Depiction, where we aim to balance art and science contributions. The list below is not yet complete because not every speaker has confirmed yet. Moreover, we do something different this year: besides the 'senior' keynotes, we decided this year to additionally create a stage for 'junior' keynotes.
+# The keynote speakers
+To delineate the scope the conference, we have invited keynote speakers spanning the breadth of topics and disciplines that define Vision and Depiction. We are very excited that we have two artist talks confirmed, two talks unconfirmed (not listed yet). Moreover, we have five scientific talks confirmed, of which two 'senior' and three 'junior' talks. Yes, you read it correctly: we decided to offer the stage to three early stage researchers to present their work. 
 
 **Artists**
 - [Jean-Baptiste Maitre](https://jbmaitre.com) & [Dina Danish](https://dinadanish.com)
