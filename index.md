@@ -1,4 +1,4 @@
-![](images/VD2.jpeg)
+![](images/V_et_D_2.jpeg)
 
 Vision and Depiction celebrates _form_ as interface between art and science. It is a conference about how to depict form, and how form is perceived. But it is also a conference about the many connections that form has with the content and context of pictures. Moreover, it is a conference about the interaction between the physical medium, and the mental presentations it gives rise to, i.e. about the relation between medium and motif.
 
