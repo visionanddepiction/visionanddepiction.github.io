@@ -67,8 +67,8 @@ Since we hardly have funding we need to ask for a registration fee. This will co
 
 | Type | Early bird (until 15 december) | Late |
 | :---         |     :---:      |          ---: |
-| Full rate   | €120     | €170    |
-| Reduced     | €70       | €100      |
+| Full rate   | €150     | €180    |
+| Reduced     | €90       | €120      |
 | Waiver     | free      | free    |
 
 Reduced fee applies to (PhD) students and postdocs. Waivers are available for (a limited amount of) artists. Please reach out if you have questions about the waiver program.
