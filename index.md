@@ -6,17 +6,17 @@ Vision and Depiction celebrates _form_ as interface between art and science. It 
 
 
 # The keynote collective
-To delineate the scope the conference, we have invited a 'keynote collective' spanning the breadth of topics and disciplines that define Vision and Depiction. Besides the 'senior' keynotes, we decided this year to additionally create a stage for 'junior' keynotes. Moreover, we are very excited about the artist speakers.
+To delineate the scope the conference, we have invited a 'keynote collective' spanning the breadth of topics and disciplines that define Vision and Depiction, where we aim to balance art and science contributions. The list below is not yet complete because not every speaker has confirmed yet. Moreover, we do something different this year: besides the 'senior' keynotes, we decided this year to additionally create a stage for 'junior' keynotes.
 
 **Artists**
 - [Jean-Baptiste Maitre](https://jbmaitre.com) & [Dina Danish](https://dinadanish.com)
 - [Antye Guenther](https://aguenth.de)
 
-**Scientist** (senior)
+**Scientists** (senior)
 - Joris van Gastel - Art History
 - Pascal Barla - Computer Graphics
 
-**Scientist** (junior)
+**Scientists** (junior)
 - Liselore Tissen - Art History
 - Elefteria Pistolas - Vision Science
 - Sam Hirst - Archaeology
