@@ -12,7 +12,10 @@
   text-align: center;
   //background-color: white;
   //background: linear-gradient(to bottom, #857FB7, #A8D5D4);
-  background: linear-gradient(to bottom, #1a3c40, #377576, #e07a5f, #f4d35e);
+  //background: linear-gradient(to bottom, #1a3c40, #377576, #e07a5f, #f4d35e);
+  background: linear-gradient(188deg, #002e7a 0%, #00fdff 46%, #e0a190 46%, #e3ff80 100%);
+/* Optional: match browser UI / overscroll */
+<meta name="theme-color" content="#002e7a">
   //background: linear-gradient(to bottom, #857FB7, #4b9b9a);
   //#4b9b9a
 
