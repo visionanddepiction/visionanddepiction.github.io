@@ -24,7 +24,7 @@ To delineate the scope the conference, we have invited keynote speakers spanning
 # Call for abstracts
 We invite artists, designers, scholars and scientists that are interested in the formal aspects of vision and depiction. This scope finds it's origin in a reappraisal of the formal analysis, particularly those formal elements that share commonalities between science and art. Examples are texture, color, light, shape, space, material, motion, etc. In addition, we are interested in whether these formal elements apply to the representation (motif) or on the artworks' surface (medium) and possibly the interaction between these two. Lastly, we are interested in the relations between formal elements and what they refer to, i.e. their iconographic or semiotic meaning. The scope is summarised in the Vision and Depiction framework  below and in a [background paper](https://doi.org/10.1080/13506285.2024.2320762).
 
-If you have questions whether your work fits the scope, please contact us. In reality there is always a difference between the top-down imposed scope of a conference and how it turns out in reality. If you are curious how last edition turned out, visit the [Vision and Depiction 2024 online program](program2024.html).
+If you doubt whether your work fits the scope, please contact us. In reality there is always a difference between the top-down imposed scope of a conference and how it turns out in reality. If you are curious how last edition turned out, visit the [Vision and Depiction 2024 online program](program2024.html).
 
 ![](images/formcontent5.png)
 
@@ -64,7 +64,7 @@ We have arranged the possibility to publish your work as a full paper in a speci
 - Notification of Acceptance: 30 November 2025
 - Early bird registration: 15 December 2025
 - Conference: 4-6 February 2026
-- Deadline papers special issue Art and Perception: 1 June 2026
+- Deadline papers special issue Art and Perception: 1 May 2026
 
 # Registration
 
