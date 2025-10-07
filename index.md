@@ -6,7 +6,7 @@ Vision and Depiction celebrates _form_ as interface between art and science. It 
 
 
 # The keynote speakers
-To delineate the scope the conference, we have invited keynote speakers spanning the breadth of topics and disciplines that define Vision and Depiction. We are very excited that we have two artist talks confirmed, two talks unconfirmed (not listed yet). Moreover, we have five scientific talks confirmed, of which two 'senior' and three 'junior' talks. Yes, you read it correctly: we decided to offer the stage to three early stage researchers to present their work. 
+To delineate the scope the conference, we have invited keynote speakers spanning the breadth of topics and disciplines that define Vision and Depiction. We are very excited that we have two artist talks confirmed (we may add two more, unconfirmed). Moreover, we have five scientific talks confirmed, of which two 'senior' and three 'junior' talks. Yes, you read it correctly: we decided to offer the stage to three early stage researchers to present their work.
 
 **Artists**
 - [Jean-Baptiste Maitre](https://jbmaitre.com) & [Dina Danish](https://dinadanish.com)
@@ -22,7 +22,10 @@ To delineate the scope the conference, we have invited keynote speakers spanning
 - Sam Hirst - Archaeology
 
 # Call for abstracts
-We invite artists, designers, scholars and scientists that are interested in the formal aspects of vision and depiction. This scope finds it's origin in a reappraisal of the formal analysis, particularly those formal elements that share commonalities between science and art.
+We invite artists, designers, scholars and scientists that are interested in the formal aspects of vision and depiction. This scope finds it's origin in a reappraisal of the formal analysis, particularly those formal elements that share commonalities between science and art. Examples are texture, color, light, shape, space, material, motion, etc. In addition, we are interested in whether these formal elements apply to the representation (motif) or on the artworks' surface (medium) and possibly the interaction between these two. Lastly, we are interested in the relations between formal elements and what they refer to, i.e. their iconographic or semiotic meaning. The scope is summarised on the Vision and Depiction framework  below and in [background paper](https://doi.org/10.1080/13506285.2024.2320762).
+
+
+![](images/formcontent5.png)
 
 
 We hope to attract a wide variety of scientists and artists. Here is an indication of potential disciplines that we envision.
@@ -35,14 +38,13 @@ We hope to attract a wide variety of scientists and artists. Here is an indicati
 
 
 
-![](images/formcontent.png)
 
 
 ## Abstracts submission
 
-You can submit a 300 word abstract via our registration website [aanmelder.nl](https://www.aanmelder.nl/vision-and-depiction-2/). You are only allowed to submit one abstract as a first author (you can be co-autor on as many abstracts as you wish).
+You can submit a 300 word abstract via our [registration website](https://www.aanmelder.nl/vision-and-depiction-2/).
 
-During the online submission, you will be asked to select your presentation preference: poster or oral. Most people prefer to give an oral presentation for both practical reasons (you do not have  to print a poster, and you automatically reach a large audience) and prestige reasons (in some fields, an oral presentation is regarded more highly than a poster presentation). This is somewhat unfortunate because poster presentations can be very engaging as you have direct discussion with your peers, instead of the 3 minute time slot normally allotted at oral presentations. Give the finite time of the conference, we cannot guarantee all 'oral preferred' choices and hope you will not be disappointed (and in fact, enjoy) a possible poster presentation!
+During the online submission, you will be asked to select your presentation preference: poster or oral. Most people prefer to give an oral presentation for both practical reasons (you do not have  to print a poster, and you automatically reach a large audience) and prestige reasons (in some fields, an oral presentation is regarded more highly than a poster presentation). This is somewhat unfortunate because poster presentations can be very engaging as you have direct discussion with your peers, instead of the 3 minute time slot normally allotted at oral presentations. And to accommodate the practical burden, just like last edition, we will  provide a poster printing service! Give the finite time of the conference, we cannot guarantee all 'oral presentation' preferences and hope you will not be disappointed (and in fact, enjoy) a possible poster presentation!
 
 There are some rules for the abstracts to be taken into consideration:
 - You need to be registered as an attendee (check out the [cancellation policy](#cancellation-policy) which takes into account the notification of acceptance date).
