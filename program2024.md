@@ -1,9 +1,9 @@
-# Program
+# Archive 2024
 <!--This program is preliminary and aims to give an overall impression of what to expect. We may shuffle a bit before we cast to schedule into its final form.
 
 We added personal links to provide some context but if you don't like it or want to change it please contact us.-->
 
-The conference has happened, but we still have the [abstract book](files/V_D_abstracts.pdf) and we also have recordings. In the [program](#program-at-a-glance) below you can find links to the individual talks, or you can visit the recording [collection](https://collegerama.tudelft.nl/Mediasite/Channel/ide-symposium-vision-and-depiction-2024). Some talks could not be shared for a variety of reasons.
+The conference passed, but we still have the [abstract book](files/V_D_abstracts.pdf) and we also have recordings. In the [program](#program-at-a-glance) below you can find links to the individual talks, or you can visit the recording [collection](https://collegerama.tudelft.nl/Mediasite/Channel/ide-symposium-vision-and-depiction-2024). Some talks could not be shared for a variety of reasons.
 
 <!--
 - [Program at a glance](#program-at-a-glance)
