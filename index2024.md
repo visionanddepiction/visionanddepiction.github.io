@@ -35,7 +35,7 @@ This conference about pictorial production and perception aims to bring artists,
 # Information for presenters
 
 ## Poster presentation {#posters}
-Posters should be prepared in A0 portrait orientation (118.8 cm high and 84 cm wide). If you want, you can print your poster in Delft at CSinBKCity, here are the [prices](https://csinbkcity.nl/price-list/?lang=en). In order to do so:
+Posters should be prepaired in A0 portrait orientation (118.8 cm high and 84 cm wide). If you want, you can print your poster in Delft at CSinBKCity, here are the [prices](https://csinbkcity.nl/price-list/?lang=en). In order to do so:
 - Send your poster to info@csinbkcity.nl
 - Let them know that it concerns a "Poster for conference Maarten Wijntjes"
 - Latest ordering date is 6 Februari 18:30. It will be ready the next morning and can be picked up across the train station at adres Westvest 47.
@@ -120,9 +120,9 @@ The main conference will be on campus, but we may have some activities elsewhere
 
 # Registration
 
-Registration is now open and can be done via [aanmelder.nl](https://www.aanmelder.nl/vision-and-depiction-2026/subscribe) website, which is a kind of EventBrite. If you also submit an abstract, you should use mention the title of you contribution in the registration form.
+Registration is now open and can be done [here](https://www.aanmelder.nl/vision-and-depiction-2024/subscribe). If you also submit an abstract, you should use mention the title of you contribution in the registration form.
 
-Since we do not have much funding we need to ask for a registration fee. This will cover the cost for catering (coffee breaks, lunch & one dinner) and some rental equipment. The faculty of [Industrial Design Engineering](https://www.tudelft.nl/en/ide/) covers the lecture halls, and the [Pictorial Research Lab](https://delftdesignlabs.org/pictorial-research-lab/) covers the invites speakers.
+We have some funding but to cover the total cost of the conference we need to ask for a registration fee:
 
 | Type | Early bird (until 15 december) | Late |
 | :---         |     :---:      |          ---: |
