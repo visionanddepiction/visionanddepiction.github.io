@@ -11,6 +11,8 @@ To delineate the scope the conference, we have invited keynote speakers spanning
 **Artists**
 - [Jean-Baptiste Maitre](https://jbmaitre.com) & [Dina Danish](https://dinadanish.com)
 - [Antye Guenther](https://aguenth.de)
+- Roger Gerards (head of print design, [Vlisco](https://vlisco.com))
+
 
 **Scientists** (senior)
 - Joris van Gastel - Art History
