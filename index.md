@@ -62,7 +62,7 @@ We have arranged the possibility to publish your work as a full paper in a speci
 
 # Timeline
 - Abstract submission opens: 5 October 2025
-- Abstract submission closes: 15 November 2025
+- Abstract submission closes: ~~15~~ 17 November 2025 (midnight CET).
 - Notification of Acceptance: 30 November 2025
 - Early bird registration: 15 December 2025
 - Conference: 4-6 February 2026
