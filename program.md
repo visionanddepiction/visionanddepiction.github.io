@@ -4,51 +4,52 @@ This program is preliminary and aims to give an overall impression of what to ex
 
 ## Wednesday 4 February
 
-### Registration (13:00–13:30)
+### 13:00 Registration opens
 
-### Introduction (13:30–13:45)
+### 13:30 Introduction
 
-### The aesthetic gaze (in context) (13:45–15:00)
+### 13:45 The aesthetic gaze (in context) 
 - Christopher Linden – Eye Tracking Perception of Traditional, Impressionist, and Cubist Still Life Paintings at the Manchester Art Gallery
 - Rajat Ravi Rao – Who Appreciates Ambiguity in Art?
 - Xingyu Long – Visions of Veins: Eye-Tracking the Irregular Symmetries of Book-Matched Marble
 - David Romand – Enlivening Beautiful Forms. New Insights into Empathy and the Aesthetics of the Visual Arts
 
-### Coffee (15:00–15:20)
-- Coffee break
+### 15:00 Coffee 
 
-### Keynotes (15:20–16:40)
-- Liselore Tissen – TBA (junior keynote)
-- Antye Guenther – TBA (keynote)
+### 15:20 Keynotes 
+- Liselore Tissen –  
+- Antye Guenther –  
 
-### Break (16:40–16:55)
-- Break
+### 16:40 Break 
 
-### Knowing through making (16:55–18:10)
+### 16:55 Knowing through making 
 - Broersen – Novi Mundi, A Journey of Discovery Through Uncharted Human Realms
 - Ilaria Paolucci – In the artist's eye: manuals on painting techniques, written by artists for artists as a tool for understanding the creative process
 - Dejan Grba – Study 7/0: Locus Erroneum
 - Catelijne van Middelkoop – From Seeing to Unseeing: Expanding the Vision & Depiction Framework Through Making
 
-### Reception
+### 18:10 Reception
 
 
 ## Thursday 5 February
 
-### Medium and Motif (9:00–10:15)
+### 9:00 Medium and Motif 
 - Flip Phillips – This is not an AI generated title
 - Piera Riccio – Iconography of the Digital Self: From Beauty Filters to AI Portraits
 - Arthur Crucq – The agency of form and material: from bubble wrap to art
 - Hanna Brinkmann – One Motif, Four Media: What Happens to Art Experience Across Medialities?
 
-### Coffee (10:15–10:35)
+### 10:15 Coffee 
 
 
-### Keynotes (10:35–12:05)
-- Joris van Gastel – TBA
+### 10:35 Keynotes 
+- Joris van Gastel – 
 - Jean-Baptiste Maitre – Synthetic Egyptian Blue & the Evil Eye: Reconstructing a lost pigment in Egypt and tracing its protective aura.
 
-### Posters and lunch (12:05–15:00)
+### 12:05 Posters and lunch
+
+Not your regular poster session: demo's, artworks and, indeed, posters!
+
 
 1.	Ana Domingues	 - 	Reconstructing the Imagetic Brain: Speculative Design and Visual Image Reconstruction of Closed-Eye Visualisations
 1.	Chao-Shan Hsu, Xingyu Long, Raphael Rosenberg	 - 	Cultural Differences in Gaze Patterns over Paintings and Photographs
@@ -66,24 +67,23 @@ This program is preliminary and aims to give an overall impression of what to ex
 1.	Doris Braun, Vanessa Kremer, Katja Dörschner	 - 	Being Malevich II: Color, Balance, Dynamic and Liking in Suprematist Compositions
 1.	Cathalijne Postma, Debbie van Berkel, Jojanneke Postma	 - 	Latent Space, Through the eyes of the algorithm
 1.	Mark Sypesteyn	 - 	Depicting human figures in line: comparing expert vs. beginner decision making in tracing a figure from photo reference
+1.  Omer van Soldt - Apparent Motion, Perceived Stillness: The Self at 50Hz
+1. 	Yannis Michos - Aliased Geometries: Towards a nonviolent Trance 1.0 
+1. 	Yujin Jo - Connection Justice Map Patterns Knowledge Data Grid Context By-product Absolute exist 
 
 
-
-### Colour and Light (15:00–16:15)
+### 15:00 Colour and Light 
 - Li Shiwen – The colour of iridescent samples at every moment of a bumblebee’s flight
 - Nikola Zmijarević – Gold, Reflection and Glare: The Paintings of Lovro Artuković and The Logic of Paradox in Mimesis
 - Jiri Filip – Measuring Directional Appearance of Shiny Fabrics Using an Extended Flop Index
 - Stefanie De Winter – Presenting IRECONA: An Interdisciplinary Method for Appearance-Based Reconstruction of Degraded Color Field Paintings
 
-### Coffee (16:15–16:35)
+### 16:15 Coffee 
 
-### Keynotes (16:35–17:10)
+### 16:35 Keynote
 - Elefteria Pistolas – Inside-out dynamics of art perception through a multi-method lens
 
-### Break (17:10–17:25)
-- Break
-
-### Pictorial space and movement (17:25–18:40)
+### 17:10 - 18:25 Pictorial space and movement 
 - Maarten Coëgnarts – How Rhythms Shape Meanings in Cinema: A Videographic Gestalt Approach
 - Valentine Bernasconi – Pictorial forms in movement
 - Marvin de Jong – Controlled Instability: Graphic Design as Embodied Interaction in Real-Time Systems
@@ -91,40 +91,39 @@ This program is preliminary and aims to give an overall impression of what to ex
 
 ### Conference dinner
 
-
 ## Friday 6 February
 
-### Materials and Materiality (9:00–10:15)
+### 9:00 Materials and Materiality
 - Filipp Schmidt – Material perception in context
 - Beatrice Sartori – The Softness of Screens: Liquid Visual Culture in Contemporary Displays
 - Marte Sophie Meessen – Natural and unnatural representation of gravity in art: an eye-tracking study
 - Billaud Pierre – Material appearance in stylized representations: the case of design sketches
 
-### Coffee (10:15–10:35)
+### 10:15 Coffee
 
-### Keynote (10:35–11:20)
+### 10:35 Keynote
 - Pascal Barla – Specular Flow Structure for Vision and Depiction
+- Sam Hirst –  
 
-### Keynote (11:20–11:55)
-- Sam Hirst – TBA (junior keynote)
+### 11:55 Lunch 
 
-### Lunch (11:55–12:50)
+### 12:50 Workshop 
 
-### Workshop (12:50–14:50)
-
-### Process & (human vs computational) processing (14:50–16:20)
+### 14:50 Process & (human vs computational) processing 
 - Tomas Vandecasteele – Making Sense of Meaning-Making: Applying the Predictive Processing Framework to Art Photography
 - Anna Miscenà – Style Needs Time: Temporal Dynamics in the Recognition of Stylistic Differences in Painting
 - Darío Negueruela del Castillo – From Formal Features to Discursive Vision: Distinguishing and Articulating Human and Machine Perception of Art
 - Karel Kuipers – Technics, Individuation, and the Limits of Categorisation: A Stieglerian Intervention in Palaeolithic Archaeology
 - Ryan Pescatore Frisk – Interrogating Design as a Cultural Metatool
 
-### Coffee (16:20–16:40)
+### 16:20 Coffee 
 
-### Keynote (16:40–17:25)
-- Roger Gerards – TBA
+### 16:40 Keynote 
+- Roger Gerards – 
 
-### Closing (17:25–17:40)
+### 17:25 - 17:40 Closing 
+
+
 
 
 <!--We added personal links to provide some context but if you don't like it or want to change it please contact us.-->
