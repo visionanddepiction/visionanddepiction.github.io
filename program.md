@@ -64,7 +64,7 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 1.	Yuexi (Betty) Zhu, Zsofia Pilz, Maarten Wijntjes	 - 	The Influence of Iconographic and Formalistic Instruction on Art Viewing Behavior
 1.	[Océane Tilman](https://www.linkedin.com/in/océane-tilman-620349190/) , Selin Isik,  Zsofia Pilz, Francesco Walker  - 	Investigating the Effect of Child-Written Descriptions Using Eye-Tracking at the Groninger Museum
 1.	[Karl R. Gegenfurtner](https://www.allpsych.uni-giessen.de/karl/), Andrea van Doorn, Doris Braun, Jan Koenderink	 - 	A metric of color space for science, industry and art
-1.	[Doris Braun], Vanessa Kremer, Katja Dörschner	 - 	Being Malevich II: Color, Balance, Dynamic and Liking in Suprematist Compositions
+1.	[Doris Braun](https://www.allpsych.uni-giessen.de/doris/), Vanessa Kremer, Katja Dörschner	 - 	Being Malevich II: Color, Balance, Dynamic and Liking in Suprematist Compositions
 1.	[Cathalijne Postma, Debbie van Berkel, Jojanneke Postma](https://kasboek.org)	 - 	Latent Space, Through the eyes of the algorithm
 1.	[Mark Sypesteyn](https://www.marksypesteyn.com)	 - 	Depicting human figures in line: comparing expert vs. beginner decision making in tracing a figure from photo reference
 1.  [Omer van Soldt](https://studio-rasab.com/about) - Apparent Motion, Perceived Stillness: The Self at 50Hz
