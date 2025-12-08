@@ -39,6 +39,7 @@ This program is _preliminary_ and aims to give an overall impression of what to 
 - [Arthur Crucq](https://www.universiteitleiden.nl/en/staffmembers/arthur-crucq#tab-2) – The agency of form and material: from bubble wrap to art
 - [Hanna Brinkmann](https://www.donau-uni.ac.at/en/university/organization/employees/person/4295324511) – One Motif, Four Media: What Happens to Art Experience Across Medialities?
 
+
 ### 10:15 Coffee 
 
 
@@ -72,7 +73,8 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 1. 	Yujin Jo - Connection Justice Map Patterns Knowledge Data Grid Context By-product Absolute exist 
 
 
-### 15:00 Colour and Light 
+### 14:45 Colour and Light 
+- [Jeroen Stumpel](https://www.uu.nl/staff/JFHJStumpel) - Seurat’s dots and the myth of optical mixing
 - Li Shiwen – The colour of iridescent samples at every moment of a bumblebee’s flight
 - [Nikola Zmijarević](https://nikolazmijarevic.com/) – Gold, Reflection and Glare: The Paintings of Lovro Artuković and The Logic of Paradox in Mimesis
 - [Jiri Filip](https://staff.utia.cas.cz/filip/) – Measuring Directional Appearance of Shiny Fabrics Using an Extended Flop Index
