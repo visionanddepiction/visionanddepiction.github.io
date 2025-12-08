@@ -18,7 +18,7 @@ This program is _preliminary_ and aims to give an overall impression of what to 
 
 ### 15:20 Keynotes 
 - [Liselore Tissen](https://www.universiteitleiden.nl/en/staffmembers/liselore-tissen#tab-1)   
-- [Antye Guenther](https://aguenth.de)  
+- [Antye Guenther](https://aguenth.de) - Spilling the Tea Ceremony: On Becoming DATA DIVA
 
 ### 16:40 Break 
 
