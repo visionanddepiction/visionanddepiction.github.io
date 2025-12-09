@@ -83,7 +83,7 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 ### 16:15 Coffee 
 
 ### 16:35 Keynote
-- [Elefteria Pistolas](https://gestaltrevision.be/news/team_members/131/) – Inside-out dynamics of art perception through a multi-method lens
+- [Eleftheria Pistolas](https://gestaltrevision.be/news/team_members/131/) – Inside-out dynamics of art perception through a multi-method lens
 
 ### 17:10 - 18:25 Pictorial space and movement 
 - [Maarten Coëgnarts](https://www.kuleuven.be/wieiswie/en/person/00133685) – How Rhythms Shape Meanings in Cinema: A Videographic Gestalt Approach

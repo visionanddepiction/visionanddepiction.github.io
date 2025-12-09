@@ -20,7 +20,7 @@ To delineate the scope the conference, we have invited keynote speakers spanning
 
 **Scientists** (junior)
 - Liselore Tissen - Art History
-- Elefteria Pistolas - Vision Science
+- Eleftheria Pistolas - Vision Science
 - Sam Hirst - Archaeology
 
 # Call for abstracts
