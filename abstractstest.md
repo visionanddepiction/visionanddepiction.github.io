@@ -1,5 +1,5 @@
 ### Reconstructing the Imagetic Brain: Speculative Design and Visual Image Reconstruction of Closed-Eye Visualisations
- **Ana Domingues** 
+ **Ana Domingues** \
 Reconstructing the Imagetic Brain: 
 Speculative Design and Visual Image Reconstruction of Closed-Eye Visualisations 
 
@@ -19,7 +19,7 @@ We conducted an eye-tracking experiment in which participants viewed paintings c
 Finally, this study situates its empirical findings within the context of formalist art history, suggesting that examining stylistic processing at a physiological level offers several advantages for the concerns of contemporary vision science and art history. Understanding how viewers learn to recognize style over time may inform the training of connoisseurship and perceptual expertise, support media-literacy education, and provide broader insights into how complex visual categories are formed and refined in the future.
 
 ### The colour of iridescent samples at every moment of a bumblebee’s flight
- **Li Shiwen, Hannah E. Smithson** 
+ **Li Shiwen, Hannah E. Smithson** \
 Iridescence is a dynamic visual phenomenon whereby colour changes with viewing angle. It is commonly found in nature (e.g., beetle carapaces, bird feathers, and flowers pollinated by bees). Because the observer can change the appearance of an iridescent object by simply looking at it from a different angle, iridescent stimuli are particularly suitable for studying active perception. Using bumblebees (Bombus terrestris) as our model organism, we introduce a novel experimental paradigm that captures exploration and behavioural interactions with visual stimuli. 
 
 Although iridescence has been suggested to serve various signalling functions in nature, we still lack an understanding of the specific percepts that separate “iridescent” from non-iridescent surfaces. Conventional psychophysical methods collect categorical responses, which are limited such that they collapse the spatial (colour variation across the surface) and temporal (variation over time with movement) dimensions of perceptual variation to low dimensional responses. The visual appearance changes are contingent on viewing geometry, therefore, characterising dynamic behavioural exploration of visual signals may reveal signatures of material depiction that are relevant to the perceptual agent. 
