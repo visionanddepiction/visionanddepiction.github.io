@@ -1,4 +1,4 @@
-#Abstracts 
+# Abstracts 
 
 ### Reconstructing the Imagetic Brain: Speculative Design and Visual Image Reconstruction of Closed-Eye Visualisations
  **Ana Domingues** 
@@ -177,14 +177,6 @@ Currently, there is a widespread anxiety both about the authenticity of images a
 Like computer graphics, generative AI is a force that will ultimately be integrated into the process of visual creation. Furthermore, it is silly to assume that AI has not already been used in the creation of images, static and moving, for decades. The ongoing challenge is to understand and harness the evolving power of these tools to _collaborate_ with human creativity rather than to _compete_ with it.
 
 This talk will examine current uses of technology that are in the spirit of collaboration rather than competition, especially with respect to motion pictures and their production.
-
-### Seeing art like a child: Visual attention and the role of labels in museum engagement
- **Francesco Walker** 
- 
-_Leiden University_<br/>  
-Children learn about art by actively engaging with their surroundings, making museums powerful spaces for learning and development. Yet, the descriptions accompanying artworks are typically designed for adults, often overlooking the needs of younger visitors. How does this affect children's engagement with art? Do they perceive paintings differently from adults, and can more tailored descriptions enhance their experience?
-In this talk, I will present novel findings from research conducted in collaboration with major Dutch museums, including the Van Gogh Museum and the Rijksmuseum – the national museum of The Netherlands.
-By sharing eye-tracking data collected in naturalistic museum settings, I will highlight key differences in visual attention between younger and older visitors, and show how museum labels shape the way children view the paintings on display. By uncovering these attentional patterns, I will explore practical strategies for making museum storytelling more inclusive and engaging for diverse audiences. Ultimately, I will show how partnerships between museums and academic institutions can drive evidence-based improvements in visitor experience, opening new pathways for art education and exhibition design.
 
 ### One Motif, Four Media: What Happens to Art Experience Across Medialities?
  **Hanna Brinkmann, Alexandra Victoria Alvarez, Luitgard Voller, Eva Specker, Matthew Pelowski** 
