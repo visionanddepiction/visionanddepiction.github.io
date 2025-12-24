@@ -27,7 +27,7 @@ This program is _preliminary_ and aims to give an overall impression of what to 
 - [Persijn Broersen and Margit Lukacs](https://www.pmpmpm.com) – [Novi Mundi, A Journey of Discovery Through Uncharted Human Realms](abstracts.html#novi-mundi-a-journey-of-discovery-through-uncharted-human-realms)
 - Ilaria Paolucci – [In the artist's eye: manuals on painting techniques, written by artists for artists as a tool for understanding the creative process](abstracts.html#in-the-artists-eye-manuals-on-painting-techniques-written-by-artists-for-artists-as-a-tool-for-understanding-the-creative-process)
 - [Dejan Grba](https://dejangrba.org) – [Study 7/0: Locus Erroneum](abstracts.html#study-70-locus-erroneum)
-- [Catelijne van Middelkoop](https://www.linkedin.com/in/catelijne-van-middelkoop-8a15aa57/?originalSubdomain=nl) – [From Seeing to Unseeing: Expanding the Vision & Depiction Framework Through Making](abstracts.html#from-seeing-to-unseeing-expanding-the-vision-depiction-framework-through-making)
+- [Catelijne van Middelkoop](https://www.linkedin.com/in/catelijne-van-middelkoop-8a15aa57/?originalSubdomain=nl) – [From Seeing to Unseeing: Expanding the Vision And Depiction Framework Through Making](abstracts.html#from-seeing-to-unseeing-expanding-the-vision-and-depiction-framework-through-making)
 
 ### 18:10 Reception
 
