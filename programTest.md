@@ -10,9 +10,9 @@ This program is _preliminary_ and aims to give an overall impression of what to 
 
 ### 13:45 The aesthetic gaze (in context)
 - [_Christopher Linden_](https://gestaltrevision.be/news/team_members/christopher-linden/) – [Eye Tracking Perception of Traditional, Impressionist, and Cubist Still Life Paintings at the Manchester Art Gallery](abstracts.html#eye-tracking-perception-of-traditional-impressionist-and-cubist-still-life-paintings-at-the-manchester-art-gallery)
-- [Rajat Ravi Rao](https://www.universiteitleiden.nl/en/staffmembers/rajat-ravi-rao#tab-1) – [*Who Appreciates Ambiguity in Art?*](abstracts.html#who-appreciates-ambiguity-in-art)
+- [Rajat Ravi Rao](https://www.universiteitleiden.nl/en/staffmembers/rajat-ravi-rao#tab-1) – [**Who Appreciates Ambiguity in Art?**](abstracts.html#who-appreciates-ambiguity-in-art)
 - [Xingyu Long](https://kunstgeschichte.univie.ac.at/personen/wissenschaftliche-mitarbeiterinnen/xingyu-long/) – [_Visions of Veins: Eye-Tracking the Irregular Symmetries of Book-Matched Marble_](abstracts.html#visions-of-veins-eye-tracking-the-irregular-symmetries-of-book-matched-marble)
-- [*David Romand*](https://univ-amu.academia.edu/DavidRomand) – [Enlivening Beautiful Forms. New Insights into Empathy and the Aesthetics of the Visual Arts](abstracts.html#enlivening-beautiful-forms-new-insights-into-empathy-and-the-aesthetics-of-the-visual-arts)
+- [**David Romand**](https://univ-amu.academia.edu/DavidRomand) – [Enlivening Beautiful Forms. New Insights into Empathy and the Aesthetics of the Visual Arts](abstracts.html#enlivening-beautiful-forms-new-insights-into-empathy-and-the-aesthetics-of-the-visual-arts)
 
 ### 15:00 Coffee
 
