@@ -14,7 +14,7 @@ By situating artistic practice within the evolving landscapes of externalisation
 
 ### Style Needs Time: Temporal Dynamics in the Recognition of  Stylistic Differences in Painting.
  **Anna Miscenà, Jozsef Arato, Gregor Hayn-Leichsenring, Corinna Kühnapfel, Raphael Rosenberg** 
- 
+
 _University of Vienna_<br/>  
 The ability of identifying an artistic style is generally understood as a trained skill, allowing art historians and connoisseurs to classify a painting or estimate its period from visual analysis alone. Yet the perceptual mechanisms underlying this recognition remain insufficiently understood. The present study investigates how viewers engage with stylistic information at eye-movement level, and how this engagement unfolds over time.
 We conducted an eye-tracking experiment in which participants viewed paintings categorized along two dimensions: (1) stylistic group (realistic vs. impressionistic) and (2) quantified low-level visual features, including HOG-based complexity, self-similarity, anisotropy, and colorfulness. Mixed-effects modelling revealed that fixation duration for the full viewing time (8 s) was significantly modulated only by visual complexity, with no robust effect of style. However, when fixation patterns were analyzed dynamically over time, style emerged as a significant predictor. A divergence between stylistic categories appeared approximately 2.5 s into viewing, indicating a temporally specific shift in attention that cannot be explained by low-level features alone.
@@ -24,7 +24,6 @@ Finally, this study situates its empirical findings within the context of formal
 ### Spilling the Tea Ceremony: On Becoming DATA DIVA
  **Antye Guenther
 (baby) DATA DIVA** 
- 
 _Maastricht University / Jan van Eyck Academie_<br/>  
 Antye Guenther, aka (baby) DATA DIVA, is a glitter-loving knowledge-inventor and unreliable narrator, born in a country that no longer exists. Rumoured to have been a former child test subject in Soviet brain experiments, she now joyfully interrogates the conditions and fictionalities of Western knowledge and data regimes. With a warm fondness for troublemaking, she mischievously crosses disciplinary boundaries, often while crafting cheap-ass rhinestone jewellery as part of an ongoing collaborative glitter-as-(communal)-care-practice.
 
@@ -53,7 +52,7 @@ This visual research investigates the soft materiality of screen-based technolog
 Alongside this material investigation, the paper examines the emergence of a visual culture of liquidity that developed in parallel with the evolution of display technologies. Case studies include the early 2000s Y2K and Frutiger Aero interface aesthetics, characterized by gloss, translucency, and biomorphic refractions that expressed a cultural fascination with fluid surfaces; early screensavers that staged bubbles, waves, and iridescent flows as demonstrations of LCD optical precision; and the Nokia Morph (2008) concept, which envisioned stretchable, self-cleaning, and adaptive devices inspired by biological materials and nanostructures. These imaginaries resonate with current research on interactive deformable displays that use liquid metals as conductors (Miyakawa et al., 2025), showing how representations of liquidity anticipate and shape technological development. This continuum also informs the visual languages of post-internet media art, where glossy, fluid, and soft interfaces function both as aesthetic resources and conceptual frameworks.
 Building on Laura Tripaldi’s idea of soft technologies (2025), the paper proposes the screen as a prosthetic sensorium whose material behavior is inseparable from its epistemic and aesthetic functions. Understanding the liquid interface, at once material and cultural, is therefore essential for interpreting contemporary media art and for recognizing today’s displays as hybrid and agentive media.
 
-### From Seeing to Unseeing: Expanding the Vision And Depiction Framework Through Making
+### From Seeing to Unseeing: Expanding the Vision and Depiction Framework Through Making
  **Catelijne van Middelkoop** 
  
 _TU Delft & University of the Arts The Hague_<br/>  
@@ -288,7 +287,7 @@ Complementing this structural account, gender role theory holds that societies d
 To investigate these questions, we compiled a large-scale dataset of over one million artworks by 45,000+ artists, dating from 1800 BC to the present, enriched with metadata on artists (e.g., gender, nationality, birth-year, years active) and artworks (e.g., medium, style, textual description of content). Using Multimodal AI and statistical analysis, we examine how the artist’s gender relates to both low-level visual features
 (form) and high-level semantic content (e.g., stereotypical portrayals, subject matter), uncovering systematic biases in how women are represented in visual art.
 
-### Gold, Reflection and Glare: The Paintings of Lovro Artuković and The Logic of Paradox in Mimesis
+### Gold, Reflection and Glare: The Paintings of Lovro Artuković and The Logic of Paradox in Mimesis {#artukovic-gold-reflection}
  **Nikola Zmijarević** 
  
 _University of Zadar_<br/>  
