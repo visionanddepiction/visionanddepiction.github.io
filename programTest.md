@@ -104,8 +104,8 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 ### 10:15 Coffee
 
 ### 10:35 Keynote
-- [Pascal Barla](https://www.labri.fr/perso/barla/blog/) – [**Specular Flow Structure for Vision and Depiction**](abstracts.html#specular-flow-structure-for-vision-and-depiction)
-- Sam Hirst –  [**Perception and Ice Age art: applying visual psychology to the study of palaeolithic female figurines**](abstracts.html#perception-and-ice-age-art-applying-visual-psychology-to-the-study-of-palaeolithic-female-figurines)
+- [Pascal Barla](https://www.labri.fr/perso/barla/blog/) – **Specular Flow Structure for Vision and Depiction**<!--](abstracts.html#specular-flow-structure-for-vision-and-depiction)-->
+- Sam Hirst –  **Perception and Ice Age art: applying visual psychology to the study of palaeolithic female figurines**<!--](abstracts.html#perception-and-ice-age-art-applying-visual-psychology-to-the-study-of-palaeolithic-female-figurines)-->
 
 ### 11:55 Lunch
 
@@ -121,6 +121,6 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 ### 16:20 Coffee
 
 ### 16:40 Keynote
-- [Roger Gerards](https://www.linkedin.com/in/roger-gerards-a209294/?originalSubdomain=nl) ([Vlisco](https://vlisco.com))
+- [Roger Gerards](https://www.linkedin.com/in/roger-gerards-a209294/?originalSubdomain=nl) - [**Seeing, Feeling and Knowing [Vlisco](https://vlisco.com)**]
 
 ### 17:25 - 17:40 Closing
