@@ -42,7 +42,7 @@ Unsurprisingly, in the clothless condition, participants did not perceive cloth 
 ### Controlled Instability: Graphic Design as Embodied Interaction in Real-Time Systems
  **Marvin de Jong** 
  
-_Radboud University_<br/>  
+_Independent Designer_<br/>  
 This work positions graphic design within three-dimensional, interactive space. Camera position, focal length, lighting, and surface materiality act as variables alongside letterforms, creating environments where depth and scale become ambiguous. The viewer’s position and movement shape not only what is seen but how spatial relationships are experienced.
 
 Through MIDI controllers, gesture recognition, and environmental sensors, these systems translate physical input into dynamic visual fields. Form and perception operate as parameter-based relationships rather than fixed compositions.
