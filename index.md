@@ -1,27 +1,17 @@
 ![](images/V_et_D_2_small.jpeg)
 
+
 Vision and Depiction celebrates _form_ as interface between art and science. It is a conference about how to depict form, and how form is perceived. But it is also a conference about the many connections that form has with the content and context of pictures. Moreover, it is a conference about the interaction between the physical medium, and the mental presentations it gives rise to, i.e. about the relation between medium and motif.
 
 
+# Contents
+As the conference is approaching, here is an overview of important information (link to program can be found on top):
+- [Registration](#registration)
+- [Venue & transport](#venue)
+- [Special Issue](#special-issue)
+- [Information for presenters](#information-for-presenters)
 
 
-# The keynote speakers
-To delineate the scope the conference, we have invited keynote speakers spanning the breadth of topics and disciplines that define Vision and Depiction. We are very excited that we have two artist talks confirmed (we may add two more, unconfirmed). Moreover, we have five scientific talks confirmed, of which two 'senior' and three 'junior' talks. Yes, you read it correctly: we decided to offer the stage to three early stage researchers to present their work.
-
-**Artists**
-- [Jean-Baptiste Maitre](https://jbmaitre.com) & [Dina Danish](https://dinadanish.com)
-- [Antye Guenther](https://aguenth.de)
-- Roger Gerards (head of print design, [Vlisco](https://vlisco.com))
-
-
-**Scientists** (senior)
-- Joris van Gastel - Art History
-- Pascal Barla - Computer Graphics
-
-**Scientists** (junior)
-- Liselore Tissen - Art History
-- Eleftheria Pistolas - Vision Science
-- Sam Hirst - Archaeology
 
 # Call for abstracts
 We invite artists, designers, scholars and scientists that are interested in the formal aspects of vision and depiction. This scope finds its' origin in a reappraisal of the formal analysis, particularly those formal elements that share commonalities between science and art. Examples are texture, color, light, shape, space, material, motion, etc. In addition, we are interested in whether these formal elements apply to the representation (motif) or on the artworks' surface (medium) and possibly the interaction between these two. Lastly, we are interested in the relations between formal elements and what they refer to, i.e. their iconographic or semiotic meaning. The scope is summarised in the Vision and Depiction framework  below and in a [background paper](https://doi.org/10.1080/13506285.2024.2320762).
@@ -43,7 +33,26 @@ We hope to attract a wide variety of scientists and artists. Here is an indicati
 
 
 
-## Abstracts submission
+# The keynote speakers
+To delineate the scope the conference, we have invited keynote speakers spanning the breadth of topics and disciplines that define Vision and Depiction. We are very excited that we have two artist talks confirmed (we may add two more, unconfirmed). Moreover, we have five scientific talks confirmed, of which two 'senior' and three 'junior' talks. Yes, you read it correctly: we decided to offer the stage to three early stage researchers to present their work.
+
+**Artists**
+- [Jean-Baptiste Maitre](https://jbmaitre.com) & [Dina Danish](https://dinadanish.com)
+- [Antye Guenther](https://aguenth.de)
+- Roger Gerards (head of print design, [Vlisco](https://vlisco.com))
+
+
+**Scientists** (senior)
+- Joris van Gastel - Art History
+- Pascal Barla - Computer Graphics
+
+**Scientists** (junior)
+- Eleftheria Pistolas - Vision Science
+- Sam Hirst - Archaeology
+
+
+
+# Abstracts submission
 
 You can submit a 300 word abstract via our [registration website](https://www.aanmelder.nl/vision-and-depiction-2/).
 
@@ -53,9 +62,27 @@ There are some rules for the abstracts to be taken into consideration:
 - You need to be registered as an attendee (check out the [cancellation policy](#cancellation-policy) which takes into account the notification of acceptance date).
 - You can only submit **one** abstract as first author
 
-## Special issue
+# Information for presenters
 
-We have arranged the possibility to publish your work as a full paper in a special issue about the conference in the journal [Art and Perception](https://brill.com/view/journals/artp/artp-overview.xml?language=en). The deadline for this special issue will be _after_ the conference so you can integrate all the insights you gained during the discussions. There are two important rules to take into account:
+## Poster presentation {#posters}
+Posters should be prepaired in A0 (118.8 cm by 84 cm). The _default_ orientation is portrait (i.e. 118.8 cm high and 84 cm wide) but this year we offer the artistic freedom to re-orient your posterbaord by 90 degrees if you feel like a landscape poster does more justice to your presentation. 
+
+We have a good poster printing service at Delft train station, I will put more info about this shortly. 
+
+<!--If you want, you can print your poster in Delft at CSinBKCity, here are the [prices](https://csinbkcity.nl/price-list/?lang=en). In order to do so:
+- Send your poster to info@csinbkcity.nl
+- Let them know that it concerns a "Poster for conference Maarten Wijntjes"
+- Latest ordering date is 6 Februari 18:30. It will be ready the next morning and can be picked up across the train station at adres Westvest 47.-->
+
+
+## Oral presentation
+You can bring your own laptop or a USB. Please check whether everything works during the break before your session. Duration of talks is 12 minutes and then 3 minutes time for questions.
+
+
+
+# Special issue in Art and Perception {#special-issue}
+
+We have arranged the possibility to publish your work as a full paper in a special issue about the conference in the journal [Art and Perception](https://brill.com/view/journals/artp/artp-overview.xml?language=en). The deadline for this special issue will be _after_ the conference (1 May 2026) so you can integrate all the insights you gained during the discussions. There are two important rules to take into account:
 - Only papers of conference contributors will be taken into consideration
 - There will be a new peer review process which is independent of the abstract review process as the full papers are new pieces of scientific work.
 
