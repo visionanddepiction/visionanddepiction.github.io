@@ -74,6 +74,12 @@ We have a good poster printing service at Delft train station, I will put more i
 - Let them know that it concerns a "Poster for conference Maarten Wijntjes"
 - Latest ordering date is 6 Februari 18:30. It will be ready the next morning and can be picked up across the train station at adres Westvest 47.-->
 
+If you want, you can **print your poster in Delft** at CSforStudents (the student website of the Copie-Sjop), here are the [prices](https://csforstudents.nl/price-list/?lang=en). In order to do so:
+- Send your poster to info@csforstudents.nl
+- Let them know that it concerns a "Poster for conference Maarten Wijntjes” and what paper type you would prefer. 
+- _Latest ordering date is 3 Februari 18:30_. It will be ready the next morning and can be picked up across the train station at adres Westvest 47. It is possible to order your poster after the deadline, but then you need to order it in the shop of the Copie-Sjop itself and you won’t have the “student” prices.
+- In the store you can either pay with cash or pay with debit card (no creditcards).
+
 
 ## Oral presentation
 You can bring your own laptop or a USB. Please check whether everything works during the break before your session. Duration of talks is 12 minutes and then 3 minutes time for questions.
