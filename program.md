@@ -76,7 +76,7 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 
 
 ### 14:45 Colour and Light
-- [Jeroen Stumpel](https://www.uu.nl/staff/JFHJStumpel) - **Seurat’s dots and the myth of optical mixing**<!--](abstracts.html#seurats-dots-and-the-myth-of-optical-mixing)-->
+- [Jeroen Stumpel](https://www.uu.nl/staff/JFHJStumpel) - [**Seurat’s dots and the myth of optical mixing**](abstracts.html#seurat)<!--](abstracts.html#seurats-dots-and-the-myth-of-optical-mixing)-->
 - Li Shiwen – [**The colour of iridescent samples at every moment of a bumblebee’s flight**](abstracts.html#the-colour-of-iridescent-samples-at-every-moment-of-a-bumblebees-flight)
 - [Nikola Zmijarević](https://nikolazmijarevic.com/) – [**Gold, Reflection and Glare: The Paintings of Lovro Artuković and The Logic of Paradox in Mimesis**](abstracts.html#artukovic-gold-reflection)
 - [Jiri Filip](https://staff.utia.cas.cz/filip/) – [**Measuring Directional Appearance of Shiny Fabrics Using an Extended Flop Index**](abstracts.html#measuring-directional-appearance-of-shiny-fabrics-using-an-extended-flop-index)

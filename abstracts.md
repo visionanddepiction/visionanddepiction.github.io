@@ -421,3 +421,21 @@ Methods: n=123; rated interest, emotional intensity, and cognitive affect for 60
 Results: Contrary to predictions, semantic distance negatively predicted all aesthetic measures. Insight-confidence independently predicted outcomes more strongly. Visual properties independently predicted aesthetic responses but did not moderate semantic distance effects. Ambiguity tolerance significantly moderated interest only.
 Conclusions: Semantic and visual properties operate independently on aesthetic appreciation. Interest is personality-mediated whilst emotional intensity and cognitive affect operate through trait-invariant mechanisms. Eye-tracking analysis will clarify whether visual exploration patterns are correlated with computational measures of ambiguity.
 
+### Seurat’s dots and the myth of optical mixing {#seurat}
+**Jeroen Stumpel**
+
+_Utrecht Univerity_<br/>
+
+In 1886 Georges Seurat presented his large painting A Sunday Afternoon on the Island of La Grande Jatte at 8th (and last) Impressionist Exhibition.  
+Instead of an impressionistic and fluid painterly touch, the canvas was filled countless stripes and dots.
+The technique came to be called pointillism, although Seurat himself preferred the term divisionism. 
+It is well known that Seurat had studied modern theories of perception and colour, in particular those of the French chemist Michel Eugène Chevreul. 
+
+The use of dots is always related to the idea of optical mixing, implying that Seurat used his miniature dots to blend his colours not on the palette, but on the retina of the viewers. His technique supposedly aimed at additive, rather than subtractive mixture. But I believe this view ignores the actual pictorial problem Seurat dealt with, as well as the particular background of Chevreul’s work. 
+
+Chevreul worked as director for the Gobelins Manufactory in Paris, which had as its main task the production of tapestries, a form of decorative art, and published his  
+views in 1833. 
+One of his main ideas was that there is a fundamental difference between techniques that made use of infinitely fine gradations (such as oil painting), and those that had to work with larger, separate patches of colour, such as fresco, mosaics, embroidery and of course tapestry. 
+Fifty years later, by the time Seurat began to experiment, traditional oil painting with its fine, invisible blending of colours had become suspect. This was part of a new, decorative aesthetic, that held a negative view of the autonomous easel painting, which often relied on refined illusionistic techniques.
+Seurat starting to use his dots not to obtain optical mixture, but to paint in a technique that he considered decorative, in opposition to the illusionistic technique of traditional oil painting.
+Inspired by Chevreul’s ideas on tapestries, he began to paint like a tapestry weaver. Rather than wishing that his viewers would, from a certain distance, optically blend the dots away into more bright and purer colours, he wanted his dots to remain distinct and visible. He even adapted his pictorial subjects to themes that had been advised by Chevreul for decorative work.
