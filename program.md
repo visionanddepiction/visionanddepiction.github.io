@@ -25,7 +25,7 @@
 ### 16:55 Knowing through making
 - [Persijn Broersen and Margit Lukacs](https://www.pmpmpm.com) – [**Novi Mundi, A Journey of Discovery Through Uncharted Human Realms**](abstracts.html#novi-mundi-a-journey-of-discovery-through-uncharted-human-realms)
 - Ilaria Paolucci – [**In the artist's eye: manuals on painting techniques, written by artists for artists as a tool for understanding the creative process**](abstracts.html#in-the-artists-eye-manuals-on-painting-techniques-written-by-artists-for-artists-as-a-tool-for-understanding-the-creative-process)
-- [Dejan Grba](https://dejangrba.org) – [**Study 7/0: Locus Erroneum**](abstracts.html#study-70-locus-erroneum)
+- [Ana Domingues](https://www.artsthread.com/portfolios/what-do-we-see-with-our-eyes-closed--ayahuasca)	 - 	[**Reconstructing the Imagetic Brain: Speculative Design and Visual Image Reconstruction of Closed-Eye Visualisations**](abstracts.html#reconstructing-the-imagetic-brain-speculative-design-and-visual-image-reconstruction-of-closed-eye-visualisations)
 - [Catelijne van Middelkoop](https://www.linkedin.com/in/catelijne-van-middelkoop-8a15aa57/?originalSubdomain=nl) – [**From Seeing to Unseeing: Expanding the Vision and Depiction Framework Through Making**](abstracts.html#from-seeing-to-unseeing-expanding-the-vision-and-depiction-framework-through-making)
 
 ### 18:10 Reception
@@ -53,7 +53,8 @@
 Not your regular poster session: demo's, artworks and, indeed, posters!
 
 
-1.	[Ana Domingues](https://www.artsthread.com/portfolios/what-do-we-see-with-our-eyes-closed--ayahuasca)	 - 	[**Reconstructing the Imagetic Brain: Speculative Design and Visual Image Reconstruction of Closed-Eye Visualisations**](abstracts.html#reconstructing-the-imagetic-brain-speculative-design-and-visual-image-reconstruction-of-closed-eye-visualisations)
+
+1. [Dejan Grba](https://dejangrba.org) – [**Study 7/0: Locus Erroneum**](abstracts.html#study-70-locus-erroneum)
 1.	[Chao-Shan Hsu](https://kunstgeschichte.univie.ac.at/personen/projektmitarbeiterinnen/hsu-chao-shan/), Xingyu Long, Raphael Rosenberg	 - 	[**Cultural Differences in Gaze Patterns over Paintings and Photographs**](abstracts.html#cultural-differences-in-gaze-patterns-over-paintings-and-photographs)
 1.	[Leone Burridge](https://leoneburridge.com)	 - 	[**Illusory Colours in monocular rivalry, new paintings.**](abstracts.html#illusory-colours-in-monocular-rivalry-new-paintings)
 1.	[Eftychia Stamkou](https://www.linkedin.com/in/eftychia-stamkou-79651980/?originalSubdomain=nl), Selina Khan, Matteo Tafuro, Nanne van Noord	 - 	[**The Shape of Gender: How Context Becomes Form in Artistic Representation**](abstracts.html#the-shape-of-gender-how-context-becomes-form-in-artistic-representation)
