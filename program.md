@@ -44,7 +44,7 @@
 
 
 ### 10:35 Keynotes
-- [Joris van Gastel](https://www.khist.uzh.ch/en/institut/staff/privatdozents/gastel.html) - **_Natura Pictorum_: Bruegel’s _Macchia_ and the Ecology of Landscape**<!--](abstracts.html#natura-pictorum-bruegels-macchia-and-the-ecology-of-landscape)-->
+- [Joris van Gastel](https://www.khist.uzh.ch/en/institut/staff/privatdozents/gastel.html) - [**_Natura Pictorum_: Bruegel’s _Macchia_ and the Ecology of Landscape**](abstracts.html#gastel)<!--](abstracts.html#natura-pictorum-bruegels-macchia-and-the-ecology-of-landscape)-->
 - [Jean-Baptiste Maitre](https://jbmaitre.com) and [Dina Danish](https://dinadanish.com) – [**Material Twins, Infrared Strangers: Reconstructing Egyptian Blue in Egypt and the Netherlands**](abstracts.html#material-twins-infrared-strangers-reconstructing-egyptian-blue-in-egypt-and-the-netherlands)
 
 

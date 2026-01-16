@@ -439,3 +439,10 @@ One of his main ideas was that there is a fundamental difference between techniq
 Fifty years later, by the time Seurat began to experiment, traditional oil painting with its fine, invisible blending of colours had become suspect. This was part of a new, decorative aesthetic, that held a negative view of the autonomous easel painting, which often relied on refined illusionistic techniques.
 Seurat starting to use his dots not to obtain optical mixture, but to paint in a technique that he considered decorative, in opposition to the illusionistic technique of traditional oil painting.
 Inspired by Chevreul’s ideas on tapestries, he began to paint like a tapestry weaver. Rather than wishing that his viewers would, from a certain distance, optically blend the dots away into more bright and purer colours, he wanted his dots to remain distinct and visible. He even adapted his pictorial subjects to themes that had been advised by Chevreul for decorative work.
+
+### Natura Pictorum: Bruegel’s Macchia and the Ecology of Landscape {#gastel}
+**Joris van Gastel**
+
+_Universität Leipzig_<br/>
+
+In his seminal yet controversial 1934 essay on Pieter Bruegel the Elder, Austrian art historian Hans Sedlmayr draws a strict distinction between the painter’s depictions of people and nature. Even if these worlds converge in Bruegel’s later works, according to Sedlmayr “the tear itself remains tangible in the picture: in the formal sphere as a hidden dissonance, in the objective sphere as the demotion of the human to the animal or vegetable.” This contribution will examine what remains of this distinction as well as Sedlmayr’s broader formal analysis of Bruegel’s oeuvre when approached not, as Sedlmayr does, from the perspective of the depicted figures, but from the representations of nature. In doing so, the argument builds upon recent ecological approaches in art history, with the aim of closing Sedlmayr’s rift and repositioning the Bruegelian human in the painter’s artistic ecosystem.
