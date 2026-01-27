@@ -79,7 +79,7 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 
 ### 14:45 Colour and Light
 - [Jeroen Stumpel](https://www.uu.nl/staff/JFHJStumpel) - [**Seurat’s dots and the myth of optical mixing**](abstracts.html#seurat)<!--](abstracts.html#seurats-dots-and-the-myth-of-optical-mixing)-->
-- Li Shiwen – [**The colour of iridescent samples at every moment of a bumblebee’s flight**](abstracts.html#the-colour-of-iridescent-samples-at-every-moment-of-a-bumblebees-flight)
+- Shiwen Li – [**The colour of iridescent samples at every moment of a bumblebee’s flight**](abstracts.html#the-colour-of-iridescent-samples-at-every-moment-of-a-bumblebees-flight)
 - [Nikola Zmijarević](https://nikolazmijarevic.com/) – [**Gold, Reflection and Glare: The Paintings of Lovro Artuković and The Logic of Paradox in Mimesis**](abstracts.html#artukovic-gold-reflection)
 - [Beatrice Sartori](https://www.unibo.it/sitoweb/beatrice.sartori6/en) – [**The Softness of Screens: Liquid Visual Culture in Contemporary Displays**](abstracts.html#the-softness-of-screens-liquid-visual-culture-in-contemporary-displays)
 - [Stefanie De Winter](https://www.stefaniedewinter.com) – [**Presenting IRECONA: An Interdisciplinary Method for Appearance-Based Reconstruction of Degraded Color Field Paintings**](abstracts.html#presenting-irecona-an-interdisciplinary-method-for-appearance-based-reconstruction-of-degraded-color-field-paintings)
