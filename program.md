@@ -17,18 +17,19 @@
 
 ### 15:20 Keynote
 - [Antye Guenther](https://aguenth.de) - [**Spilling the Tea Ceremony: On Becoming DATA DIVA**](abstracts.html#spilling-the-tea-ceremony-on-becoming-data-diva)
+- Intermezzo
 
-### 16:40 Break
+### 16:30 Break
 
 
 
-### 16:55 Knowing through making
+### 16:45 Knowing through making
 - [Persijn Broersen and Margit Lukacs](https://www.pmpmpm.com) – [**Novi Mundi, A Journey of Discovery Through Uncharted Human Realms**](abstracts.html#novi-mundi-a-journey-of-discovery-through-uncharted-human-realms)
 - Ilaria Paolucci – [**In the artist's eye: manuals on painting techniques, written by artists for artists as a tool for understanding the creative process**](abstracts.html#in-the-artists-eye-manuals-on-painting-techniques-written-by-artists-for-artists-as-a-tool-for-understanding-the-creative-process)
 - [Ana Domingues](https://www.artsthread.com/portfolios/what-do-we-see-with-our-eyes-closed--ayahuasca)	 - 	[**Reconstructing the Imagetic Brain: Speculative Design and Visual Image Reconstruction of Closed-Eye Visualisations**](abstracts.html#reconstructing-the-imagetic-brain-speculative-design-and-visual-image-reconstruction-of-closed-eye-visualisations)
 - [Catelijne van Middelkoop](https://www.linkedin.com/in/catelijne-van-middelkoop-8a15aa57/?originalSubdomain=nl) – [**From Seeing to Unseeing: Expanding the Vision and Depiction Framework Through Making**](abstracts.html#from-seeing-to-unseeing-expanding-the-vision-and-depiction-framework-through-making)
 
-### 18:10 Reception
+### 18:00 Reception @IDE hall (conference venue)
 
 
 ## Thursday 5 February
@@ -73,6 +74,7 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 1.  [Omer van Soldt](https://studio-rasab.com/about) - **Apparent Motion, Perceived Stillness: The Self at 50Hz**<!--](abstracts.html#apparent-motion-perceived-stillness-the-self-at-50hz)-->
 1. 	[Yannis Michos](https://www.instagram.com/yannis.michos/) - **Aliased Geometries: Towards a nonviolent Trance 1.0**<!--](abstracts.html#aliased-geometries-towards-a-nonviolent-trance-10)-->
 1. 	Yujin Jo - **Connection Justice Map Patterns Knowledge Data Grid Context By-product Absolute exist**<!--](abstracts.html#connection-justice-map-patterns-knowledge-data-grid-context-by-product-absolute-exist)-->
+1. [Anna Miscenà](https://kunstgeschichte.univie.ac.at/en/staff/academic-personnel/miscena-anna/) – [**Style Needs Time: Temporal Dynamics in the Recognition of Stylistic Differences in Painting**](abstracts.html#style-needs-time-temporal-dynamics-in-the-recognition-of-stylistic-differences-in-painting)
 
 
 ### 14:45 Colour and Light
@@ -93,7 +95,7 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 - [Marvin de Jong](https://m-a-r-v-i-n.com/) – [**Controlled Instability: Graphic Design as Embodied Interaction in Real-Time Systems**](abstracts.html#controlled-instability-graphic-design-as-embodied-interaction-in-real-time-systems)
 - Doroteja Ivanec – [**Diego Velázquez: Image within an Image**](abstracts.html#diego-velazquez-image-within-an-image)
 
-### Conference dinner
+### Conference dinner @['t Postkantoor](https://postkantoordelft.nl) [directions](https://maps.app.goo.gl/Hmjk7PwVVazHfpHe9)
 
 ## Friday 6 February
 
@@ -115,7 +117,6 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 
 ### 14:50 Process & (human vs computational) processing
 - [Tomas Vandecasteele](http://www.tomasvandecasteele.com) – [**Making Sense of Meaning-Making: Applying the Predictive Processing Framework to Art Photography**](abstracts.html#making-sense-of-meaning-making-applying-the-predictive-processing-framework-to-art-photography)
-- [Anna Miscenà](https://kunstgeschichte.univie.ac.at/en/staff/academic-personnel/miscena-anna/) – [**Style Needs Time: Temporal Dynamics in the Recognition of Stylistic Differences in Painting**](abstracts.html#style-needs-time-temporal-dynamics-in-the-recognition-of-stylistic-differences-in-painting)
 - [Darío Negueruela del Castillo](https://dvstudies.net/2021/11/17/dario-negueruela-del-castillo/) – [**From Formal Features to Discursive Vision: Distinguishing and Articulating Human and Machine Perception of Art**](abstracts.html#from-formal-features-to-discursive-vision-distinguishing-and-articulating-human-and-machine-perception-of-art)
 - [Karel Kuipers](https://www.universiteitleiden.nl/en/staffmembers/karel-kuipers#tab-1) – [**Technics, Individuation, and the Limits of Categorisation: A Stieglerian Intervention in Palaeolithic Archaeology**](abstracts.html#technics-individuation-and-the-limits-of-categorisation-a-stieglerian-intervention-in-palaeolithic-archaeology)
 - [Ryan Pescatore Frisk](https://www.strangeattractors.com) – [**Interrogating Design as a Cultural Metatool**](abstracts.html#interrogating-design-as-a-cultural-metatool)
