@@ -81,7 +81,7 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 - [Jeroen Stumpel](https://www.uu.nl/staff/JFHJStumpel) - [**Seurat’s dots and the myth of optical mixing**](abstracts.html#seurat)<!--](abstracts.html#seurats-dots-and-the-myth-of-optical-mixing)-->
 - Li Shiwen – [**The colour of iridescent samples at every moment of a bumblebee’s flight**](abstracts.html#the-colour-of-iridescent-samples-at-every-moment-of-a-bumblebees-flight)
 - [Nikola Zmijarević](https://nikolazmijarevic.com/) – [**Gold, Reflection and Glare: The Paintings of Lovro Artuković and The Logic of Paradox in Mimesis**](abstracts.html#artukovic-gold-reflection)
-- [Jiri Filip](https://staff.utia.cas.cz/filip/) – [**Measuring Directional Appearance of Shiny Fabrics Using an Extended Flop Index**](abstracts.html#measuring-directional-appearance-of-shiny-fabrics-using-an-extended-flop-index)
+- [Beatrice Sartori](https://www.unibo.it/sitoweb/beatrice.sartori6/en) – [**The Softness of Screens: Liquid Visual Culture in Contemporary Displays**](abstracts.html#the-softness-of-screens-liquid-visual-culture-in-contemporary-displays)
 - [Stefanie De Winter](https://www.stefaniedewinter.com) – [**Presenting IRECONA: An Interdisciplinary Method for Appearance-Based Reconstruction of Degraded Color Field Paintings**](abstracts.html#presenting-irecona-an-interdisciplinary-method-for-appearance-based-reconstruction-of-degraded-color-field-paintings)
 
 ### 16:15 Coffee
@@ -101,9 +101,9 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 
 ### 9:00 Materials and Materiality
 - [Filipp Schmidt](https://www.allpsych.uni-giessen.de/filipp/) – [**Material perception in context**](abstracts.html#material-perception-in-context)
-- [Beatrice Sartori](https://www.unibo.it/sitoweb/beatrice.sartori6/en) – [**The Softness of Screens: Liquid Visual Culture in Contemporary Displays**](abstracts.html#the-softness-of-screens-liquid-visual-culture-in-contemporary-displays)
 - [Marte Sophie Meessen](https://www.ru.nl/personen/meessen-m) – [**Natural and unnatural representation of gravity in art: an eye-tracking study**](abstracts.html#natural-and-unnatural-representation-of-gravity-in-art-an-eye-tracking-study)
 - Pierre Billaud – [**Material appearance in stylized representations: the case of design sketches**](abstracts.html#material-appearance-in-stylized-representations-the-case-of-design-sketches)
+- [Jiri Filip](https://staff.utia.cas.cz/filip/) – [**Measuring Directional Appearance of Shiny Fabrics Using an Extended Flop Index**](abstracts.html#measuring-directional-appearance-of-shiny-fabrics-using-an-extended-flop-index)
 
 ### 10:15 Coffee
 
