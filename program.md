@@ -95,7 +95,7 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 - [Marvin de Jong](https://m-a-r-v-i-n.com/) – [**Controlled Instability: Graphic Design as Embodied Interaction in Real-Time Systems**](abstracts.html#controlled-instability-graphic-design-as-embodied-interaction-in-real-time-systems)
 - Doroteja Ivanec – [**Diego Velázquez: Image within an Image**](abstracts.html#diego-velazquez-image-within-an-image)
 
-### Conference dinner @['t Postkantoor](https://postkantoordelft.nl) [directions](https://maps.app.goo.gl/Hmjk7PwVVazHfpHe9)
+### Conference dinner @['t Postkantoor](https://postkantoordelft.nl) (directions via [google maps](https://maps.app.goo.gl/Hmjk7PwVVazHfpHe9))
 
 ## Friday 6 February
 
