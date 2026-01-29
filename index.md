@@ -10,7 +10,7 @@ As the conference is approaching, here is an overview of important information (
 - [Information for presenters](#information-for-presenters)
 
 # Live stream
-We will post the live stream here. It is free to watch, but if you feel generous, you can sponsor us by buying a special ticket of €50 on the [registration site](https://www.aanmelder.nl/vision-and-depiction-2/registration).
+We will post the live stream here. It is free to watch, but if you feel generous, you can sponsor us by buying a special ticket of €50 on the [registration site](https://www.aanmelder.nl/vision-and-depiction-2/registration) (it is one of the ticket options).
 
 
 # About
