@@ -115,6 +115,15 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 
 ### 12:50 Workshop
 
+During the workshops we will put Vision and Depiction in practice by examining two vastly different activities: distant viewing and charcoal sketching.
+
+ _Distant viewing_ refers to the large-scale analysis of visual culture through a comparative lens, often employing computational methods to relate visual features to contextual metadata. You will be introduced to some basic techniques for which we will use google colab notebooks. You will need a laptop (preferable with a google account but if you hate big tech we’ll figure something out) and if you happen to have an interesting digital image collection you can use that during the workshop. 
+
+_Charcoal sketching_ obviously refers to sketching with charcoal sticks but more generally refers to a sketching process that is very scale sensitive. The charcoal strokes are relatively massive, you cannot render fine detail, which requires a different way of viewing the object you want to depict. For this workshop you do not need a laptop, moreover you may want to leave your pristinely white clothes in your suitcase ;). 
+
+You do not need to sign-up for the workshops, you will be directed by the organizers to the two studios where it will take place. If you want to use these two hours to network with your attendees that is also absolutely fine.
+
+
 ### 14:50 Process & (human vs computational) processing
 - [Tomas Vandecasteele](http://www.tomasvandecasteele.com) – [**Making Sense of Meaning-Making: Applying the Predictive Processing Framework to Art Photography**](abstracts.html#making-sense-of-meaning-making-applying-the-predictive-processing-framework-to-art-photography)
 - [Darío Negueruela del Castillo](https://dvstudies.net/2021/11/17/dario-negueruela-del-castillo/) – [**From Formal Features to Discursive Vision: Distinguishing and Articulating Human and Machine Perception of Art**](abstracts.html#from-formal-features-to-discursive-vision-distinguishing-and-articulating-human-and-machine-perception-of-art)
