@@ -1,15 +1,22 @@
 ![](images/V_et_D_2_small.jpeg)
 
-
-Vision and Depiction celebrates _form_ as interface between art and science. It is a conference about how to depict form, and how form is perceived. But it is also a conference about the many connections that form has with the content and context of pictures. Moreover, it is a conference about the interaction between the physical medium, and the mental presentations it gives rise to, i.e. about the relation between medium and motif.
-
-
-# Contents
+# Quick
 As the conference is approaching, here is an overview of important information (link to program can be found on top):
+- [Live stream]{#live-stream}
 - [Registration](#registration)
 - [Venue & transport](#venue)
 - [Special Issue](#special-issue)
 - [Information for presenters](#information-for-presenters)
+
+# Live stream
+We will post the live stream here. It is free to watch, but if you feel generous, you can sponsor us by buying a special ticket of €50 on the [registration site](https://www.aanmelder.nl/vision-and-depiction-2/registration).
+
+
+# About
+
+Vision and Depiction celebrates _form_ as interface between art and science. It is a conference about how to depict form, and how form is perceived. But it is also a conference about the many connections that form has with the content and context of pictures. Moreover, it is a conference about the interaction between the physical medium, and the mental presentations it gives rise to, i.e. about the relation between medium and motif.
+
+
 
 
 
