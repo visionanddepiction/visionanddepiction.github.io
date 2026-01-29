@@ -1,8 +1,9 @@
 ![](images/V_et_D_2_small.jpeg)
 
-# Quick
+# Quick links
 As the conference is approaching, here is an overview of important information (link to program can be found on top):
-- [Live stream]{#live-stream}
+
+- [Live stream](#live-stream)
 - [Registration](#registration)
 - [Venue & transport](#venue)
 - [Special Issue](#special-issue)
