@@ -136,3 +136,14 @@ You do not need to sign-up for the workshops, you will be directed by the organi
 - [Roger Gerards](https://www.linkedin.com/in/roger-gerards-a209294/?originalSubdomain=nl) - **Seeing, Feeling and Knowing [Vlisco](https://vlisco.com)**
 
 ### 17:25 - 17:40 Closing
+
+### 18:00 Farewell drinks @[cafe De Gist](https://degist.nl/) (directions via [google maps](https://maps.app.goo.gl/u5E6h3jMJJfgZ3aw7)). This cafe is 400 meters from the train station and also serves food (but you need to order it yourself). 
+
+## Bar suggestions
+If you still feel up to it after the reception or conference dinner, here are three places we personally like:
+- [Cafe de Wijnhaven](https://maps.app.goo.gl/j622aVYhWYWR8b6z7)
+- [Bierhuis De Klomp](https://maps.app.goo.gl/gT9FFs7u9JBkAMKy5) 
+- [Cafe Tango](https://maps.app.goo.gl/TjP9HCVMXrTGUQ8K9)
+
+
+

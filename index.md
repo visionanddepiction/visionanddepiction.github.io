@@ -139,6 +139,8 @@ For transportation planning you can best use the website or app of the national 
 
 ![venue](images/ide.jpg)
 
+
+
 # History
 
 After two conferences called The Skin of Things [2018](https://theskinofthings.github.io) and [2021](https://theskinofthings2021.github.io) that focussed on the depiction and perception of *material properties*, we decided to broaden the scope and organise he first **Vision and Depiction** in 2024. You can check out that first edition: [Vision and Depiction 2024 online program](program2024.html) with a selection of video recordings.
