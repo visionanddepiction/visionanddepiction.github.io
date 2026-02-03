@@ -10,7 +10,10 @@ As the conference is approaching, here is an overview of important information (
 - [Information for presenters](#information-for-presenters)
 
 # Live stream
-We will post the live stream here. It is free to watch, but if you feel generous, you can sponsor us by buying a special ticket of €50 on the [registration site](https://www.aanmelder.nl/vision-and-depiction-2/registration) (it is one of the ticket options).
+
+[Livestream](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii)
+
+It is free to watch, but if you feel generous, you can sponsor us by buying a special ticket of €50 on the [registration site](https://www.aanmelder.nl/vision-and-depiction-2/registration) (it is one of the ticket options).
 
 
 # About
@@ -111,7 +114,7 @@ We have arranged the possibility to publish your work as a full paper in a speci
 
 # Registration
 
-Registration is now open and can be done via [aanmelder.nl](https://www.aanmelder.nl/vision-and-depiction-2/) website. If you also submit an abstract, please mention the title of your abstract in the registration form.
+Registration is now open and can be done via this [website](https://www.aanmelder.nl/vision-and-depiction-2/). If you also submit an abstract, please mention the title of your abstract in the registration form.
 
 Since we hardly have funding we need to ask for a registration fee. This will cover the cost for catering (coffee breaks, lunch & one dinner) and some rental equipment. We are grateful that the faculty of [Industrial Design Engineering](https://www.tudelft.nl/en/ide/) covers the lecture halls, and the [Pictorial Research Lab](https://delftdesignlabs.org/pictorial-research-lab/) covers the invited speakers.
 
