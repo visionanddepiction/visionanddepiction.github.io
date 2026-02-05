@@ -73,9 +73,9 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 1. [Cehao Yu](https://www.linkedin.com/in/cehao-yu-13b16a59/) and [Müge Cavdan](https://www.linkedin.com/in/müge-cavdan-b3357a48) - [**Blue-Induced Temporal Dilation in Art Viewing**](abstracts.html#blue-induced-temporal-dilation-in-art-viewing)
 1.  [Omer van Soldt](https://studio-rasab.com/about) - **Apparent Motion, Perceived Stillness: The Self at 50Hz**<!--](abstracts.html#apparent-motion-perceived-stillness-the-self-at-50hz)-->
 1. 	[Yannis Michos](https://www.instagram.com/yannis.michos/) - **Aliased Geometries: Towards a nonviolent Trance 1.0**<!--](abstracts.html#aliased-geometries-towards-a-nonviolent-trance-10)-->
-1. 	Yujin Jo - **Connection Justice Map Patterns Knowledge Data Grid Context By-product Absolute exist**(abstracts.html#yujin)<!--](abstracts.html#connection-justice-map-patterns-knowledge-data-grid-context-by-product-absolute-exist)-->
+1. 	Yujin Jo - [**Connection Justice Map Patterns Knowledge Data Grid Context By-product Absolute exist**](abstracts.html#yujin)<!--](abstracts.html#connection-justice-map-patterns-knowledge-data-grid-context-by-product-absolute-exist)-->
 1. [Anna Miscenà](https://kunstgeschichte.univie.ac.at/en/staff/academic-personnel/miscena-anna/) – [**Style Needs Time: Temporal Dynamics in the Recognition of Stylistic Differences in Painting**](abstracts.html#style-needs-time-temporal-dynamics-in-the-recognition-of-stylistic-differences-in-painting)
-1. [Nara Lee] - [**Through Kawaii Eyes: Interventions for Revealing Genre Painting Processes for Novice Museum Visitors**](abstracts.html#nara)
+1. Nara Lee - [**Through Kawaii Eyes: Interventions for Revealing Genre Painting Processes for Novice Museum Visitors**](abstracts.html#nara)
 
 ### 14:45 Colour and Light
 - [Jeroen Stumpel](https://www.uu.nl/staff/JFHJStumpel) - [**Seurat’s dots and the myth of optical mixing**](abstracts.html#seurat)<!--](abstracts.html#seurats-dots-and-the-myth-of-optical-mixing)-->
