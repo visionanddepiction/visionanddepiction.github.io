@@ -11,7 +11,7 @@ As the conference is approaching, here is an overview of important information (
 
 # Live stream
 
-[Livestream](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii)
+[Livestream](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii) (Tip: click on the current date!)
 
 It is free to watch, but if you feel generous, you can sponsor us by buying a special ticket of €50 on the [registration site](https://www.aanmelder.nl/vision-and-depiction-2/registration) (it is one of the ticket options).
 
