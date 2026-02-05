@@ -446,3 +446,21 @@ Inspired by Chevreul’s ideas on tapestries, he began to paint like a tapestry 
 _Universität Leipzig_<br/>
 
 In his seminal yet controversial 1934 essay on Pieter Bruegel the Elder, Austrian art historian Hans Sedlmayr draws a strict distinction between the painter’s depictions of people and nature. Even if these worlds converge in Bruegel’s later works, according to Sedlmayr “the tear itself remains tangible in the picture: in the formal sphere as a hidden dissonance, in the objective sphere as the demotion of the human to the animal or vegetable.” This contribution will examine what remains of this distinction as well as Sedlmayr’s broader formal analysis of Bruegel’s oeuvre when approached not, as Sedlmayr does, from the perspective of the depicted figures, but from the representations of nature. In doing so, the argument builds upon recent ecological approaches in art history, with the aim of closing Sedlmayr’s rift and repositioning the Bruegelian human in the painter’s artistic ecosystem.
+
+### Connection Justice Map Patterns Knowledge Data Grid Context By-product Absolute exist
+**Yujin Jo** {#yujin}
+
+I have been working with research from my personal interest (History of Malaria, Political Economy) and geometric patterns inspired by Sudoku. It was all happening on my notebook, one page about research, and the back of that page is patterns. I believe that there is more connection between the two sides in the paper. That is where I am exploring, at the connection between knowledge and knowledge imbalance in society. It inspires me to think about my position as an artist and what art could be? how do I want to treat art? Is selling or buying art the right thing to do? In the first scan, I explain how I think of knowledge, inspired by the parasitic cycle. By removing the paper from the works, I tried to find the connection between the private knowledge(research) and universal knowledge(nature) while seeing through one another.
+Art as a verb; Art is do but not done.
+This experiment is for doing and not aiming to see anything as a by-product. By limiting the possibility of the visible, and tangible outcome(by- product), we art.
+
+
+### Through Kawaii Eyes: Interventions for Revealing Genre Painting Processes for Novice Museum Visitors {#nara}
+
+**Nara Lee**
+
+_Delft University of Technology_
+
+The project explores how a ‘kawaii’ experience can make classical paintings at the Rijksmuseum more accessible and engaging for young adults (aged 18–30). Young visitors, especially those that do not visit museums often, can perceive the experience as passive or even intimidating. It can also be hard
+to truly connect with the artworks despite how beautiful they are. These issues can be addressed by helping young and inexperienced visitors relate to art through an approachable and visually appealing theme: kawaii. Kawaii refers to cute pop culture from Japan. 
+As someone with a love for classical art and kawaii aesthetic, I wanted to bring these two worlds together. Consequently, I imagined a ‘kawaii route’ through the permanent exhibition of the Rijksmuseum. This route would guide visitors through selected classical paintings that are reinterpreted as interactive kawaii paintings. Applying such relatable theme may help the museum broaden its audience. The kawaii route served as the background of my project, which was developed through literature studies and interviews to understand museum experiences and concept of kawaii.
