@@ -123,6 +123,8 @@ _Charcoal sketching_ obviously refers to sketching with charcoal sticks but more
 
 You do not need to sign-up for the workshops, you will be directed by the organizers to the two studios where it will take place. If you want to use these two hours to network with your attendees that is also absolutely fine.
 
+![](images/route.jpg)
+
 
 ### 14:50 Process & (human vs computational) processing
 - [Tomas Vandecasteele](http://www.tomasvandecasteele.com) – [**Making Sense of Meaning-Making: Applying the Predictive Processing Framework to Art Photography**](abstracts.html#making-sense-of-meaning-making-applying-the-predictive-processing-framework-to-art-photography)
