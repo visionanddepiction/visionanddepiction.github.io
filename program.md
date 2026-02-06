@@ -123,6 +123,8 @@ _Charcoal sketching_ obviously refers to sketching with charcoal sticks but more
 
 You do not need to sign-up for the workshops, you will be directed by the organizers to the two studios where it will take place. If you want to use these two hours to network with your attendees that is also absolutely fine.
 
+Here is the route to the studio's:
+
 ![](images/route.jpg)
 
 
