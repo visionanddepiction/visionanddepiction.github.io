@@ -113,7 +113,7 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 
 ### 11:55 Lunch
 
-### 12:50 Workshop
+### 13:00 Workshop
 
 During the workshops we will put Vision and Depiction in practice by examining two vastly different activities: distant viewing and charcoal sketching.
 
