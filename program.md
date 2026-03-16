@@ -17,17 +17,17 @@
 
 ### 15:20 Keynote
 - [Antye Guenther](https://aguenth.de) - [**Spilling the Tea Ceremony: On Becoming DATA DIVA**](abstracts.html#spilling-the-tea-ceremony-on-becoming-data-diva) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/c11cfeefb07d41e882707c100c0666a91d?sortBy=oldest)
-- Intermezzo
+- Intermezzo - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/bdfa62d411cb41fb81775f53994b05641d?sortBy=oldest)
 
 ### 16:30 Break
 
 
 
 ### 16:45 Knowing through making
-- [Persijn Broersen and Margit Lukacs](https://www.pmpmpm.com) – [**Novi Mundi, A Journey of Discovery Through Uncharted Human Realms**](abstracts.html#novi-mundi-a-journey-of-discovery-through-uncharted-human-realms)
-- Ilaria Paolucci – [**In the artist's eye: manuals on painting techniques, written by artists for artists as a tool for understanding the creative process**](abstracts.html#in-the-artists-eye-manuals-on-painting-techniques-written-by-artists-for-artists-as-a-tool-for-understanding-the-creative-process)
-- [Ana Domingues](https://www.artsthread.com/portfolios/what-do-we-see-with-our-eyes-closed--ayahuasca)	 - 	[**Reconstructing the Imagetic Brain: Speculative Design and Visual Image Reconstruction of Closed-Eye Visualisations**](abstracts.html#reconstructing-the-imagetic-brain-speculative-design-and-visual-image-reconstruction-of-closed-eye-visualisations)
-- [Catelijne van Middelkoop](https://www.linkedin.com/in/catelijne-van-middelkoop-8a15aa57/?originalSubdomain=nl) – [**From Seeing to Unseeing: Expanding the Vision and Depiction Framework Through Making**](abstracts.html#from-seeing-to-unseeing-expanding-the-vision-and-depiction-framework-through-making)
+- [Persijn Broersen and Margit Lukacs](https://www.pmpmpm.com) – [**Novi Mundi, A Journey of Discovery Through Uncharted Human Realms**](abstracts.html#novi-mundi-a-journey-of-discovery-through-uncharted-human-realms) [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/64391b4341564092a6991da42e4733a21d?sortBy=oldest)
+- Ilaria Paolucci – [**In the artist's eye: manuals on painting techniques, written by artists for artists as a tool for understanding the creative process**](abstracts.html#in-the-artists-eye-manuals-on-painting-techniques-written-by-artists-for-artists-as-a-tool-for-understanding-the-creative-process)  - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/c07be8f7d11e4d74af2bac15cd47e77b1d?sortBy=oldest)
+- [Ana Domingues](https://www.artsthread.com/portfolios/what-do-we-see-with-our-eyes-closed--ayahuasca)	 - 	[**Reconstructing the Imagetic Brain: Speculative Design and Visual Image Reconstruction of Closed-Eye Visualisations**](abstracts.html#reconstructing-the-imagetic-brain-speculative-design-and-visual-image-reconstruction-of-closed-eye-visualisations) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/d9bfb8cf4e5c4ae69009cdcffd0f43081d?sortBy=oldest)
+- [Catelijne van Middelkoop](https://www.linkedin.com/in/catelijne-van-middelkoop-8a15aa57/?originalSubdomain=nl) – [**From Seeing to Unseeing: Expanding the Vision and Depiction Framework Through Making**](abstracts.html#from-seeing-to-unseeing-expanding-the-vision-and-depiction-framework-through-making) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/d9bfb8cf4e5c4ae69009cdcffd0f43081d?sortBy=oldest)
 
 ### 18:00 Reception @IDE hall (conference venue)
 
