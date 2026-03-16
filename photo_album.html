@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vision and Depiction 2026 – Photography</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg:        #ffffff;
+    --text:      #1a1a1a;
+    --muted:     #555555;
+    --blue:      #0645ad;
+    --blue-dark: #0b3d91;
+    --border:    #d0d0d0;
+    --hover-bg:  #f4f7fc;
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  a { color: var(--blue); text-decoration: none; }
+  a:hover { text-decoration: underline; color: var(--blue-dark); }
+
+  /* ── Header ── */
+  header {
+    padding: 40px 48px 28px;
+    border-bottom: 1px solid var(--border);
+    max-width: 1600px;
+    margin: 0 auto;
+  }
+
+  .site-title {
+    font-size: 13px;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+  }
+
+  h1 {
+    font-size: clamp(24px, 3.5vw, 42px);
+    font-weight: 700;
+    color: var(--text);
+    line-height: 1.15;
+    letter-spacing: -0.01em;
+    margin-bottom: 10px;
+  }
+
+  .header-sub {
+    font-size: 14px;
+    color: var(--muted);
+    margin-top: 6px;
+  }
+
+  .header-sub a {
+    color: var(--blue);
+    font-weight: 500;
+  }
+
+  .header-credit {
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 4px;
+  }
+
+  .header-credit a { color: var(--blue); }
+
+  /* ── Gallery ── */
+  .gallery-wrap {
+    padding: 32px 48px 80px;
+    max-width: 1600px;
+    margin: 0 auto;
+  }
+
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+    gap: 8px;
+  }
+
+  .thumb {
+    display: block;
+    overflow: hidden;
+    cursor: pointer;
+    position: relative;
+    aspect-ratio: 3/2;
+    background: #e8e8e8;
+    border: 1px solid var(--border);
+  }
+
+  .thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.45s cubic-bezier(0.25,0.46,0.45,0.94), opacity 0.3s;
+    opacity: 0.97;
+  }
+
+  .thumb:hover img {
+    transform: scale(1.03);
+    opacity: 1;
+  }
+
+  .thumb-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(6,69,173,0.55) 0%, transparent 55%);
+    opacity: 0;
+    transition: opacity 0.3s;
+    display: flex;
+    align-items: flex-end;
+    padding: 12px 14px;
+  }
+
+  .thumb:hover .thumb-overlay { opacity: 1; }
+
+  .thumb-num {
+    font-size: 11px;
+    letter-spacing: 0.15em;
+    color: rgba(255,255,255,0.85);
+    font-weight: 500;
+  }
+
+  /* ── Lightbox ── */
+  #lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: none;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #lightbox.open { display: flex; }
+
+  #lb-backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(10,10,10,0.96);
+    animation: fadeIn 0.2s ease;
+  }
+
+  @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+  /* Side arrows */
+  .lb-arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 2;
+    background: rgba(255,255,255,0.07);
+    border: 1px solid rgba(255,255,255,0.15);
+    color: rgba(255,255,255,0.75);
+    width: 56px;
+    height: 110px;
+    border-radius: 2px;
+    font-size: 30px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.2s, border-color 0.2s, color 0.2s;
+    user-select: none;
+  }
+
+  .lb-arrow:hover {
+    background: rgba(6,69,173,0.35);
+    border-color: #5b8de4;
+    color: #fff;
+  }
+
+  #lb-prev { left: 20px; }
+  #lb-next { right: 20px; }
+
+  /* Center block */
+  #lb-content {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: calc(100vw - 160px);
+    padding: 52px 0 16px;
+    animation: scaleIn 0.25s cubic-bezier(0.34,1.4,0.64,1);
+  }
+
+  @keyframes scaleIn {
+    from { opacity: 0; transform: scale(0.96); }
+    to   { opacity: 1; transform: scale(1); }
+  }
+
+  #lb-img {
+    max-width: 100%;
+    max-height: calc(100vh - 120px);
+    object-fit: contain;
+    display: block;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.7);
+    transition: opacity 0.2s;
+  }
+
+  #lb-footer {
+    margin-top: 16px;
+  }
+
+  #lb-counter {
+    font-size: 12px;
+    letter-spacing: 0.2em;
+    color: rgba(255,255,255,0.4);
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  #lb-close {
+    position: absolute;
+    top: 14px;
+    right: 0;
+    background: none;
+    border: 1px solid rgba(255,255,255,0.2);
+    color: rgba(255,255,255,0.6);
+    font-size: 11px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    cursor: pointer;
+    padding: 7px 16px;
+    border-radius: 2px;
+    font-family: inherit;
+    transition: color 0.2s, border-color 0.2s;
+  }
+
+  #lb-close:hover { color: #fff; border-color: rgba(255,255,255,0.5); }
+
+  /* ── Footer ── */
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 20px 48px;
+    font-size: 12px;
+    color: var(--muted);
+    max-width: 1600px;
+    margin: 0 auto;
+  }
+
+  footer a { color: var(--blue); }
+
+  /* ── Responsive ── */
+  @media (max-width: 960px) {
+    .gallery-grid { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+  }
+  @media (max-width: 640px) {
+    header, .gallery-wrap, .topnav, footer { padding-left: 16px; padding-right: 16px; }
+    .gallery-grid { grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 5px; }
+    #lb-content { max-width: calc(100vw - 96px); }
+    .lb-arrow { width: 38px; height: 68px; font-size: 20px; }
+    #lb-prev { left: 6px; }
+    #lb-next { right: 6px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="site-title">Vision and Depiction – II &nbsp;·&nbsp; 4–6 February 2026, Delft University of Technology</div>
+  <h1>Photography</h1>
+  <div class="header-credit">
+    Photography by <a href="https://yuguangzhao.com" target="_blank" rel="noopener">Yuguang Zhao</a>
+  </div>
+  <div class="header-sub">
+    <a href="https://visionanddepiction.github.io/">← Back to the conference webpage</a>
+  </div>
+</header>
+
+<div class="gallery-wrap">
+  <div class="gallery-grid" id="gallery"></div>
+</div>
+
+<footer>
+  Photography &copy; <a href="https://yuguangzhao.com" target="_blank" rel="noopener">Yuguang Zhao</a> &nbsp;·&nbsp;
+  <a href="https://visionanddepiction.github.io/">Vision and Depiction 2026</a>
+</footer>
+
+<!-- Lightbox -->
+<div id="lightbox">
+  <div id="lb-backdrop"></div>
+  <button class="lb-arrow" id="lb-prev" title="Previous (←)">&#8249;</button>
+  <button class="lb-arrow" id="lb-next" title="Next (→)">&#8250;</button>
+  <div id="lb-content">
+    <button id="lb-close">&#x2715;&nbsp; Close</button>
+    <img id="lb-img" src="" alt="">
+    <div id="lb-footer">
+      <div id="lb-counter"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+const files = [
+  "_DSC4155-Edit-sRGB.jpg","_DSC4161-Edit-sRGB.jpg","_DSC4164-Edit-sRGB.jpg",
+  "_DSC4175-Edit-sRGB.jpg","_DSC4179-Edit-sRGB.jpg","_DSC4186-Edit-sRGB.jpg",
+  "_DSC4191-Edit-sRGB.jpg","_DSC4197-Edit-sRGB.jpg","_DSC4204-Edit-sRGB.jpg",
+  "_DSC4209-Edit-sRGB.jpg","_DSC4211-Edit-sRGB.jpg","_DSC4220-Edit-sRGB.jpg",
+  "_DSC4224-Edit-sRGB.jpg","_DSC4229-Edit-sRGB.jpg","_DSC4236-Edit-sRGB.jpg",
+  "_DSC4241-Edit-sRGB.jpg","_DSC4247-Edit-sRGB.jpg","_DSC4254-Edit-sRGB.jpg",
+  "_DSC4263-Edit-sRGB.jpg","_DSC4269-Edit-sRGB.jpg","_DSC4275-Edit-sRGB.jpg",
+  "_DSC4279-Edit-sRGB.jpg","_DSC4285-Edit-sRGB.jpg","_DSC4290-Edit-sRGB.jpg",
+  "_DSC4292-Edit-sRGB.jpg","_DSC4298-Edit-sRGB.jpg","_DSC4301-Edit-sRGB.jpg",
+  "_DSC4316-Edit-sRGB.jpg","_DSC4318-Edit-sRGB.jpg","_DSC4320-Edit-sRGB.jpg",
+  "_DSC4323-Edit-sRGB.jpg","_DSC4324-Edit-sRGB.jpg","_DSC4330-Edit-sRGB.jpg",
+  "_DSC4333-Edit-sRGB.jpg","_DSC4337-Edit-sRGB.jpg","_DSC4339-Edit-sRGB.jpg",
+  "_DSC4340-Edit-sRGB.jpg","_DSC4342-Edit-sRGB.jpg","_DSC4352-Edit-sRGB.jpg",
+  "_DSC4359-Edit-sRGB.jpg","_DSC4362-Edit-sRGB.jpg","_DSC4364-Edit-sRGB.jpg",
+  "_DSC4366-Edit-sRGB.jpg","_DSC4369-Edit-sRGB.jpg","_DSC4371-Edit-sRGB.jpg",
+  "_DSC4375-Edit-sRGB.jpg","_DSC4376-Edit-sRGB.jpg","_DSC4377-Edit-sRGB.jpg",
+  "_DSC4379-Edit-sRGB.jpg","_DSC4382-Edit-sRGB.jpg","_DSC4387-Edit-sRGB.jpg",
+  "_DSC4392-Edit-sRGB.jpg","_DSC4394-Edit-sRGB.jpg","_DSC4396-Edit-sRGB.jpg",
+  "_DSC4398-Edit-sRGB.jpg","_DSC4402-Edit-sRGB.jpg","_DSC4405-Edit-sRGB.jpg",
+  "_DSC4409-Edit-sRGB.jpg","_DSC4419-Edit-sRGB.jpg","_DSC4423-Edit-sRGB.jpg",
+  "_DSC4424-Edit-sRGB.jpg","_DSC4426-Edit-sRGB.jpg","_DSC4434-Edit-sRGB.jpg",
+  "_DSC4435-Edit-sRGB.jpg","_DSC4441-Edit-sRGB.jpg","_DSC4442-Edit-sRGB.jpg",
+  "_DSC4456-Edit-sRGB.jpg","_DSC4459-Edit-sRGB.jpg","_DSC4460-Edit-sRGB.jpg",
+  "_DSC4463-Edit-sRGB.jpg","_DSC4467-Edit-sRGB.jpg","_DSC4469-Edit-sRGB.jpg",
+  "_DSC4471-Edit-sRGB.jpg","_DSC4474-Edit-sRGB.jpg","_DSC4477-Edit-sRGB.jpg",
+  "_DSC4483-Edit-sRGB.jpg","_DSC4490-Edit-sRGB.jpg","_DSC4494-Edit-sRGB.jpg",
+  "_DSC4497-Edit-sRGB.jpg","_DSC4506-Edit-sRGB.jpg","_DSC4508-Edit-sRGB.jpg",
+  "_DSC4516-Edit-sRGB.jpg","_DSC4518-Edit-sRGB.jpg","_DSC4525-Edit-sRGB.jpg",
+  "_DSC4528-Edit-sRGB.jpg","_DSC4532-Edit-sRGB.jpg","_DSC4538-Edit-sRGB.jpg",
+  "_DSC4553-Edit-sRGB.jpg","_DSC4558-Edit-sRGB.jpg","_DSC4559-Edit-sRGB.jpg",
+  "_DSC4570-Edit-sRGB.jpg","_DSC4572-Edit-sRGB.jpg","_DSC4574-Edit-sRGB.jpg",
+  "_DSC4578-Edit-sRGB.jpg","_DSC4579-Edit-sRGB.jpg","_DSC4581-Edit-sRGB.jpg",
+  "_DSC4586-Edit-sRGB.jpg","_DSC4594-Edit-sRGB.jpg","_DSC4596-Edit-sRGB.jpg",
+  "_DSC4603-Edit-sRGB.jpg","_DSC4607-Edit-sRGB.jpg","_DSC4609-Edit-sRGB.jpg",
+  "_DSC4610-Edit-sRGB.jpg","_DSC4621-Edit-sRGB.jpg","_DSC4624-Edit-sRGB.jpg",
+  "_DSC4630-Edit-sRGB.jpg","_DSC4636-Edit-sRGB.jpg","_DSC4650-Edit-sRGB.jpg",
+  "_DSC4657-Edit-sRGB.jpg","_DSC4658-Edit-sRGB.jpg","_DSC4665-Edit-sRGB.jpg",
+  "_DSC4667-Edit-sRGB.jpg","_DSC4674-Edit-sRGB.jpg","_DSC4678-Edit-sRGB.jpg",
+  "_DSC4683-Edit-sRGB.jpg","_DSC4687-Edit-sRGB.jpg","_DSC4693-Edit-sRGB.jpg",
+  "_DSC4700-Edit-sRGB.jpg","_DSC4702-Edit-sRGB.jpg","_DSC4706-Edit-sRGB.jpg",
+  "_DSC4712-Edit-sRGB.jpg","_DSC4725-Edit-sRGB.jpg","_DSC4732-Edit-sRGB.jpg",
+  "_DSC4736-Edit-sRGB.jpg","_DSC4747-Edit-sRGB.jpg","_DSC4750-Edit-sRGB.jpg",
+  "_DSC4755-Edit-sRGB.jpg","_DSC4758-Edit-sRGB.jpg","_DSC4775-Edit-sRGB.jpg",
+  "_DSC4797-Edit-sRGB.jpg","_DSC4803-Edit-sRGB.jpg","_DSC4810-Edit-sRGB.jpg",
+  "_DSC4814-Edit-sRGB.jpg","_DSC4819-Edit-sRGB.jpg","_DSC4823-Edit-sRGB.jpg",
+  "_DSC4834-Edit-sRGB.jpg","_DSC4854-Edit-sRGB.jpg","_DSC4871-Edit-sRGB.jpg",
+  "_DSC4874-Edit-sRGB.jpg","_DSC4884-Edit-sRGB.jpg","_DSC4888-Edit-sRGB.jpg",
+  "_DSC4899-Edit-sRGB.jpg","_DSC4907-Edit-sRGB.jpg","_DSC4925-Edit-sRGB.jpg",
+  "_DSC4934-Edit-sRGB.jpg","_DSC4947-Edit-sRGB.jpg","_DSC4952-Edit-sRGB.jpg",
+  "_DSC4972-Edit-sRGB.jpg","_DSC4974-Edit-sRGB.jpg"
+];
+
+const THB  = 'Website_w2400_th/';
+const FULL = 'Website_w2400/';
+
+// Build grid
+const gallery = document.getElementById('gallery');
+files.forEach((f, i) => {
+  const a = document.createElement('a');
+  a.className = 'thumb';
+  a.innerHTML = `
+    <img src="${THB}${f}" alt="Photo ${i+1}" loading="lazy">
+    <div class="thumb-overlay"><span class="thumb-num">${String(i+1).padStart(3,'0')}</span></div>
+  `;
+  a.addEventListener('click', e => { e.preventDefault(); openLightbox(i); });
+  gallery.appendChild(a);
+});
+
+// Lightbox
+let current = 0;
+const lb      = document.getElementById('lightbox');
+const lbImg   = document.getElementById('lb-img');
+const lbCount = document.getElementById('lb-counter');
+
+function openLightbox(idx) {
+  current = idx;
+  showImage();
+  lb.classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeLightbox() {
+  lb.classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+function showImage() {
+  lbImg.style.opacity = 0;
+  lbImg.src = FULL + files[current];
+  lbImg.onload = () => { lbImg.style.opacity = 1; };
+  lbCount.textContent = `${String(current+1).padStart(3,'0')} / ${String(files.length).padStart(3,'0')}`;
+}
+
+function prev() { current = (current - 1 + files.length) % files.length; showImage(); }
+function next() { current = (current + 1) % files.length; showImage(); }
+
+document.getElementById('lb-prev').addEventListener('click', prev);
+document.getElementById('lb-next').addEventListener('click', next);
+document.getElementById('lb-close').addEventListener('click', closeLightbox);
+document.getElementById('lb-backdrop').addEventListener('click', closeLightbox);
+
+document.addEventListener('keydown', e => {
+  if (!lb.classList.contains('open')) return;
+  if (e.key === 'Escape')     closeLightbox();
+  if (e.key === 'ArrowRight') next();
+  if (e.key === 'ArrowLeft')  prev();
+});
+
+let touchX = null;
+lb.addEventListener('touchstart', e => { touchX = e.touches[0].clientX; });
+lb.addEventListener('touchend', e => {
+  if (touchX === null) return;
+  const dx = e.changedTouches[0].clientX - touchX;
+  if (Math.abs(dx) > 50) { dx < 0 ? next() : prev(); }
+  touchX = null;
+});
+</script>
+</body>
+</html>
