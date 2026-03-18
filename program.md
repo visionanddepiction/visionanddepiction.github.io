@@ -31,8 +31,6 @@
 
 ### 18:00 Reception @IDE hall (conference venue)
 
- - [_recording_]()
-
 
 ## Thursday 5 February
 
@@ -89,29 +87,29 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 ### 16:15 Coffee
 
 ### 16:35 Keynote
-- [Eleftheria Pistolas](https://gestaltrevision.be/news/team_members/131/) – [**Inside-out dynamics of art perception through a multi-method lens**](abstracts.html#inside-out-dynamics-of-art-perception-through-a-multi-method-lens)
+- [Eleftheria Pistolas](https://gestaltrevision.be/news/team_members/131/) – [**Inside-out dynamics of art perception through a multi-method lens**](abstracts.html#inside-out-dynamics-of-art-perception-through-a-multi-method-lens) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/5253df849fbb4a919b2d780f1cb741101d?sortBy=oldest)
 
 ### 17:10 - 18:25 Pictorial space and movement
-- [Maarten Coëgnarts](https://www.kuleuven.be/wieiswie/en/person/00133685) – [**How Rhythms Shape Meanings in Cinema: A Videographic Gestalt Approach**](abstracts.html#how-rhythms-shape-meanings-in-cinema-a-videographic-gestalt-approach)
-- [Valentine Bernasconi](https://www.valentinebernasconi.ch) – [**Pictorial forms in movement**](abstracts.html#pictorial-forms-in-movement)
-- [Marvin de Jong](https://m-a-r-v-i-n.com/) – [**Controlled Instability: Graphic Design as Embodied Interaction in Real-Time Systems**](abstracts.html#controlled-instability-graphic-design-as-embodied-interaction-in-real-time-systems)
-- Doroteja Ivanec – [**Diego Velázquez: Image within an Image**](abstracts.html#diego-velazquez-image-within-an-image)
+- [Maarten Coëgnarts](https://www.kuleuven.be/wieiswie/en/person/00133685) – [**How Rhythms Shape Meanings in Cinema: A Videographic Gestalt Approach**](abstracts.html#how-rhythms-shape-meanings-in-cinema-a-videographic-gestalt-approach) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/d2393ea4b1874e6d8c9447f0aab8f2c61d?sortBy=oldest)
+- [Valentine Bernasconi](https://www.valentinebernasconi.ch) – [**Pictorial forms in movement**](abstracts.html#pictorial-forms-in-movement) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/558743f8e3674b7384161ac0e0b97ef01d?sortBy=oldest)
+- [Marvin de Jong](https://m-a-r-v-i-n.com/) – [**Controlled Instability: Graphic Design as Embodied Interaction in Real-Time Systems**](abstracts.html#controlled-instability-graphic-design-as-embodied-interaction-in-real-time-systems) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/c5b6651b0cfb4c8680490b757bc6548e1d?sortBy=oldest)
+- Doroteja Ivanec – [**Diego Velázquez: Image within an Image**](abstracts.html#diego-velazquez-image-within-an-image) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/5a5962c385f5489ea2fec624d82206751d?sortBy=oldest)
 
 ### Conference dinner @['t Postkantoor](https://postkantoordelft.nl) (directions via [google maps](https://maps.app.goo.gl/Hmjk7PwVVazHfpHe9))
 
 ## Friday 6 February
 
 ### 9:00 Materials and Materiality
-- [Filipp Schmidt](https://www.allpsych.uni-giessen.de/filipp/) – [**Material perception in context**](abstracts.html#material-perception-in-context)
+- [Filipp Schmidt](https://www.allpsych.uni-giessen.de/filipp/) – [**Material perception in context**](abstracts.html#material-perception-in-context) 
 - [Marte Sophie Meessen](https://www.ru.nl/personen/meessen-m) – [**Natural and unnatural representation of gravity in art: an eye-tracking study**](abstracts.html#natural-and-unnatural-representation-of-gravity-in-art-an-eye-tracking-study)
-- Pierre Billaud – [**Material appearance in stylized representations: the case of design sketches**](abstracts.html#material-appearance-in-stylized-representations-the-case-of-design-sketches)
-- [Jiri Filip](https://staff.utia.cas.cz/filip/) – [**Measuring Directional Appearance of Shiny Fabrics Using an Extended Flop Index**](abstracts.html#measuring-directional-appearance-of-shiny-fabrics-using-an-extended-flop-index)
+- Pierre Billaud – [**Material appearance in stylized representations: the case of design sketches**](abstracts.html#material-appearance-in-stylized-representations-the-case-of-design-sketches) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/58b2d4f4ea664470a3341d8d2adb65711d?sortBy=oldest)
+- [Jiri Filip](https://staff.utia.cas.cz/filip/) – [**Measuring Directional Appearance of Shiny Fabrics Using an Extended Flop Index**](abstracts.html#measuring-directional-appearance-of-shiny-fabrics-using-an-extended-flop-index) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/df305da1b88d46409bb673f0d784a10b1d?sortBy=oldest)
 
 ### 10:15 Coffee
 
 ### 10:35 Keynote
-- [Pascal Barla](https://www.labri.fr/perso/barla/blog/) – **Specular Flow Structure for Vision and Depiction**<!--](abstracts.html#specular-flow-structure-for-vision-and-depiction)-->
-- Sam Hirst –  **Perception and Ice Age art: applying visual psychology to the study of palaeolithic female figurines**<!--](abstracts.html#perception-and-ice-age-art-applying-visual-psychology-to-the-study-of-palaeolithic-female-figurines)-->
+- [Pascal Barla](https://www.labri.fr/perso/barla/blog/) – **Specular Flow Structure for Vision and Depiction**  - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/df38d6173986420cbe09fa90d202df141d?sortBy=oldest)
+- Sam Hirst –  **Perception and Ice Age art: applying visual psychology to the study of palaeolithic female figurines**  - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/214ef334d02048a4933d5cfaefb0e8041d?sortBy=oldest)
 
 ### 11:55 Lunch
 
@@ -131,15 +129,15 @@ Here is the route to the studio's:
 
 
 ### 14:50 Process & (human vs computational) processing
-- [Tomas Vandecasteele](http://www.tomasvandecasteele.com) – [**Making Sense of Meaning-Making: Applying the Predictive Processing Framework to Art Photography**](abstracts.html#making-sense-of-meaning-making-applying-the-predictive-processing-framework-to-art-photography)
+- [Tomas Vandecasteele](http://www.tomasvandecasteele.com) – [**Making Sense of Meaning-Making: Applying the Predictive Processing Framework to Art Photography**](abstracts.html#making-sense-of-meaning-making-applying-the-predictive-processing-framework-to-art-photography) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/f3e0f9503b6849a0b72f68d3f4d79f751d?sortBy=oldest)
 - [Darío Negueruela del Castillo](https://dvstudies.net/2021/11/17/dario-negueruela-del-castillo/) – [**From Formal Features to Discursive Vision: Distinguishing and Articulating Human and Machine Perception of Art**](abstracts.html#from-formal-features-to-discursive-vision-distinguishing-and-articulating-human-and-machine-perception-of-art)
-- [Karel Kuipers](https://www.universiteitleiden.nl/en/staffmembers/karel-kuipers#tab-1) – [**Technics, Individuation, and the Limits of Categorisation: A Stieglerian Intervention in Palaeolithic Archaeology**](abstracts.html#technics-individuation-and-the-limits-of-categorisation-a-stieglerian-intervention-in-palaeolithic-archaeology)
-- [Ryan Pescatore Frisk](https://www.strangeattractors.com) – [**Interrogating Design as a Cultural Metatool**](abstracts.html#interrogating-design-as-a-cultural-metatool)
+- [Karel Kuipers](https://www.universiteitleiden.nl/en/staffmembers/karel-kuipers#tab-1) – [**Technics, Individuation, and the Limits of Categorisation: A Stieglerian Intervention in Palaeolithic Archaeology**](abstracts.html#technics-individuation-and-the-limits-of-categorisation-a-stieglerian-intervention-in-palaeolithic-archaeology) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/d1bc26acdc0e4869aae920d27a27d3201d?sortBy=oldest)
+- [Ryan Pescatore Frisk](https://www.strangeattractors.com) – [**Interrogating Design as a Cultural Metatool**](abstracts.html#interrogating-design-as-a-cultural-metatool) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/26bd626c8e6048fcaa0ace5b0a81ce981d?sortBy=oldest)
 
 ### 16:20 Coffee
 
 ### 16:40 Keynote
-- [Roger Gerards](https://www.linkedin.com/in/roger-gerards-a209294/?originalSubdomain=nl) - **Seeing, Feeling and Knowing [Vlisco](https://vlisco.com)**
+- [Roger Gerards](https://www.linkedin.com/in/roger-gerards-a209294/?originalSubdomain=nl) - **Seeing, Feeling and Knowing [Vlisco](https://vlisco.com)** - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/1f59b2cef1fd491e8c63be1c98286dad1d?sortBy=oldest) 
 
 ### 17:25 - 17:40 Closing
 
