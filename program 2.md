@@ -17,30 +17,28 @@
 
 ### 15:20 Keynote
 - [Antye Guenther](https://aguenth.de) - [**Spilling the Tea Ceremony: On Becoming DATA DIVA**](abstracts.html#spilling-the-tea-ceremony-on-becoming-data-diva) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/c11cfeefb07d41e882707c100c0666a91d?sortBy=oldest)
-- Intermezzo - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/bdfa62d411cb41fb81775f53994b05641d?sortBy=oldest)
+- Intermezzo
 
 ### 16:30 Break
 
 
 
 ### 16:45 Knowing through making
-- [Persijn Broersen and Margit Lukacs](https://www.pmpmpm.com) – [**Novi Mundi, A Journey of Discovery Through Uncharted Human Realms**](abstracts.html#novi-mundi-a-journey-of-discovery-through-uncharted-human-realms) [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/64391b4341564092a6991da42e4733a21d?sortBy=oldest)
-- Ilaria Paolucci – [**In the artist's eye: manuals on painting techniques, written by artists for artists as a tool for understanding the creative process**](abstracts.html#in-the-artists-eye-manuals-on-painting-techniques-written-by-artists-for-artists-as-a-tool-for-understanding-the-creative-process)  - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/c07be8f7d11e4d74af2bac15cd47e77b1d?sortBy=oldest)
-- [Ana Domingues](https://www.artsthread.com/portfolios/what-do-we-see-with-our-eyes-closed--ayahuasca)	 - 	[**Reconstructing the Imagetic Brain: Speculative Design and Visual Image Reconstruction of Closed-Eye Visualisations**](abstracts.html#reconstructing-the-imagetic-brain-speculative-design-and-visual-image-reconstruction-of-closed-eye-visualisations) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/d9bfb8cf4e5c4ae69009cdcffd0f43081d?sortBy=oldest)
-- [Catelijne van Middelkoop](https://www.linkedin.com/in/catelijne-van-middelkoop-8a15aa57/?originalSubdomain=nl) – [**From Seeing to Unseeing: Expanding the Vision and Depiction Framework Through Making**](abstracts.html#from-seeing-to-unseeing-expanding-the-vision-and-depiction-framework-through-making) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/d9bfb8cf4e5c4ae69009cdcffd0f43081d?sortBy=oldest)
+- [Persijn Broersen and Margit Lukacs](https://www.pmpmpm.com) – [**Novi Mundi, A Journey of Discovery Through Uncharted Human Realms**](abstracts.html#novi-mundi-a-journey-of-discovery-through-uncharted-human-realms)
+- Ilaria Paolucci – [**In the artist's eye: manuals on painting techniques, written by artists for artists as a tool for understanding the creative process**](abstracts.html#in-the-artists-eye-manuals-on-painting-techniques-written-by-artists-for-artists-as-a-tool-for-understanding-the-creative-process)
+- [Ana Domingues](https://www.artsthread.com/portfolios/what-do-we-see-with-our-eyes-closed--ayahuasca)	 - 	[**Reconstructing the Imagetic Brain: Speculative Design and Visual Image Reconstruction of Closed-Eye Visualisations**](abstracts.html#reconstructing-the-imagetic-brain-speculative-design-and-visual-image-reconstruction-of-closed-eye-visualisations)
+- [Catelijne van Middelkoop](https://www.linkedin.com/in/catelijne-van-middelkoop-8a15aa57/?originalSubdomain=nl) – [**From Seeing to Unseeing: Expanding the Vision and Depiction Framework Through Making**](abstracts.html#from-seeing-to-unseeing-expanding-the-vision-and-depiction-framework-through-making)
 
 ### 18:00 Reception @IDE hall (conference venue)
-
- - [_recording_]()
 
 
 ## Thursday 5 February
 
 ### 9:00 Medium and Motif
-- [Flip Phillips](https://flipphillips.com) – [**This is not an AI generated title**](abstracts.html#this-is-not-an-ai-generated-title) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/56b554764b424b0b9fa95863745a566b1d?sortBy=oldest)
-- [Piera Riccio](https://www.linkedin.com/in/piera-riccio-96649211a/) – [**Iconography of the Digital Self: From Beauty Filters to AI Portraits**](abstracts.html#iconography-of-the-digital-self-from-beauty-filters-to-ai-portraits) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/94cc059459f244eba09425c8aaab2d901d?sortBy=oldest)
-- [Arthur Crucq](https://www.universiteitleiden.nl/en/staffmembers/arthur-crucq#tab-2) – [**The agency of form and material: from bubble wrap to art**](abstracts.html#the-agency-of-form-and-material-from-bubble-wrap-to-art) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/5fc70a6b883c40569165f85a4f3982191d?sortBy=oldest)
-- [Hanna Brinkmann](https://www.donau-uni.ac.at/en/university/organization/employees/person/4295324511) – [**One Motif, Four Media: What Happens to Art Experience Across Medialities?**](abstracts.html#one-motif-four-media-what-happens-to-art-experience-across-medialities) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/bd137b5d3d474e678c5af871d81d09c31d?sortBy=oldest)
+- [Flip Phillips](https://flipphillips.com) – [**This is not an AI generated title**](abstracts.html#this-is-not-an-ai-generated-title)
+- [Piera Riccio](https://www.linkedin.com/in/piera-riccio-96649211a/) – [**Iconography of the Digital Self: From Beauty Filters to AI Portraits**](abstracts.html#iconography-of-the-digital-self-from-beauty-filters-to-ai-portraits)
+- [Arthur Crucq](https://www.universiteitleiden.nl/en/staffmembers/arthur-crucq#tab-2) – [**The agency of form and material: from bubble wrap to art**](abstracts.html#the-agency-of-form-and-material-from-bubble-wrap-to-art)
+- [Hanna Brinkmann](https://www.donau-uni.ac.at/en/university/organization/employees/person/4295324511) – [**One Motif, Four Media: What Happens to Art Experience Across Medialities?**](abstracts.html#one-motif-four-media-what-happens-to-art-experience-across-medialities)
 
 
 ### 10:15 Coffee
@@ -48,7 +46,7 @@
 
 ### 10:35 Keynotes
 - [Joris van Gastel](https://www.khist.uzh.ch/en/institut/staff/privatdozents/gastel.html) - [**_Natura Pictorum_: Bruegel’s _Macchia_ and the Ecology of Landscape**](abstracts.html#gastel)<!--](abstracts.html#natura-pictorum-bruegels-macchia-and-the-ecology-of-landscape)-->
-- [Jean-Baptiste Maitre](https://jbmaitre.com) and [Dina Danish](https://dinadanish.com) – [**Material Twins, Infrared Strangers: Reconstructing Egyptian Blue in Egypt and the Netherlands**](abstracts.html#material-twins-infrared-strangers-reconstructing-egyptian-blue-in-egypt-and-the-netherlands)  - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/2211dddfd9fc4e17921bb2272d7b2b821d?sortBy=oldest)
+- [Jean-Baptiste Maitre](https://jbmaitre.com) and [Dina Danish](https://dinadanish.com) – [**Material Twins, Infrared Strangers: Reconstructing Egyptian Blue in Egypt and the Netherlands**](abstracts.html#material-twins-infrared-strangers-reconstructing-egyptian-blue-in-egypt-and-the-netherlands)
 
 
 ### 12:05 Posters and lunch
@@ -80,11 +78,11 @@ Not your regular poster session: demo's, artworks and, indeed, posters!
 1. Nara Lee - [**Through Kawaii Eyes: Interventions for Revealing Genre Painting Processes for Novice Museum Visitors**](abstracts.html#nara)
 
 ### 14:45 Colour and Light
-- [Jeroen Stumpel](https://www.uu.nl/staff/JFHJStumpel) - [**Seurat’s dots and the myth of optical mixing**](abstracts.html#seurat) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/0007c6eb7ed240f8b56bfb70e3dd069f1d?sortBy=oldest)
-- Shiwen Li – [**The colour of iridescent samples at every moment of a bumblebee’s flight**](abstracts.html#the-colour-of-iridescent-samples-at-every-moment-of-a-bumblebees-flight) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/ddd3dd4e82634f56a98e3cac89f53c801d?sortBy=oldest)
-- [Nikola Zmijarević](https://nikolazmijarevic.com/) – [**Gold, Reflection and Glare: The Paintings of Lovro Artuković and The Logic of Paradox in Mimesis**](abstracts.html#artukovic-gold-reflection) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/a83436eeb48f4df2b48011833eada0681d?sortBy=oldest)
-- [Beatrice Sartori](https://www.unibo.it/sitoweb/beatrice.sartori6/en) – [**The Softness of Screens: Liquid Visual Culture in Contemporary Displays**](abstracts.html#the-softness-of-screens-liquid-visual-culture-in-contemporary-displays) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/e1f068555dbf4c3cb71e1880c0b53f451d?sortBy=oldest)
-- [Stefanie De Winter](https://www.stefaniedewinter.com) – [**Presenting IRECONA: An Interdisciplinary Method for Appearance-Based Reconstruction of Degraded Color Field Paintings**](abstracts.html#presenting-irecona-an-interdisciplinary-method-for-appearance-based-reconstruction-of-degraded-color-field-paintings) - [_recording_](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/64839a557b224175b4e761b3010aac931d?sortBy=oldest)
+- [Jeroen Stumpel](https://www.uu.nl/staff/JFHJStumpel) - [**Seurat’s dots and the myth of optical mixing**](abstracts.html#seurat)<!--](abstracts.html#seurats-dots-and-the-myth-of-optical-mixing)-->
+- Shiwen Li – [**The colour of iridescent samples at every moment of a bumblebee’s flight**](abstracts.html#the-colour-of-iridescent-samples-at-every-moment-of-a-bumblebees-flight)
+- [Nikola Zmijarević](https://nikolazmijarevic.com/) – [**Gold, Reflection and Glare: The Paintings of Lovro Artuković and The Logic of Paradox in Mimesis**](abstracts.html#artukovic-gold-reflection)
+- [Beatrice Sartori](https://www.unibo.it/sitoweb/beatrice.sartori6/en) – [**The Softness of Screens: Liquid Visual Culture in Contemporary Displays**](abstracts.html#the-softness-of-screens-liquid-visual-culture-in-contemporary-displays)
+- [Stefanie De Winter](https://www.stefaniedewinter.com) – [**Presenting IRECONA: An Interdisciplinary Method for Appearance-Based Reconstruction of Degraded Color Field Paintings**](abstracts.html#presenting-irecona-an-interdisciplinary-method-for-appearance-based-reconstruction-of-degraded-color-field-paintings)
 
 ### 16:15 Coffee
 
