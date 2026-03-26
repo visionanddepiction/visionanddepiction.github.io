@@ -1,13 +1,10 @@
 ![](images/V_et_D_2_small.jpeg)
 
 # Quick links
-As the conference is approaching, here is an overview of important information (link to program can be found on top):
+Vision and Depiction 2026 took place from 4 to 6 February 2026. There are two ways to relive the experience:
 
-- [Live stream](#live-stream)
-- [Registration](#registration)
-- [Venue & transport](#venue)
-- [Special Issue](#special-issue)
-- [Information for presenters](#information-for-presenters)
+- The [program](program.html) contains the abstract book but also a great number of video recordings.
+- The [photos](https://visionanddepiction.s3.eu-central-1.amazonaws.com/photo_album.html) made by [Yuguang Zhao](https://yuguang-zhao.com) greatly captured the atmosphere.
 
 # Live stream
 
