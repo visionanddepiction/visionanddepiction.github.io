@@ -1,14 +1,16 @@
 ![](images/V_et_D_2_small.jpeg)
 
-# Quick links
+# Intro
 Vision and Depiction 2026 took place from 4 to 6 February 2026. There are two ways to relive the experience:
 
 - The [program](program.html) contains the abstract book but also a great number of video recordings.
 - The [photos](https://visionanddepiction.s3.eu-central-1.amazonaws.com/photo_album.html) made by [Yuguang Zhao](https://yuguang-zhao.com) greatly captured the atmosphere.
 
+Moreover, there is one thing left to do, which is creating the special issue we promised. [Below](#special-issue) you can find the complete call and instructions. The submission window is 1 May 2026 - 1 September 2026. 
+
 # Live stream
 
-_Live stream has finished._
+_Live stream has finished_
 
 
 <!--[Livestream](https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii) (Tip: click on the current date!)
@@ -98,9 +100,20 @@ You can bring your own laptop or a USB. Please check whether everything works du
 
 # Special issue in Art and Perception {#special-issue}
 
-We have arranged the possibility to publish your work as a full paper in a special issue about the conference in the journal [Art and Perception](https://brill.com/view/journals/artp/artp-overview.xml?language=en). The deadline for this special issue will be _after_ the conference (1 May 2026) so you can integrate all the insights you gained during the discussions. There are two important rules to take into account:
+We invite contributors to the Vision and Depiction 2026 conference to submit full papers to a special issue of the journal Art and Perception. This special issue continues the conference\'s mission of celebrating form as the interface between art and science --- exploring how form is depicted, perceived, and connected to the content, context, and medium of pictures.
+
+We welcome contributions from the full breadth of disciplines represented at the conference, including vision science, art history, computer science, digital humanities, archaeology, and the arts, ideally establishing interesting connections between these disciplines, in line with the journal's mission. Papers may address any element of the Vision and Depiction framework: texture, color, light, shape, space, material, and motion, as well as the interplay between medium and motif, and the iconographic or semiotic dimensions of formal elements.
+
+Submission is open to conference contributors only. All papers will undergo a full and independent peer review process. The submission opens 1 May 2026 and closes on 1 September 2026. 
+
+First inform yourself about the general [Instructions for authors](https://brill.com/fileasset/downloads_products/Author_Instructions/ARTP.pdf), where you find information about formatting, reference rules etc. Then create an account at the [Editorial Manager](https://www.editorialmanager.com/artp/default.aspx) (or couple your ORCID, which is recommended if you publish in other journals making use of the editorialmanager.com). The first step is to choose the Article Type, where you can select our special issue. The rest is self explanatory but feel free to contact us with questions. 
+
+Art and Perception is a hybrid journal which means you can either pay the [Article Processing Charge (APC)](https://en.wikipedia.org/wiki/Article_processing_charge) to make your publication Open Access, or publish without paying a fee which means your paper will be open for subscribers of the journals. Quite some universities have an [agreement with Brill](https://brill.com/page/509580?srsltid=AfmBOorHDJCCTGzNzGhzpT1GCwxsRQuv2WFYgxIcVd9k9guCetiOW_Uk), which means the APC will be waived but take care that the corresponding author (does not necessarily has to be the first author) needs to be affiliated with that university. In addition, the editors-in-chief of the journal are negotiating with the publisher to get a reduced APC rate for all contributors and/or a number of fee waivers for a smaller number of submissions. You are allowed to self-archive your publication, i.e. share an unformatted version of your manuscript in your website or university repository. We will also publish these versions on the Vision and Depiction website, like we did in 2020 for the [Skin of Things](https://theskinofthings.github.io/).
+
+
+<!--We have arranged the possibility to publish your work as a full paper in a special issue about the conference in the journal [Art and Perception](https://brill.com/view/journals/artp/artp-overview.xml?language=en). The deadline for this special issue will be _after_ the conference (1 May 2026) so you can integrate all the insights you gained during the discussions. There are two important rules to take into account:
 - Only papers of conference contributors will be taken into consideration
-- There will be a new peer review process which is independent of the abstract review process as the full papers are new pieces of scientific work.
+- There will be a new peer review process which is independent of the abstract review process as the full papers are new pieces of scientific work.-->
 
 
 # Timeline
